@@ -1,0 +1,13 @@
+---
+title:
+- type: main
+  text: derKUEKeN
+creator:
+- role: author
+  text: Urs Zeidler
+description: derKUEKeN das Buch
+rights: Commercial
+language: de-DE
+stylesheet: ebook-template/epub.css
+cover-image: ebook-template/cover.png
+...

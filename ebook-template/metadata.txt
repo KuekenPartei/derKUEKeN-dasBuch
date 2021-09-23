@@ -1,0 +1,19 @@
+---
+title:
+- type: main
+  text: derKUEKeN
+- type: subtitle
+  text: Das Buch
+creator:
+- role: author
+  text: Urs Zeidler
+identifier:
+- scheme: DOI
+  text: doi:10.234234.234/33
+publisher:  My Press
+description: derKUEKeN das Buch
+rights: Commercial
+language: de-DE
+stylesheet: ebook-template/epub.css
+cover-image: ebook-template/cover.png
+...

@@ -3,6 +3,14 @@
 
 Häufig gestellte Fragen. (Frequently Asked Questions)
 
+### Wieso präferiert ihr das Los verfahren?
+
+''Das Losverfahren ist paritätisch, gerecht, schnell und es vermeidet Konkurrenz.'' ([[Satzung#.C2.A7_10_Die_Bundesgesamtkonferenz| &10]] Absatz (1) und (2).) Wir folgen damit unsere Grundbestimmung "Kooperation statt Wettbewerb" und möchten stärker den Gemeinsamen Charakter der Verantwortlichkeiten unterstreichen. In einer Position handelt man nicht alleine immer sind Menschen im Hintergrund beteiligt. Ein Team.
+
+Ein weitere Punkt ist die Redlichkeit, wenn wir uns Fragen wie wir unsere Personal Entscheidungen begründen, sollten wir uns zur intellektuellen Bescheidenheit aufrufen, und nach der [[Kaderschule#Denken_ist_Gl.C3.BCckssache|ist Denken Glücksache]], und so unterscheidet sich das Los nicht wirklich von unserer getroffenen Entscheidung. Scheinbar hat der Mensch nicht besonders viel Glück in den Personalentscheidungen, nur so lässt sich das Personelle Dilemma der gegenwärtigen Politik erklären.
+
+Wir denken das das Konzept des [https://www.buergerrat.de Bürgerrats] ein hervorragendes Korrektiv für die Parlamentarische Demokratie darstellt.
+
 ### Was ist das Familienbild des KUEKeN ?
 
 Das Familienbild des KUEKeN ist einfach, Familie ist da wo Kinder sind.
@@ -12,27 +20,13 @@ spezifischen Art der Förderung bedarf es hier nicht.
 
 ### Was meint ihr mit "radikal trivial"?
 
-Die Welt steht Kopf. Die einfachen Gedanken, wie weltweiter Frieden oder
-ein wirklich nachhaltiger Umgang mit der Umwelt, scheinen abgehoben, ja
-förmlich "abwegiges Sektierertum". So hat der Überschlag des Denkens,
-die Dialektik der Aufklärung die Verhältnisse verzerrt. Die Ideen des
-KUEKeN sind so einfach, dass sie radikal erscheinen.
+Die Welt steht Kopf. Die einfachen Gedanken, wie Weltweiter Frieden oder ein wirklich nachhaltiger Umgang mit der Umwelt, scheinen abgehoben, ja förmlich "abwegiges Sektierertum". So hat der Überschlag des Denkens, die Dialektik der Aufklärung, die Verhältnisse verzerrt. Die Ideen des KUEKeN sind so einfach das sie radikal erscheinen.
 
-"Trivial" bedeutet in erste Linie "einfach". Vielleicht nicht zufällig,
-ist es negativ konnotiert. Der Duden nennt als Synonyme "platt",
-"abgedroschen" sowie auch "geistlos" und gar "hohl.
+"Trivial" bedeutet in erste Linie "einfach", vielleicht nicht zufällig, ist es stark negativ konnotiert, sind synonyme im Duden, wie "hohl", "platt", "geistlos" oder "abgedroschen" aufgeführt.
 
-Latein "trivialis" bedeutet jedoch "allgemein bekannt" oder "jedermann
-zugänglich" vgl. hierzu [Kaderschule: Wieso ist "Ohne Ausnahme" so
-Zentral?](/wiki/Kaderschule#Wieso_ist_"Ohne_Ausnahme"_so_Zentral?.md),
-das Triviale ist also ein Kern der Aufklärung. Das kritische Denken ist
-prinzipiell "jedermann zugänglich".
+Latein "trivialis" bedeutet jedoch "allgemein bekannt" oder "jedermann zugänglich" vgl. hierzu [[Kaderschule#Wieso ist "Ohne Ausnahme" so Zentral?|Kaderschule: Wieso ist "Ohne Ausnahme" so Zentral?]], das triviale ist also ein Kern der Aufklärung. Das kritische Denken ist prinzipiell "jedermann zugänglich".
 
-Dieser Anspruch an die Politik, "jedermann zugänglich" zu sein, kann nur
-ohne Kompromisse, insofern also radikal, gemeint sein. Ist doch auch die
-Politik immer die Angelegenheit der Gemeinschaft, des Gemeinwesens zu
-dem ebenso jedermann zu rechnen ist und das daher auch radikal jedermann
-zugänglich ist.
+Dieser Anspruch an die Politik, "jedermann zugänglich" zu sein, kann nur ohne Kompromisse, radikal ebend, gemeint sein.
 
 ### Instrumentalisiert der KUEKeN nicht die Kinder?
 

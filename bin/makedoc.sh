@@ -1,7 +1,7 @@
 #!/bin/bash
 
 titel="derKUEKeN"
-files=$(find content  -wholename *.md | sort )
+files=$(find content  -wholename "*.md" | sort )
 
 echo "found files: $files"
 

@@ -1,4 +1,6 @@
-Verzeichnis Aufbau
+# der KUEKEn das Buch
+
+## Verzeichnis Aufbau
 
 bin/
 content/
@@ -7,7 +9,7 @@ etc/
 resources/
 sources/
 
-bin:
+## bin:
 
 Start script zum Buch generieren.
 makedoc.sh
@@ -15,25 +17,25 @@ makedoc.sh
 todo: use docker for pandoc to generate deterministic ---> use git for central access and version control
 Frage also: privates git oder github?
 
-content:
+## content:
 
-Der Ordner content enhält die Einzelenen Kapitel die zusammen das Buch ergeben.
+Der Ordner content enthält die Einzelnen Kapitel die zusammen das Buch ergeben.
 In jedem Verzeichnis können unterverzeichnisse sein. 
-Dokumente and Ordner haben einen numerischen prefix XX_ der als Sortierung dient.
+Dokumente and Ordner haben einen numerischen Präfix XX_ der als Sortierung dient.
 Die Dokumente müssen auf md enden und müssen in markdown notiert sein.
 Genauere Beschreibungen zum Aufbau von Kapitel folgen.
 
-xxx-template:
+## xxx-template:
 Dateien für das Meta Data Template.
 
-etc:
+## etc:
 editing stuff, setup elipse, user dictonary, start configurations
 
-resources:
+## resources:
 
 Alle einzubindenden Bilder o.ä.
 
-source:
+## source:
 
 Gesammelte Quellen
 

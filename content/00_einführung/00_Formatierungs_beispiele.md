@@ -23,6 +23,10 @@ und **fett**
 
 Eine zweite Fussnote[^02_02] 
 
+Fuss
+
+Eine dritte Fussnote [^ZENTRAL_02] die im fussnoten Teil definiert ist.
+
 
  This is really ***very*** important text.  
 

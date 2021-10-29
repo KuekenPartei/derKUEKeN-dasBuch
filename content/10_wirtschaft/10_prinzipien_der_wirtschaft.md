@@ -26,7 +26,10 @@ Vertragsfreiheit gibt es nur mit Vertragstreue. Vertragstreue ist eine soziale E
 
 Die Frage des Politischen im Wirtschaften ist eine einfache, und sie wird immer deutlicher, es es die Frage nach der Verteilung der Güter und Dienstleistungen, die wir erfahren und verrichten. Deutlicher wird die Frage mit er einfachen Feststellung das die Verteilung diese Güter und Dienstleistungen immer weiter abnimmt also ein immer größerer Teil der Menschen einen immer kleiner werdenden Anteil an diesen Gütern und Diestleitungen zur Verfügung steht. Oder noch einfacher: Das die Armen immer mehr werden und immer weniger Besitzen.  
 Diese einfache Tendenz ist durch Vilfredo Pareto [^10_10_vp1] das erste mal beschrieben worden, eine Soziale Pyramide in der 80% des Boden von 20% der Bevölkerung in Italien besessen wird. Für Pareto war die Zeitliche Entwicklung nicht ersichtlich. 
-Übersichtlicher wird die Darstellung durch die Lorenz-Kurve [^10_10_lok_1] diese Darstellung der Verteilung pro Menschen ist normiert auf **alles** von **allen**. Diese Kurve passt also wunderbar in das Einheitsquadrat, handlich und wohlproportioniert. Eine vollständige Gleichverteilung von Gütern und Dienstleistungen würde bedeuten, 1% der Menschen besäßen 1% dieser Güter und Dienstleistiungen, 20% besäßen 20%, 90% besäßen 90% usw. bis 100%. Diese Lorenzfunktion wäre eine Gerade Linie durch die Punkte (0,0) und (1,1).  
+Übersichtlicher wird die Darstellung durch die Lorenz-Kurve [^10_10_lok_1] diese Darstellung der Verteilung pro Menschen ist normiert auf **alles** von **allen**. Diese Kurve passt also wunderbar in das Einheitsquadrat, handlich und wohlproportioniert.  
+Eine vollständige Gleichverteilung von Gütern und Dienstleistungen würde bedeuten, 1% der Menschen besäßen 1% dieser Güter und Dienstleistiungen, 20% besäßen 20%, 90% besäßen 90% usw. bis 100%. Diese Lorenzfunktion wäre eine Gerade Linie durch die Punkte (0,0) und (1,1).  
+![gini-0](resources/gini-0.png  "fig:gerahmt") 
+Das Maß an ungleichverteilung wird definiert als das doppelte der Fläche zwischen dieser Geraden und der Lorenzkurve. Der sog. Gini Koeffizent [^10_10_loc_1] er kann Werte zwischen 0 und 1 annehmen. Beschreibt die Lorenzfunktion die Gerade f(x)=x ist die ungleichehit 0. 
 
 Wir werden später sehen: Für die Funktion der Zeitlichen Entwicklung des Gini Koeffizent  gilt G(t)->1 über lange Zeit t. Eine solche Ungleichverteilung von Wert stellt die grundsätzlichen Prinzipien auf denen unser Wirtschafliches Handeln als soziales Konstrukt beruht in Frage.  
 
@@ -50,7 +53,7 @@ Nicht Märkte sondern Ökonomische Macht ist die Objektivität der wir uns unter
 
  
 
-
+[^10_10_loc_1]: https://en.wikipedia.org/wiki/Gini_coefficient
 [^10_10_vp1]: Pareto, Vilfredo, Cours d'Économie Politique: Nouvelle édition par G.-H. Bousquet et G. Busino, Librairie Droz, Geneva, 1964, S. 313–315. archiviertes Originalwerk in Französisch
 
 [^10_10_lok_1]: https://de.wikipedia.org/wiki/Lorenz-Kurve 

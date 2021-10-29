@@ -4,7 +4,7 @@
 
 Kooperative Systeme entstehen in der Natur spontan und durch ihre Begünstigung der kooperativen Teilnehmer sind sie in der Lage über die Zeit zur vorherrschenden Form zu werden.  
 Das Wirtschaften ist eine soziale Eigenschaft des Meschen, es besteht aus verschiedenen Innovationen die zusammenwirken.  
-Zuerst müssen wir Zählen. Dafür braucht es Zahlen. Das Rechnen ist eine vereinfachte neue Form des Zählens. Die Addition ein weiter Zählen, die Multiplikation nur eine vereinfachung der Addition usw.. Zählen ist eine vollzogene Methodik. Diese muss wie alle soziales Konstrukte vermittelt und erlernt werden.  
+Zuerst müssen wir Zählen. Dafür braucht es Zahlen. Das Rechnen ist eine vereinfachte neue Form des Zählens. Die Addition ein weiter Zählen, die Multiplikation nur eine Vereinfachung der Addition usw.. Zählen ist eine vollzogene Methodik. Diese muss wie alle soziales Konstrukte vermittelt und erlernt werden.  
 Diese Innovation ist nicht zu unterschätzen, Zahlen und Zählen ermöglichen den Intersubjekiven Austausch über die Eigenschaften der Wirklichkeit, anders als die quallität von Grün, oder Süß deren subjektiver Inhalt uns gegenseitig verschlossen ist, ist der subjektive Inhalt einer Zahl durch die Methodik erfahrbar.  
 
 
@@ -24,7 +24,12 @@ Vertragsfreiheit gibt es nur mit Vertragstreue. Vertragstreue ist eine soziale E
 
 ## das Politische des Wirtschaftens
 
-Die Frage des Politischen im Wirtschaften ist eine einfache, und sie wird immer deutlicher, es es die Frage nach der Verteilung der Güter und Dienstleistungen, die wir erfahren und verrichten. Deutlicher wird die Frage mit er einfachen Feststellung das die verteilung immer weiter abnimmt. Wir werden später sehen: Für die Funktion des Gini Koeffizent gilt G(t)->1 über lange Zeit t. Eine solche Ungleichverteilung von Wert stellt die grundsätzlichen Prinzipien auf denen unser Wirtschafliches Handeln als soziales Konstrukt beruht in Frage.  
+Die Frage des Politischen im Wirtschaften ist eine einfache, und sie wird immer deutlicher, es es die Frage nach der Verteilung der Güter und Dienstleistungen, die wir erfahren und verrichten. Deutlicher wird die Frage mit er einfachen Feststellung das die Verteilung diese Güter und Dienstleistungen immer weiter abnimmt also ein immer größerer Teil der Menschen einen immer kleiner werdenden Anteil an diesen Gütern und Diestleitungen zur Verfügung steht. Oder noch einfacher: Das die Armen immer mehr werden und immer weniger Besitzen.  
+Diese einfache Tendenz ist durch Vilfredo Pareto [^10_10_vp1] das erste mal beschrieben worden, eine Soziale Pyramide in der 80% des Boden von 20% der Bevölkerung in Italien besessen wird. Für Pareto war die Zeitliche Entwicklung nicht ersichtlich. 
+Übersichtlicher wird die Darstellung durch die Lorenz-Kurve [^10_10_lok_1] diese Darstellung der Verteilung pro Menschen ist normiert auf **alles** von **allen**. Diese Kurve passt also wunderbar in das Einheitsquadrat, handlich und wohlproportioniert. Eine vollständige Gleichverteilung von Gütern und Dienstleistungen würde bedeuten, 1% der Menschen besäßen 1% dieser Güter und Dienstleistiungen, 20% besäßen 20%, 90% besäßen 90% usw. bis 100%. Diese Lorenzfunktion wäre eine Gerade Linie durch die Punkte (0,0) und (1,1).  
+
+Wir werden später sehen: Für die Funktion der Zeitlichen Entwicklung des Gini Koeffizent  gilt G(t)->1 über lange Zeit t. Eine solche Ungleichverteilung von Wert stellt die grundsätzlichen Prinzipien auf denen unser Wirtschafliches Handeln als soziales Konstrukt beruht in Frage.  
+
 
 
 ### die Mechanik des Handelns
@@ -46,3 +51,6 @@ Nicht Märkte sondern Ökonomische Macht ist die Objektivität der wir uns unter
  
 
 
+[^10_10_vp1]: Pareto, Vilfredo, Cours d'Économie Politique: Nouvelle édition par G.-H. Bousquet et G. Busino, Librairie Droz, Geneva, 1964, S. 313–315. archiviertes Originalwerk in Französisch
+
+[^10_10_lok_1]: https://de.wikipedia.org/wiki/Lorenz-Kurve 

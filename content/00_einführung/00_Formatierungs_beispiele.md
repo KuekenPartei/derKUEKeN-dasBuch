@@ -1,6 +1,16 @@
 \pagebreak
 ## Formatierungs Beispiele
 
+Grundsätzlich ist das standart markdown. 
+
+* https://en.wikipedia.org/wiki/Markdown
+* https://markdown.de/
+ 
+Wird aber mit panDoc processed.
+
+
+### einfache formatoerung
+
 **Diese Seite ist nicht teil des Buches** sie dient als Beispiel für Formatierungsangaben.
 
 Ein neues Kapitel sollte einen '\\pagebreak' am Begin enthalten.  
@@ -8,7 +18,7 @@ Ein neues Kapitel sollte einen '\\pagebreak' am Begin enthalten.
 Eine einfacher textzeile wird mit zwei LeerZeichen Markiert.  
 Ein weitere Zeile.  
 
-
+### Fussnoten
 
 Fussnoten brauchen einen eindeutigen Schlüssel[^00_02_01]  
 Am besten gebildet aus den Nummern des Ordners und der Datei und einen Zähler: XX_YY_ZZ  
@@ -28,7 +38,18 @@ Fuss
 Eine dritte Fussnote [^ZENTRAL_02] die im fussnoten Teil definiert ist.
 
 
+Dies ist [ein Beispiel] [id] für einen Referenz-Link.  
+[id]: http://example.com/  "Optionalen Titel hier eintragen"  
+
+
  This is really ***very*** important text.  
+ \pagebreak
+
+Eine neue Seite 
+
+### Zitate
+
+Einfaches Zitat:  
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
@@ -36,10 +57,16 @@ Eine dritte Fussnote [^ZENTRAL_02] die im fussnoten Teil definiert ist.
 
 
 Geschachtelt:  
+
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 >> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
+anderes form:  
+
+`test zitat 1`
+
+### listen und links
 
 Listen:  
 
@@ -48,6 +75,13 @@ Listen:
 1. Item 3
    1. Item 3a
    1. Item 3b
+
+
+Dies ist [ein Beispiel](http://example.com/ "Der Linktitel") für
+einen Inline-Link.
+
+[Dieser Link](http://example.net/) hat kein Titel-Attribut.
+
 
 
 

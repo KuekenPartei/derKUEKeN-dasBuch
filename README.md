@@ -16,6 +16,7 @@ makedoc.sh
 
 todo: use docker for pandoc to generate deterministic ---> use git for central access and version control
 Frage also: privates git oder github?
+Momentan mein Git: ssh://git@urszeidler.de:22222/home/git/repos/derKUEKeN-dasBuch.git
 
 ## content:
 
@@ -25,10 +26,14 @@ Dokumente and Ordner haben einen numerischen Präfix XX_ der als Sortierung dien
 Die Dokumente müssen auf md enden und müssen in markdown notiert sein.
 Genauere Beschreibungen zum Aufbau von Kapitel folgen.
 
+Formatierungs beispiele sind in _content/00_einführung/00_Formatierungs_beispiele.md_ 
+
 ## xxx-template:
-Dateien für das Meta Data Template.
+
+Dateien für das Meta Data Template. Im Augenblick _ebook-template_ und _pdf-template_.
 
 ## etc:
+
 editing stuff, setup elipse, user dictonary, start configurations
 
 ## resources:

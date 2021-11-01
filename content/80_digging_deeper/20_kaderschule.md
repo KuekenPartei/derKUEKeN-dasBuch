@@ -108,21 +108,12 @@ Wir verlieren so nichts was wir vorher besaßen aber gewinnen Bescheidenheit.
 
 ### Die Aufklärung und der Liberalismus
 
-Das Gleichsetzen der Aufklärung mit dem Liberalismus ist eine
-gegenwärtige Denkfigur. Nichts ist weiter von der Wahrheit entfernt. Der
-Liberalismus ist immer schon ein Marktliberalismus, vgl. "Das Reich des
-kleineren Übels" \* und damit immer schon, was wir heute den
-Neoliberalismus nennen. Wie ein Parasit hat er sich in der Aufklärung
-eingenistet und sie ausgehöhlt.
+Das Gleichsetzen der Aufklärung mit dem Liberalismus ist eine gegenwärtige Denkfigur. Nichts ist weiter von der Wahrheit entfernt. Der Liberalismus ist immer schon ein Marktliberalismus, vgl. "Das Reich des kleineren Übels" \*[^80_20_DRk] und damit immer schon, was wir heute den
+Neoliberalismus nennen. Wie ein Parasit hat er sich in der Aufklärung eingenistet und sie ausgehöhlt.  
 
-Übriggeblieben ist die leere Hülle der Freiheit, die sich im Profit und
-im Konsum erschöpft.
+Übriggeblieben ist die leere Hülle der Freiheit, die sich im Profit und im Konsum erschöpft.  
 
-Der Anspruch der Universalität des kritischen Denkens wird eingetauscht
-gegen die Universalität des Marktes, in der alles lebendige
-kommodifiziert und dem Kommerz (der Verkürzung) untergeordnet wird.
-Genau darin liegt die Universalität des Liberalismus, das alles als Ware
-behandelt werden kann und soll.
+Der Anspruch der Universalität des kritischen Denkens wird eingetauscht gegen die Universalität des Marktes, in der alles lebendige kommodifiziert und dem Kommerz (der Verkürzung) untergeordnet wird. Genau darin liegt die Universalität des Liberalismus, das alles als Ware behandelt werden kann und soll.  
 
 \[\*\] Viele würden gern einen &gt;&gt;guten&lt;&lt; politischen und
 kulturellen Liberalismus von einem &gt;&gt;schlechten&lt;&lt;
@@ -139,9 +130,8 @@ liberalen philosophischen Projekt zu verstehen ist, so wie es sich dem
 die seelenlose Welt des zeitgenössischen Kapitalismus die einzige
 historische Gestalt ist, zu der sich die ursprüngliche liberale Doktrin
 konkret entwickeln konnte. Sie ist, mit anderen Worten, der
-*realexistierende Liberalismus*.
-
-....
+*realexistierende Liberalismus*.  
+[^80_20_DRk13]
 
 Was berechtigt einen *liberalen Politiker* zu dem Glauben, dass die
 Menschen von sich aus wünschenswerte Entscheidungen treffen und nicht
@@ -154,11 +144,15 @@ sich* werden kann. Anders gesagt: den Augenblick, in dem der
 Liberalismus entdeckt, dass die einzig ihm noch zu Verfügung stehende
 *konsequente* Option zur Entkräftung der sozialistischen Kritik darin
 besteht, die Auflösung der Aporien des Rechts den *Mechanismen des
-Marktes* zu überantworten.
+Marktes* zu überantworten. [^80_20_DRk45]  
 
-Jean-Claude Michea, Das Reich des kleineren Übels., Matthes & Seitz
-Berlin, 2. Auflage 2017 (Seite 13/14 und 45/46)
 
+[^80_20_DRk]: Jean-Claude Michea, Das Reich des kleineren Übels., Matthes & Seitz
+Berlin,
+[^80_20_DRk13]: Jean-Claude Michea, Das Reich des kleineren Übels., Matthes & Seitz
+Berlin, 2. Auflage 2017 (Seite 13/14)
+[^80_20_DRk45]: Jean-Claude Michea, Das Reich des kleineren Übels., Matthes & Seitz
+Berlin, 2. Auflage 2017 (Seite 45/46)
 
 ###  Vom Wert des Zweckes
 
@@ -175,49 +169,49 @@ Gehen wir also über zu der weniger starken Position, dem Werterelativismus.
 Die Wertrelative Einstellung bestreitet die Absolutheit des Wertes. Sie verlegt den Wert in das Subjektive. Es steht mir frei dieses als das zu erstrebende zu wählen oder jenes, so sind die Dinge/Einstellungen/Gedanken/Gefühle/Positionen abhängig vom Standpunkt. Jede dieses Realitäts-Inseln ragen heraus aus einem Ozean des Nichts. Diese Inseln sind das Genehme, das für unseren Realitätstunnel attraktiv Wahre. Hier wird das Egal zum genehmen: Und jedem das seine. So gibt es in dieser Vorstellung keine gemeinsame Versammlung des Anwesenden.
 Exemplarisch könnte ich sagen: Ich möchte von nun an Süß für Salzig schmecken, und Salzig für süß. Diese Freiheit nehme ich mir. 
 
-Wenn ich die afferenten Nerven meines Geschmackssystems derart tausche das die Neuronen im Nucelus solitarius Süß für Salzig Signalisieren und Salzig für Süß[1], so könnte man annehmen ich hätte eine neue, relative Alternative geschaffen. Ganz nach meinem belieben. Ein valides Ergebnis das die Relativität der Welt und unseres Standpunktes in ihr klarmacht und woraus sich die absolute Freiheit folgern lässt und so die Ungültigkeit eines jeden Wertes, was immer er bedeuten mag.
-Nun esse ich süßes Salz, und wirklich, wie es anklingt, es schmeckt süß das Salz. Jedoch, es ist das selbe Süß, und nichts hat sich verändert. Es zeigt sich hier das Süß eine Eigenschaft meines Gehirns ist und immer schon war und bleibt. Einzig sterben würde ich wahrscheinlich schnell, ist das Salz süß, und bei ~200g letal[2]. 
+Wenn ich die afferenten Nerven meines Geschmackssystems derart tausche das die Neuronen im Nucelus solitarius Süß für Salzig Signalisieren und Salzig für Süß[^80_20_01], so könnte man annehmen ich hätte eine neue, relative Alternative geschaffen. Ganz nach meinem belieben. Ein valides Ergebnis das die Relativität der Welt und unseres Standpunktes in ihr klarmacht und woraus sich die absolute Freiheit folgern lässt und so die Ungültigkeit eines jeden Wertes, was immer er bedeuten mag.
+Nun esse ich süßes Salz, und wirklich, wie es anklingt, es schmeckt süß das Salz. Jedoch, es ist das selbe Süß, und nichts hat sich verändert. Es zeigt sich hier das Süß eine Eigenschaft meines Gehirns ist und immer schon war und bleibt. Einzig sterben würde ich wahrscheinlich schnell, ist das Salz süß, und bei ~200g letal[^80_20_02]. 
 
-Das wir auch salziges mögen liegt an dem osmotischen Gleichgewicht, hier zeigt sich Zweck der angelegt ist in dem Verhältnis wie unser Körper und die Welt wechselwirken. Stoffwechselwirken.[3]  Wie Popper sagt gleichen wir 'gelösten Aufgaben' in dem die Mannigfaltigen Probleme des Stoffwechselns und damit des Überlebens durch zweckhafte Zusammenhänge gelöst sind. UND So kommt die Bedeutung in diese Welt, als Zweck in einem Wirkungszusammenhang[1]. 
+Das wir auch salziges mögen liegt an dem osmotischen Gleichgewicht, hier zeigt sich Zweck der angelegt ist in dem Verhältnis wie unser Körper und die Welt wechselwirken. Stoffwechselwirken.[^80_20_03]  Wie Popper sagt gleichen wir 'gelösten Aufgaben' in dem die Mannigfaltigen Probleme des Stoffwechselns und damit des Überlebens durch zweckhafte Zusammenhänge gelöst sind. UND So kommt die Bedeutung in diese Welt, als Zweck in einem Wirkungszusammenhang.[^hj_155]  
 
-So schmeckt mir Zucker süß, und süß ist ein genehmes Gefühl und gerne nehme ich noch ein wenig, ist er doch die Sonne, die auf die Pflanzen strahlt und im Zucker gebunden wird, die ich brauche, um selbst strahlen zu können. In diesem Wirkungszusammenhängen manifestiert sich die Wirklichkeit. Die gemeinsame Welt als die Versammlung des Anwesenden. 
+So schmeckt mir Zucker süß, und süß ist ein genehmes Gefühl und gerne nehme ich noch ein wenig, ist er doch die Sonne, die auf die Pflanzen strahlt und im Zucker gebunden wird, die ich brauche, um selbst strahlen zu können. In diesem Wirkungszusammenhängen manifestiert sich die Wirklichkeit. Die *gemeinsame Welt* als die *Versammlung des Anwesenden*. 
 
 Es ist die Welt die auf sich selbst wirkt, ist der Stoff aus dem wir gemacht sind "Sternenstaub", doch der Stoff aus dem auch die Welt besteht.
-So sind die Wirkungszusammenhänge und Zwecke in die Wirklichkeit eingeschrieben. Ihnen haftet keine Subjektivität an. In einer gänzlich verschiedenen Sphäre angesiedelt nehmen sie keine Rücksicht auf Subjektive Empfindungen denn das ist nichts was sie vermögen. 
-"Und nun wäre von einer Subjektivität der Natur bestimmt dies zusagen, daß sie nicht partikular und nicht willkürlich ist, und daß sie vor unseren privaten Wünschen und Meinen alle Vorteile des Ganzen vor dem Teilen, des dauernden vor dem Flüchtigen, des Gewaltigen vor dem Winzigen hat."[hj 147]
+So sind die Wirkungszusammenhänge und Zwecke in die Wirklichkeit eingeschrieben. Ihnen haftet keine Subjektivität an. In einer gänzlich verschiedenen Sphäre angesiedelt nehmen sie keine Rücksicht auf Subjektive Empfindungen denn das ist nichts was sie vermögen.  
+"Und nun wäre von einer Subjektivität der Natur bestimmt dies zusagen, daß sie nicht partikular und nicht willkürlich ist, und daß sie vor unseren privaten Wünschen und Meinen alle Vorteile des Ganzen vor dem Teilen, des dauernden vor dem Flüchtigen, des Gewaltigen vor dem Winzigen hat."[^hj_147]  
 
-"[..] wohl aber mit Unterscheidungsvermögen - so, daß beim Antreffen der physisch günstigsten Konfiguration die Kausalität ihre Einladung nicht indifferent gegenübersteht, sonder ihr Vorschub leistet und die dargebotene Öffnung einschließt, um sich dann durch jeweils weitere Gelegenheiten ihr Bett zu Bahnen."[hj 143] 
-
-
-"In jedem Zweck erklärt sich das Sein für sich selbst und gegen das Nichts."[hj 155]
+"[..] wohl aber mit Unterscheidungsvermögen - so, daß beim Antreffen der physisch günstigsten Konfiguration die Kausalität ihre Einladung nicht indifferent gegenübersteht, sonder ihr Vorschub leistet und die dargebotene Öffnung einschließt, um sich dann durch jeweils weitere Gelegenheiten ihr Bett zu Bahnen."[^hj_143]  
 
 
+"In jedem Zweck erklärt sich das Sein für sich selbst und gegen das Nichts."[^hj_155]
 
 
-Fürsorge für den Nachwuchs "Hier ist der Archetype alles verantwortlichen Handelns ...[hj 85]" So ist jeder von uns ein Säugling dessen Bedürftigkeit angenommen und entsprochen, dessen Anspruch auf Leben angenommen und beantwortet wurde.
 
-"[..] das Neugeborene , dessen bloßes Athmen unwiedersprechlich ein Soll an die Umwelt richtet, nämlich sich seiner anzunehemen. [..] Da hier das Sein eines einfachen otischen Daseinden ein Soll für andere immanent und ersichtlich beinhaltet, [...][hj 235]"
 
-Jeder von uns ist damit ein Zeugnis von dieser kraftvollen Verantwortung mit der das Leben seinen Zweck unterstreicht. Gerade auch die Institutionelle Anerkennung dieser Verantwortung in Kinder Klappen, Heimen, Betreuungen zeigt die Universelle Anerkennung dieses Zwecks und dieses Anspruchs auf Dasein. Folglich tritt die Pflicht, als Verantwortung, als antagonistischer Widerpart auf, die wir Erwachsenen übernehmen. Nur wir sind die in die Verantwortung gerufenen. Hans Johnas "Sieh hin und du weißt" können wir als Vorwegnahme des Spiegelneuronen Prinzips verstehen. Wir sind bestens ausgestattet die Bedürftigkeit in anderen zu erkennen, zu reflektieren und sie zu unseren eigenen zu machen. So gelingt es uns, ähnlich wie im Spiel oder dem Ritus, unser Subjekt zu entlasten[frei nach Buyn chun Han] und Teil eines größeren Systems zu sein, in diesem Falle eines "Sorge Systems". Es entsteht ein generativer Vetrag der die Geschichte stiftet in der wir alle eine Heimat finden: Was bleibt sind die bunten Geschichten. 
+Fürsorge für den Nachwuchs "Hier ist der Archetype alles verantwortlichen Handelns ..."[^hj_85] So ist jeder von uns ein Säugling dessen Bedürftigkeit angenommen und entsprochen, dessen Anspruch auf Leben angenommen und beantwortet wurde.  
+
+"[..] das Neugeborene , dessen bloßes Athmen unwiedersprechlich ein Soll an die Umwelt richtet, nämlich sich seiner anzunehemen. [..] Da hier das Sein eines einfachen otischen Daseinden ein Soll für andere immanent und ersichtlich beinhaltet, [...]"[^hj_235]  
+
+Jeder von uns ist damit ein Zeugnis von dieser kraftvollen Verantwortung mit der das Leben seinen Zweck unterstreicht. Gerade auch die Institutionelle Anerkennung dieser Verantwortung in Kinder Klappen, Heimen, Betreuungen zeigt die Universelle Anerkennung dieses Zwecks und dieses Anspruchs auf Dasein. Folglich tritt die Pflicht, als Verantwortung, als antagonistischer Widerpart auf, die wir Erwachsenen übernehmen. Nur wir sind die in die Verantwortung gerufenen. Hans Johnas "Sieh hin und du weißt" können wir als Vorwegnahme des Spiegelneuronen Prinzips verstehen. Wir sind bestens ausgestattet die Bedürftigkeit in anderen zu erkennen, zu reflektieren und sie zu unseren eigenen zu machen. So gelingt es uns, ähnlich wie im Spiel oder dem Ritus, unser Subjekt zu entlasten[frei nach Buyn chun Han] und Teil eines größeren Systems zu sein, in diesem Falle eines "Sorge Systems". Es entsteht ein generativer Vetrag der die Geschichte stiftet in der wir alle eine Heimat finden: Was bleibt sind die bunten Geschichten.  
 
 
 Diese Empfindsamkeit, durch die Reflektion im neuralen Substrat gestiftet, ist vielleicht auch der Quell der Hegelschen Dialektik.
 
-
-
-
-
-
----------------------------
-   
-   
  Nicholas Ryba 
  
-        "Der eigentliche Geschmackssinn ist sehr einfach aufgebaut. Er dient dem simplen Zweck, einem Tier zu erkennen zu geben, welche Nahrung gut und welche schädlich ist. Wahrscheinlich sind deshalb die fünf Geschmacksempfindungen auch so eindeutig verdrahtet und müssen nicht erst erlernt werden."
+[^80_20_01]:  "Der eigentliche Geschmackssinn ist sehr einfach aufgebaut. Er dient dem simplen Zweck, einem Tier zu erkennen zu geben, welche Nahrung gut und welche schädlich ist. Wahrscheinlich sind deshalb die fünf Geschmacksempfindungen auch so eindeutig verdrahtet und müssen nicht erst erlernt werden."
  [1](http://www.deutschlandfunk.de/geschmack-suesses-und-salziges-folgen-getrennten-bahnen.676.de.html?dram:article_id=304418)  
- 
- 
- Hans Jonas [hj 235]
 
+[^80_20_02]: more
+
+[^hj_143]: Hans Jonas: Das Prinzip Verantwortung: Versuch einer Ethik für die technologische Zivilisation. Frankfurt/M. 1979. Neuauflage als Suhrkamp Taschenbuch 1984. ISBN 3-518-39992-6. S.143  
+
+[^hj_155]: Hans Jonas: Das Prinzip Verantwortung: Versuch einer Ethik für die technologische Zivilisation. Frankfurt/M. 1979. Neuauflage als Suhrkamp Taschenbuch 1984. ISBN 3-518-39992-6. S.155  
+
+[^hj_147]: Hans Jonas: Das Prinzip Verantwortung: Versuch einer Ethik für die technologische Zivilisation. Frankfurt/M. 1979. Neuauflage als Suhrkamp Taschenbuch 1984. ISBN 3-518-39992-6. S.147  
+
+[^hj_235]: Hans Jonas: Das Prinzip Verantwortung: Versuch einer Ethik für die technologische Zivilisation. Frankfurt/M. 1979. Neuauflage als Suhrkamp Taschenbuch 1984. ISBN 3-518-39992-6. S.235  
+
+[^hj_85]: Hans Jonas: Das Prinzip Verantwortung: Versuch einer Ethik für die technologische Zivilisation. Frankfurt/M. 1979. Neuauflage als Suhrkamp Taschenbuch 1984. ISBN 3-518-39992-6. S.85  
 
 

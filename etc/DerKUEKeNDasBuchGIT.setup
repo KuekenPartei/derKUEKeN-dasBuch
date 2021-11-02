@@ -168,8 +168,12 @@
         name="org.eclipse.mylyn.wikitext.editors_feature.feature.group"/>
     <requirement
         name="eclipse.spellchecker.feature.feature.group"/>
+    <requirement
+        name="org.eclipse.texlipse.main.feature.group"/>
     <repository
         url="http://opensource.urszeidler.de/updatesites/spellchecker-update-site/"/>
+    <repository
+        url="http://download.eclipse.org/texlipse/2.0.3/"/>
     <description>Install the tools needed in the IDE to work with the source code for ${scope.project.label}</description>
   </setupTask>
   <setupTask

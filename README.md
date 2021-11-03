@@ -26,7 +26,15 @@ Dokumente and Ordner haben einen numerischen Präfix XX_ der als Sortierung dien
 Die Dokumente müssen auf md enden und müssen in markdown notiert sein.
 Genauere Beschreibungen zum Aufbau von Kapitel folgen.
 
-Formatierungs beispiele sind in _content/00_einführung/00_Formatierungs_beispiele.md_ 
+Formatierungs Beispiele sind in _content/00_einführung/00_Formatierungs_beispiele.md_ 
+
+Die Literatur Angaben sind in _contet/literatur.bib_ im https://de.wikipedia.org/wiki/BibTeX Format.  
+Die Einträge können z.B. hier https://www.digibib.net/Digibib gefunden und ergänzt werden.  
+
+Pandoc man: https://pandoc.org/MANUAL.html#citation-syntax
+
+Zitier Styles: https://www.zotero.org/styles
+
 
 ## xxx-template:
 

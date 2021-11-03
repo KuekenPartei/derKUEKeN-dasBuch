@@ -9,7 +9,7 @@ Grundsätzlich ist das standart markdown.
 Wird aber mit panDoc processed.
 
 
-### einfache formatoerung
+### einfache Formatierung
 
 **Diese Seite ist nicht teil des Buches** sie dient als Beispiel für Formatierungsangaben.
 
@@ -17,6 +17,8 @@ Ein neues Kapitel sollte einen '\\pagebreak' am Begin enthalten.
 
 Eine einfacher textzeile wird mit zwei LeerZeichen Markiert.  
 Ein weitere Zeile.  
+
+This is really ***very*** important text.  
 
 ### Fussnoten
 
@@ -37,12 +39,30 @@ Fuss
 
 Eine dritte Fussnote [^ZENTRAL_02] die im fussnoten Teil definiert ist.
 
+### Citation
+
+@Jonas_Das_Prinzip_Verantwortung_2003
+
+test dadadad [@Jonas_Das_Prinzip_Verantwortung_2003] test 
+
+ein weiteres Beispiel: [see @Jonas_Das_Prinzip_Verantwortung_2003, pp. 33-35] mit weieteren stuff.
 
 Dies ist [ein Beispiel] [id] für einen Referenz-Link.  
 [id]: http://example.com/  "Optionalen Titel hier eintragen"  
 
+Here is an inline note.^[Inlines notes are easier to write, since
+you don't have to pick an identifier and move down to type the
+note.]  
 
- This is really ***very*** important text.  
+Hans Jonas [@hj_143]
+
+Blah blah [see @Jonas_Das_Prinzip_Verantwortung_2003, Seite 33-35].
+
+Blah blah ^[see @Jonas_Das_Prinzip_Verantwortung_2003, Seite 33-35] als fussnote.
+
+[@{https://example.com/bib?name=foobar&date=2000}, p. 33].
+
+
  \pagebreak
 
 Eine neue Seite 
@@ -66,6 +86,7 @@ anderes form:
 
 `test zitat 1`
 
+
 ### listen und links
 
 Listen:  
@@ -82,8 +103,53 @@ einen Inline-Link.
 
 [Dieser Link](http://example.net/) hat kein Titel-Attribut.
 
+ \pagebreak
+ 
+### Bilder 
 
 
+Ein langet Text, text ein langer Text.
+ ![gini-example](resources/Gini-Coefficient-pure.png  "Text text in der url")  
+ 
+ How this is rendered depends on the output format. Some output formats (e.g. RTF) do not yet support figures. In those formats, you’ll just get an image in a paragraph by itself, with no caption.
+
+If you just want a regular inline image, just make sure it is not the only thing in the paragraph. One way to do this is to insert a nonbreaking space after the image:
+ 
+ ![Figuren Text und Nummer](resources/Gini-Coefficient-pure.png)
+
+The width and height attributes on images are treated specially. When used without a unit, the unit is assumed to be pixels.
+ ![](resources/Gini-Coefficient-pure.png){ width=20% }
+
+text
+ ![Figuren Text und Nummer]
+
+text
+
+
+
+ and a reference  with attributes. If you just want a regular inline image, just make sure it is not the only thing in the paragraph. One way to do this 
+ ![Figuren Text und Nummer](resources/Gini-Coefficient-pure.png){#id .class} 
+is to insert a nonbreaking space after the image: Attributes can be set on links and images:
+
+
+::::: {#special .sidebar}
+Here is a paragraph.
+
+And another.
+:::::
+
+
+::: Warning ::::::
+This is a warning.
+
+::: Danger
+This is a warning within a warning.
+:::
+::::::::::::::::::
+
+
+
+[Figuren Text und Nummer]: resources/Gini-Coefficient-pure.png
 
 [^00_02_01]: Die Fussnoten werden eigenständig pro Text Datei Gezählt.
 [^02_02]: meine weitere Fussnote

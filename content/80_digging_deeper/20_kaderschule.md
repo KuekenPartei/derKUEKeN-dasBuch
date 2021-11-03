@@ -115,44 +115,10 @@ Neoliberalismus nennen. Wie ein Parasit hat er sich in der Aufklärung eingenist
 
 Der Anspruch der Universalität des kritischen Denkens wird eingetauscht gegen die Universalität des Marktes, in der alles lebendige kommodifiziert und dem Kommerz (der Verkürzung) untergeordnet wird. Genau darin liegt die Universalität des Liberalismus, das alles als Ware behandelt werden kann und soll.  
 
-\[\*\] Viele würden gern einen &gt;&gt;guten&lt;&lt; politischen und
-kulturellen Liberalismus von einem &gt;&gt;schlechten&lt;&lt;
-wirtschaftlichen Liberalismus unterscheiden. Auch die Kritik an
-letzterem müsse differenzieren, je nach dem, ob man es mit dem
-&gt;&gt;richtigen&lt;&lt; Liberalismus, einem &gt;&gt;Neo-&lt;&lt; oder
-&gt;&gt;Ultraliberalismus&lt;&lt; zu tun habe. Die von mir vertretene
-These kann für sich immerhin das Verdienst beanspruchen, die Frage zu
-vereinfachen. In der Tat bin ich der Auffassung, dass die historische
-Bewegung, die die moderne Gesellschaft tiefgreifende Veränderungen
-unterzieht, grundlegend als *logische Erfüllung* (oder als Wahrheit) des
-liberalen philosophischen Projekt zu verstehen ist, so wie es sich dem
-17. Jahrhundert seit der Aufklärung ausgeformt hat. Das bedeutet, dass
-die seelenlose Welt des zeitgenössischen Kapitalismus die einzige
-historische Gestalt ist, zu der sich die ursprüngliche liberale Doktrin
-konkret entwickeln konnte. Sie ist, mit anderen Worten, der
-*realexistierende Liberalismus*.  
-[^80_20_DRk13]
+> Viele würden gern einen \<\<guten>> politischen und kulturellen Liberalismus von einem \<\<schlechten>> wirtschaftlichen Liberalismus unterscheiden. Auch die Kritik an letzterem müsse differenzieren, je nach dem, ob man es mit dem \<\<richtigen>> Liberalismus, einem \<\<Neo->> oder \<\<Ultraliberalismus>> zu tun habe. Die von mir vertretene These kann für sich immerhin das Verdienst beanspruchen, die Frage zu vereinfachen. In der Tat bin ich der Auffassung, dass die historische Bewegung, die die moderne Gesellschaft tiefgreifende Veränderungen unterzieht, grundlegend als *logische Erfüllung* (oder als Wahrheit) des liberalen philosophischen Projekt zu verstehen ist, so wie es sich dem 17. Jahrhundert seit der Aufklärung ausgeformt hat. Das bedeutet, dass die seelenlose Welt des zeitgenössischen Kapitalismus die einzige historische Gestalt ist, zu der sich die ursprüngliche liberale Doktrin konkret entwickeln konnte. Sie ist, mit anderen Worten, der *realexistierende Liberalismus*. [@JCM_DRU_2017 Seite 13-14]  
 
-Was berechtigt einen *liberalen Politiker* zu dem Glauben, dass die
-Menschen von sich aus wünschenswerte Entscheidungen treffen und nicht
-einem egoistischen Verhalten den Vorzug geben, ja zynisch beschließen,
-sich wie ein &gt;&gt;Teufel&lt;&lt; aufzuführen? Bastiats Antwort darauf
-ist einmal mehr exemplarisch: Sie markiert in aller Deutlichkeit den
-(zugleich philosophischen wie historischen) Augenblick, in dem die
-Einheit der liberalen Philosophie *an sich* endlich eine Einheit *für
-sich* werden kann. Anders gesagt: den Augenblick, in dem der
-Liberalismus entdeckt, dass die einzig ihm noch zu Verfügung stehende
-*konsequente* Option zur Entkräftung der sozialistischen Kritik darin
-besteht, die Auflösung der Aporien des Rechts den *Mechanismen des
-Marktes* zu überantworten. [^80_20_DRk45]  
+> Was berechtigt einen *liberalen Politiker* zu dem Glauben, dass die Menschen von sich aus wünschenswerte Entscheidungen treffen und nicht einem egoistischen Verhalten den Vorzug geben, ja zynisch beschließen, sich wie ein <<Teufel>> aufzuführen? Bastiats Antwort darauf ist einmal mehr exemplarisch: Sie markiert in aller Deutlichkeit den (zugleich philosophischen wie historischen) Augenblick, in dem die  Einheit der liberalen Philosophie *an sich* endlich eine Einheit *für sich* werden kann. Anders gesagt: den Augenblick, in dem der Liberalismus entdeckt, dass die einzig ihm noch zu Verfügung stehende *konsequente* Option zur Entkräftung der sozialistischen Kritik darin besteht, die Auflösung der Aporien des Rechts den *Mechanismen des Marktes* zu überantworten.` [@JCM_DRU_2017 Seite 45-46]  
 
-
-[^80_20_DRk]: Jean-Claude Michea, Das Reich des kleineren Übels., Matthes & Seitz
-Berlin,
-[^80_20_DRk13]: Jean-Claude Michea, Das Reich des kleineren Übels., Matthes & Seitz
-Berlin, 2. Auflage 2017 (Seite 13/14)
-[^80_20_DRk45]: Jean-Claude Michea, Das Reich des kleineren Übels., Matthes & Seitz
-Berlin, 2. Auflage 2017 (Seite 45/46)
 
 ###  Vom Wert des Zweckes
 

@@ -115,15 +115,14 @@ Partei ist ein [Labor](/wiki/Partei_als_Labor.md).
 
 `   Ein wahrer Konservativer ist heute jemand, der die Antagonismen und Sarggassen des globalen Kapitalismus vollkommen eingesteht, `  
 `   der den schlichten Progressivismus ablehnt und um die dunkle Kehrseite des Fortschritts weiß. In diesem Sinne kann somit heute `  
-`   nur ein radikaler Linker ein wahrer Konservativer sein.`[^80_10_sz_2018_103]  
-`   `
+`   nur ein radikaler Linker ein wahrer Konservativer sein.`[@ZZ_DMdH_2018 Seite 103]  
 
-[^80_10_sz_2018_103]: Slavoj Žižek, 'Der Mut der Hoffnungslosigkeit', Frankfurt am Main, 2018, S.103
+
 
 Die sogenannten Konservativen sind spätestens seit Franz Josef Strauß
 keine eigentlich Konservativen mehr:
 
-`Konservativ sein heißt, an der Spitze des Fortschritts zu marschieren.`[^80_10_01]  
+`   Konservativ sein heißt, an der Spitze des Fortschritts zu marschieren.`[^80_10_01]  
 
 [^80_10_01]:  'Handbuch Parteienforschung', Oskar Niedermayer (Hrsg.), 2013, S.478
 

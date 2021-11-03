@@ -3,18 +3,37 @@
 titel="derKUEKeN"
 files=$(find content  -wholename "*.md" | sort )
 
+#files=content/00_einführung/00_Formatierungs_beispiele.md
+#default option to run pandoc
+bibFile="content/literatur.bib"
+#cslFile="etc/csl/soziologiemagazin.csl"
+#cslFile="etc/csl/sozialwissenschaften-heilmann.csl"
+cslFile="content/csl/zeitschrift-fur-deutsche-philologie.csl"
+defaultGenOptions="--metadata csl=$cslFile  --bibliography=$bibFile --toc --filter pandoc-citeproc --lua-filter=bin/pagebreak.lua"
+
 echo "found files: $files"
 
 # generate html
 #echo "write: ${titel}.html"
 #pandoc --toc --lua-filter=bin/pagebreak.lua -o ${titel}.html ebook-template/metadata.txt $files
+
 # generate epub
 echo "write: ${titel}.epub"
-pandoc --toc --lua-filter=bin/pagebreak.lua -o ${titel}.epub ebook-template/metadata.txt $files
+#pandoc ${defaultGenOptions} -o ${titel}.epub ebook-template/metadata.txt $files
+
+# generate bib
+#echo "write: ${titel}.bib"
+#pandoc ${defaultGenOptions} -o ${titel}.json -t csljson ebook-template/metadata.txt $files
+
 # generate pdf
 echo "write: ${titel}.pdf"
-pandoc -V papersize:a4 --toc -o ${titel}.pdf $files
+pandoc ${defaultGenOptions} -V papersize:a4 -o ${titel}.pdf $files
+
+# generate json
+#echo "write: ${titel}.json"
+#pandoc ${defaultGenOptions} --toc -o ${titel}.json $files
+
 # generate odt
 #echo "write: ${titel}.odt"
-#pandoc --toc -o ${titel}.odt pdf-template/metadata.txt $files
+#pandoc ${defaultGenOptions} -o ${titel}.odt pdf-template/metadata.txt $files
 

@@ -31,6 +31,7 @@ Formatierungs Beispiele sind in _content/00_einführung/00_Formatierungs_beispie
 Die Literatur Angaben sind in _contet/literatur.bib_ im https://de.wikipedia.org/wiki/BibTeX Format.  
 Die Einträge können z.B. hier https://www.digibib.net/Digibib gefunden und ergänzt werden.  
 
+Die meta definitionen für den pandoc processor: _content/metadata-def.yaml_  
 Pandoc man: https://pandoc.org/MANUAL.html#citation-syntax
 
 Zitier Styles: https://www.zotero.org/styles

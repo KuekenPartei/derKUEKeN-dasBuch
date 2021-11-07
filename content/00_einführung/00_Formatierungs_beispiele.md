@@ -118,7 +118,7 @@ If you just want a regular inline image, just make sure it is not the only thing
  ![Figuren Text und Nummer](resources/Gini-Coefficient-pure.png)
 
 The width and height attributes on images are treated specially. When used without a unit, the unit is assumed to be pixels.
- ![](resources/Gini-Coefficient-pure.png){ width=20% }
+ ![Das selbe bild kleiner](resources/Gini-Coefficient-pure.png){ width=20% }
 
 text
  ![Figuren Text und Nummer]

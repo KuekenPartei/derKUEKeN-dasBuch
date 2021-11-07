@@ -1,4 +1,9 @@
 
+
+\listoffigures
+
+\pagebreak
 # Literaturverzeichnis
 
 \footnotesize
+

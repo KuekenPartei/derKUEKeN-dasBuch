@@ -17,7 +17,7 @@ Organe im Bund
 
 Eine Übersicht über die Organe der Partei und ihr Zusammenspiel.
 
-![gerahmt](resources/Organigram-KUEKeN-Bund.png "fig:gerahmt")  
+![KUEKeN Organigramm](resources/Organigram-KUEKeN-Bund.png)  
 
 ### [Bundesgesamtkonferenz](/wiki/Bundesgesamtkonferenz.md)
 

@@ -9,7 +9,15 @@ bibFile="content/literatur.bib"
 #cslFile="etc/csl/soziologiemagazin.csl"
 #cslFile="etc/csl/sozialwissenschaften-heilmann.csl"
 cslFile="content/csl/zeitschrift-fur-deutsche-philologie.csl"
-defaultGenOptions="--metadata csl=$cslFile  --bibliography=$bibFile --toc --filter pandoc-citeproc --lua-filter=bin/pagebreak.lua"
+
+#default pandoc options
+defaultGenOptions="--metadata csl=$cslFile  \
+--bibliography=$bibFile \
+--toc \
+--metadata-file=content/metadata-def.yaml \
+--filter pandoc-crossref \
+--filter pandoc-citeproc \
+--lua-filter=bin/pagebreak.lua"
 
 echo "found files: $files"
 
@@ -18,7 +26,7 @@ echo "found files: $files"
 #pandoc --toc --lua-filter=bin/pagebreak.lua -o ${titel}.html ebook-template/metadata.txt $files
 
 # generate epub
-echo "write: ${titel}.epub"
+#echo "write: ${titel}.epub"
 #pandoc ${defaultGenOptions} -o ${titel}.epub ebook-template/metadata.txt $files
 
 # generate bib

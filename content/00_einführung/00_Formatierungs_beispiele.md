@@ -109,43 +109,25 @@ einen Inline-Link.
 
 
 Ein langet Text, text ein langer Text.
- ![gini-example](resources/Gini-Coefficient-pure.png  "Text text in der url")  
+
+ ![gini-example](resources/lozenz-de-2002-2007.png  "Text text in der url")  
  
  How this is rendered depends on the output format. Some output formats (e.g. RTF) do not yet support figures. In those formats, you’ll just get an image in a paragraph by itself, with no caption.
 
 If you just want a regular inline image, just make sure it is not the only thing in the paragraph. One way to do this is to insert a nonbreaking space after the image:
+
+ ![Figuren die im Figuren verzeichnis aufgenommen werden](resources/lozenz-de-2002-2007.png)  
  
- ![Figuren Text und Nummer](resources/Gini-Coefficient-pure.png)
-
-The width and height attributes on images are treated specially. When used without a unit, the unit is assumed to be pixels.
- ![Das selbe bild kleiner](resources/Gini-Coefficient-pure.png){ width=20% }
-
-text
- ![Figuren Text und Nummer]
-
-text
-
-
-
+The width and height attributes on images are treated specially. When used without a unit, the unit is assumed to be pixels. 
+![Das selbe bild kleiner](resources/lozenz-de-2002-2007.png){ width=20% } wird das vom text umflossen?
  and a reference  with attributes. If you just want a regular inline image, just make sure it is not the only thing in the paragraph. One way to do this 
- ![Figuren Text und Nummer](resources/Gini-Coefficient-pure.png){#id .class} 
-is to insert a nonbreaking space after the image: Attributes can be set on links and images:
 
 
-::::: {#special .sidebar}
-Here is a paragraph.
+____> 
+ ![ein anderes bild](resources/lozenz-de-2002-2007.png)
+____> 
+ 
 
-And another.
-:::::
-
-
-::: Warning ::::::
-This is a warning.
-
-::: Danger
-This is a warning within a warning.
-:::
-::::::::::::::::::
 
 
 

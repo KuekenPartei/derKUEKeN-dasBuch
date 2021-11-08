@@ -35,7 +35,9 @@ Beschreibt die Lorenzfunktion die Gerade f(x)=x ist die Ungleichheit 0. Mehr Gle
 
 Jede andere Verteilung von Reichtum sorgt für einen Bauch in der Lorenzkurve unterhalb dieser Geraden der Gleicheit.
 
-![Gini Beispiel](resources/Gini-Coefficient-pure.png  "fig:gerahmt")
+![Lozenz Kurve Deutschland 2002](resources/lozenz-de-2002.png )  
+
+![Lozenz Kurve Deutschland 2002-2007](resources/lozenz-de-2002-2007.png )  
 
 Das Maß an ungleichverteilung wird definiert als das doppelte der Fläche zwischen dieser Geraden und der Lorenzkurve. Der sog. Gini Koeffizent [^10_10_loc_1] er kann Werte zwischen 0 und 1 annehmen. 
 

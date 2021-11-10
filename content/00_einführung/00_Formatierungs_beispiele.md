@@ -41,11 +41,11 @@ Eine dritte Fussnote [^ZENTRAL_02] die im fussnoten Teil definiert ist.
 
 ### Citation
 
-@Jonas_Das_Prinzip_Verantwortung_2003
+@DPV_2003
 
-test dadadad [@Jonas_Das_Prinzip_Verantwortung_2003] test 
+test dadadad [@DPV_2003] test 
 
-ein weiteres Beispiel: [see @Jonas_Das_Prinzip_Verantwortung_2003, pp. 33-35] mit weieteren stuff.
+ein weiteres Beispiel: [see @DPV_2003, pp. 33-35] mit weiteren stuff.
 
 Dies ist [ein Beispiel] [id] für einen Referenz-Link.  
 [id]: http://example.com/  "Optionalen Titel hier eintragen"  
@@ -54,11 +54,11 @@ Here is an inline note.^[Inlines notes are easier to write, since
 you don't have to pick an identifier and move down to type the
 note.]  
 
-Hans Jonas [@hj_143]
+Hans Jonas [@DPV_2003 Seite 143]
 
-Blah blah [see @Jonas_Das_Prinzip_Verantwortung_2003, Seite 33-35].
+Blah blah [see @DPV_2003, Seite 33-35].
 
-Blah blah ^[see @Jonas_Das_Prinzip_Verantwortung_2003, Seite 33-35] als fussnote.
+Blah blah ^[see @DPV_2003, Seite 33-35] als fussnote.
 
 [@{https://example.com/bib?name=foobar&date=2000}, p. 33].
 

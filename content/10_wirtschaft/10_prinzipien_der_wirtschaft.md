@@ -7,6 +7,8 @@ Das Wirtschaften ist eine soziale Eigenschaft des Menschen, es besteht aus versc
 Zuerst müssen wir Zählen. Dafür braucht es Zahlen. Das Rechnen ist eine vereinfachte neue Form des Zählens. Die Addition ein weiter Zählen, die Multiplikation nur eine Vereinfachung der Addition usw.. Zählen ist eine vollzogene Methodik. Diese muss wie alle soziales Konstrukte vermittelt und erlernt werden.  
 Diese Innovation ist nicht zu unterschätzen, Zahlen und Zählen ermöglichen den Intersubjekiven Austausch über die Eigenschaften der Wirklichkeit, anders als die Qualität von Grün, oder Süß deren subjektiver Inhalt uns gegenseitig verschlossen ist, ist der subjektive Inhalt einer Zahl durch die Methodik erfahrbar. Wir können Maße vergleichen.  
 
+Das Rechnen führt zur Rechnungsführung, der Buchhaltung. Es gibt Stimmen die sagen jeder große zivilisatorische Fortschritt ist eingeleitet worden durch eine Innovation in der Rechnungsführung. //quelle suchen
+
 
 Der Tausch.
 //TODO: ddd
@@ -50,6 +52,37 @@ Wir werden später sehen: Für die Funktion der Zeitlichen Entwicklung des Gini 
 
 ### die Mechanik des Handelns
 
+Oder, warum konvergiert der Giniquoifizent über die Zeit gegen 1?  
+
+Hier haben wir Klarheit errungen, in den späten 2000 Jahren begannen Physiker näher mit dem Problem der Ungleichverteilungsmechanik zu beschäftigen, Mechaniken werden am besten Mathematisch erfasst.  
+Die Theorietische Basis hierfür dient das sog. Flohmarkt Model des Wertaustausches. (Yard-Sale Model Of Asset Exchange) ^[ https://www.scientificamerican.com/article/is-inequality-inevitable/ November 1, 2019], es reduziert die Wirtschaftlichen Interaktionen der Agenten auf das relevante Maß. In jeder Wirtschaftlichen Interaktion zwischen zwei Akteuren kann es zu genau zwei verschiedenen Ausgängen kommen, die Akture tauschen einen gleichen Wert, z.B. 2 x 5 Noten gegen 1 x 10 Noten, oder ein Teil des Wertes wird von dem einen Akteur zu dem anderen übertragen. der erste Fall ist unrelevant und braucht keiner Beachtung, Quantitativ hat hier keine Veränderung des Zustandes stattgefunden. Im zweiten Falle setzten wir, nicht nur der Einfachheit halber, voraus das die Richtung des Wertflusses beliebig ist, sowie das die Maß des Werttransfers abhängt von dem verfügbaren Vermögen des ärmeren Aktuers. Dieses einfache System ist der numerischen Simulation sehr zugänglich, die erstaunliche Erkenntnis der Simmulationen ist das ein solches System **immer** in einer Olgachie und einem Ginikoeeifezienmten von 1 endet. Auch wenn dir mit einem Giniquo von 0 starten, also allen Akteuren das selbe Maß an Wert zuweisen. Das ist umso erstaunlicher als alle Akture, wie wir uns erinnern, die gleiche Chance auf einen Wertzuwachs haben. Das ist nicht sehr intuitiv, deswegen umso lehrreicher.  
+Wie kann aus einem Totalen Gleichgewicht -gleichverteilung der Changcen und des Vermögens- ein totales Ungleichgewicht entstehen?  
+
+Halten wir die Fakten fest:
+
+Wir haben eine Anzahl N Agenten A, jeder hatte ein Vermögen w, damit ist das Gesamtvermögen N x w und konstant. Jede Transaktion zwischen An und Am transferiert einen Teil des Wertes dwm zwischen An und Am.
+Die stetige Wiederholung ... betrachten wir die Gewinn Erwartung: 
+
+Die Wahrscheinlichkeit einen Gewinn zu erzielen ist 50%, ebenso für einen Verlust. Die Chancen stehen nicht schlecht im einmaligen Spiel. Das alles ändert sich jedoch mit der stetigen Wiederholung. 
+
+Sei der Gewinn 10%, das Vermögen 100, in einem Falle habe ich 110 im anderen 90, der Faktor ist also 1.1 und 0.9. Die Hälfte aller Fälle gewinne ich, die Anderen verliere ich. Betrachten wir zehn Durchgänge: 
+
+1.1^5 x 0.9^5 = 0.95099
+
+dann ist meine Gewinnerwartung unter 1, d.h. ich werde ärmer und es wird nicht besser mit mehr Durchgängen:
+
+1.1^10 x 0.9^10 = 0.90438
+
+Zwei Dinge sind bemerkenswert: 
+
+1. die Gewinnerwartung für jeden ist negativ
+2. das Gesamtvermögen bleibt konstant
+
+Aus 1. folgt naiv das das Vermögen jedes Agenten abnimmt, weil wir jedoch mit 2. bestimmt haben das das Gesamtvermögen gleich bleibt, eine einfache Folge aus der Mechanik des Handelns, was wir A wegnehmen wird B gegeben => A+B=Konstant kann das nicht sein. 
+Betrachten wir den Fall in dem beide Agenten nicht das gleiche Vermögen haben, denn hier wird die Mechanik deutlich, in diesem Falle ist der Verlust für den reicheren ein kleinerer Anteil seines Vermögens. Wenn das Vermögen des reicheren langsamer schrumpft als das des Armen, bedeutet das im Kontext von 2. das das Vermögen des reicheren wächst. Es schrumpft weniger schnell, bzw. das Vermögen des Ärmeren schrumpft schneller damit muss dieses Vermögen vom Ärmeren zum Reicheren wandern. Dies ist ein stetiger Fluss von Arm zu Reich. Das ist die Symetriebrechung dieser Mechanik. 
+Erinnern wir uns: Mit der ersten Transaktion ergibt sich bereits ein Ungleichgewicht.
+
+Damit kann der Reichere öfter verlieren, bzw. 
 
 Das Prinzip des Werttausches im Rahmen des Yard sale Model.
 

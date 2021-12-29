@@ -7,7 +7,7 @@ Eine Gemeinschaft lebt vom Konsens. Worin können wir einen Konsens begründen?
 
 Diese Antwort ist nicht so schwer, wie wir zu meinen glauben, trotz aller Verschiedenheit. Hans Jonas zeigt das Leben **ein** Wert für das leben darstellt. Wir vereinfachen die Argumentation ein wenig, um sie weniger gegeben als deklarativ erscheinen zu lassen. 
 
-Wir bilden eine Menge, der Deklarative Akt. Diese Menge enthält alle Lebendige die das leben Wertschätzen. Allen anderen rufen wir zu: "Save the planet, kill your self". Deklarative Akte fühlen sich oft unfreundlich an. 
+Wir bilden eine Menge, der Deklarative Akt. Diese Menge enthält alle Lebendige die das leben Wertschätzen. Allen anderen rufen wir zu: "Save the planet, kill your self" ^[ Chris Korda - Save The Planet, Kill Yourself, International Deejay Gigolo Records, Gigolo 05, Germany 1997]. Deklarative Akte fühlen sich oft unfreundlich an. 
 
 Nun geschieht folgendes: Die Nörgler verschwinden, wie von selbst. Und das ist nicht einfach so gesagt, als eine Redenswendung. So ist es gemeint, "save the planet, kill your self", von selbst.
 

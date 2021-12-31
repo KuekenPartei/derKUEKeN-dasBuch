@@ -35,7 +35,7 @@ echo "found files: $files"
 
 # generate pdf
 echo "write: ${titel}.pdf"
-pandoc ${defaultGenOptions} -V papersize:a4 -o ${titel}.pdf $files
+pandoc ${defaultGenOptions} -V papersize:a4 -o ${titel}.pdf --pdf-engine=xelatex  $files
 
 # generate json
 #echo "write: ${titel}.json"

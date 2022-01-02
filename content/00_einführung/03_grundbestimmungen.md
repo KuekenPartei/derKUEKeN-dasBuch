@@ -124,3 +124,4 @@ sowie vor staatlicher Willkür.
 Daher ist ein Bekenntnis zu den universellen Menschenrechten ebenso ein
 Bekenntnis zu Rechtsstaatlichkeit und Mitbestimmung.
 
+\pagebreak

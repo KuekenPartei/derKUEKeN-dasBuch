@@ -31,7 +31,7 @@ Nicht Märkte sondern Ökonomische Macht ist die Objektivität der wir uns unter
 Wie sehr diese Herrschaft wirkt und das direkte zusammenleben der Menschen, man muss es vergiften nennen, ist in dem hervorragenden, und zuwenig beachteten, Buch von Bernard Stiegler, ^[@VAT_2008] beschrieben.  
 
 
-#### In der Reklame verbirgt sich die Herrschaft des Systems.
+### In der Reklame verbirgt sich die Herrschaft des Systems.
 
 Reklame funktioniert nicht, hat sie nie, bei niemanden. Egal wen man fragt, einzelnen Menschen angesprochen, versichern glaubhaft, bei ihnen funktioniere Werbung überhaupt nicht. Es liegt auf der Hand, dass dem so ist. Jeder trifft seine eigenen Entscheidungen und er ist frei darin, hat seine Gründe für seine Wahl. 
 Baff steht man vor dem Widerspruch, nach dem Werbung beim Einzelnen nicht funktioniert und gleichzeitig Apple 1 Mrd. für seine IPhone/IPad Kampagne bereit ist zu zahlen^[quelle: https://www.cbsnews.com/news/apples-ad-budget-hits-1-billion/]. Apple ist halt dumm, aber dafür machen sie tolle Produkte. Das muss kein Widerspruch sein, vielleicht eine Inselbegabung. Warum so viel Geld in die Werbung investiert wird, bleibt so gedacht ein Rätsel.

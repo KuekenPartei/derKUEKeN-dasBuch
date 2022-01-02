@@ -1,11 +1,8 @@
-\pagebreak
-
-
 ## das Politische des Wirtschaftens
 
 Die Frage des Politischen im Wirtschaften ist eine einfache, und sie wird immer deutlicher: Es ist die Frage nach der Verteilung der Güter und Dienstleistungen, die wir erfahren und verrichten. Deutlicher wird die Frage mit er einfachen Feststellung das die Verteilung diese Güter und Dienstleistungen immer weiter abnimmt also ein immer größerer Teil der Menschen einen immer kleiner werdenden Anteil an diesen Gütern und Diestleitungen zur Verfügung steht. Oder noch einfacher: Das die Armen immer mehr werden und immer weniger Besitzen.  
-Diese einfache Tendenz ist durch Vilfredo Pareto [^10_10_vp1] das erste mal empirisch untersucht und beschrieben worden, eine Soziale Pyramide in der 80% des Grund und Bodens von 20% der Bevölkerung in Italien besessen wird. Für Pareto war die Zeitliche Entwicklung nicht ersichtlich. 
-Übersichtlicher wird die Darstellung durch die Lorenz-Kurve [^10_10_lok_1] diese Darstellung der Vermögensverteilung pro Menschen ist normiert auf **alles** von **allen**. Diese Kurve passt also wunderbar in das Einheitsquadrat, handlich und wohlproportioniert.  
+Diese einfache Tendenz ist durch Vilfredo Pareto ^[Pareto, Vilfredo, Cours d'Économie Politique: Nouvelle édition par G.-H. Bousquet et G. Busino, Librairie Droz, Geneva, 1964, S. 313–315. archiviertes Originalwerk in Französisch] das erste mal empirisch untersucht und beschrieben worden, eine Soziale Pyramide in der 80% des Grund und Bodens von 20% der Bevölkerung in Italien besessen wird. Für Pareto war die Zeitliche Entwicklung nicht ersichtlich. 
+Übersichtlicher wird die Darstellung durch die Lorenz-Kurve ^[ https://de.wikipedia.org/wiki/Lorenz-Kurve ] diese Darstellung der Vermögensverteilung pro Menschen ist normiert auf **alles** von **allen**. Diese Kurve passt also wunderbar in das Einheitsquadrat, ist handlich und wohlproportioniert.  
 
 Eine vollständige Gleichverteilung von Gütern und Dienstleistungen würde bedeuten, 1% der Menschen besäßen 1% dieser Güter und Dienstleistiungen, 20% besäßen 20%, 90% besäßen 90% usw. bis 100%. Diese Lorenzfunktion wäre eine Gerade Linie durch die Punkte (0,0) und (1,1).  
 Mehr Gleichheit geht nicht. Der absolute elgatismus, in Wirtschaftlicher Hinsicht.  
@@ -19,7 +16,7 @@ Jede andere Verteilung von Reichtum sorgt für einen Bauch in der Lorenzkurve un
 Die Lorenzkurve für Deutschland aus den Jahren 2002 und 2007 ^[vermögensverteilung 2002/2007 nach https://www.diw.de/documents/publikationen/73/93785/09-4-1.pdf Abbildung 1] zeigt den Bauch der Deutschen Gesellschaft.  
 
 Die Lorenzkurve ist also eine Nabelschau, ein Bild, das die Ungleichheit beschreibt, um diese Ungleichheit bewerten zu können müssen wir das Bild reduzieren auf einen Faktor: Dem Ungleichverteilungsmaß. 
-Das Maß an Ungleichverteilung wird definiert als das doppelte der Fläche zwischen der Geraden der Gleichheit und der Lorenzkurve der Vermögemsverteilung. Der sog. Gini Koeffizent [^10_10_loc_1] er kann Werte zwischen 0 und 1 annehmen. 
+Das Maß an Ungleichverteilung wird definiert als das doppelte der Fläche zwischen der Geraden der Gleichheit und der Lorenzkurve der Vermögemsverteilung. Der sog. Gini Koeffizent ^[https://en.wikipedia.org/wiki/Gini_coefficient] er kann Werte zwischen 0 und 1 annehmen. 
 Dieser handliche Faktor beschreibt die Ungleichverteilung in der Gesellschaft mit einem einfachen ^[Einfach meint hier nicht nur eindimensional auch der Wertebereich ist einfach [0,1]]Maß. 
 Wir werden später sehen: Für die Funktion der Zeitlichen Entwicklung des Gini Koeffizent  gilt G(t)->1 über lange Zeit t. Eine solche Ungleichverteilung von Wert stellt die grundsätzlichen Prinzipien auf denen unser wirtschaftliches Handel als soziales Konstrukt beruht in Frage.  
 
@@ -31,7 +28,7 @@ Oder, warum konvergiert der Giniquoifizent über die Zeit gegen 1?
 
 Hier haben wir Klarheit errungen, in den späten 2000 Jahren begannen Physiker näher mit dem Problem der Ungleichverteilungsmechanik zu beschäftigen, Mechaniken werden am besten Mathematisch erfasst. ^[ B. Hayes. Follow the money, American Scientists, 90:400-
 405, 2002 und  B. Hayes. Follow the money, American Scientists, 90:400-405, 2002] 
-Die Theorietische Basis hierfür dient das sog. Flohmarkt Model des Wertaustausches. (Yard-Sale Model Of Asset Exchange) ^[ https://www.scientificamerican.com/article/is-inequality-inevitable/ November 1, 2019], es reduziert die Wirtschaftlichen Interaktionen der Agenten auf das relevante Maß. In jeder Wirtschaftlichen Interaktion zwischen zwei Akteuren kann es zu genau zwei verschiedenen Ausgängen kommen, die Akture tauschen einen gleichen Wert, z.B. 2 x 5'er Noten gegen eine 10'er Note, oder ein Teil des Wertes wird von dem einen Akteur zu dem anderen übertragen. der erste Fall ist unrelevant und braucht keiner Beachtung, Quantitativ hat hier keine Veränderung des Zustandes stattgefunden. Im zweiten Falle setzten wir, nicht nur der Einfachheit halber, voraus das die Richtung des Wertflusses beliebig ist, sowie das die Maß des Werttransfers abhängt von dem verfügbaren Vermögen des ärmeren Aktuers. Dieses einfache System ist der numerischen Simulation sehr zugänglich, die erstaunliche Erkenntnis der Simmulationen ist das ein solches System **immer** in einer Olgachie und einem Ginikoeeifezienmten von 1 endet. ^[https://github.com/UrsZeidler/yard_sale_sim] Auch wenn dir mit einem Giniquo von 0 starten, also allen Akteuren das selbe Maß an Wert zuweisen. Das ist umso erstaunlicher als alle Akture, wie wir uns erinnern, die gleiche Chance auf einen Wertzuwachs haben. Das ist nicht sehr intuitiv, deswegen umso lehrreicher.  
+Die Theorietische Basis hierfür dient das sog. Flohmarkt Model des Wertaustausches. (Yard-Sale Model Of Asset Exchange) ^[ https://www.scientificamerican.com/article/is-inequality-inevitable/ November 1, 2019], es reduziert die Wirtschaftlichen Interaktionen der Agenten auf das relevante Maß. In jeder Wirtschaftlichen Interaktion zwischen zwei Akteuren kann es zu genau zwei verschiedenen Aushängen kommen, die Akture tauschen einen gleichen Wert, z.B. 2 x 5'er Noten gegen eine 10'er Note, oder ein Teil des Wertes wird von dem einen Akteur zu dem anderen übertragen. Der erste Fall ist unrelevant und braucht keiner Beachtung, Quantitativ hat hier keine Veränderung des Zustandes stattgefunden. Im zweiten Falle setzten wir, nicht nur der Einfachheit halber, voraus das die Richtung des Vermögesflusses beliebig ist, sowie das das Maß des Werttransfers abhängt von dem verfügbaren Vermögen des ärmeren Aktuers. Dieses einfache System ist der numerischen Simulation sehr zugänglich, die erstaunliche Erkenntnis der Simmulationen ist das ein solches System **immer** in einer Olgachie und einem Ginikoeeifezienmten von 1 endet. ^[https://github.com/UrsZeidler/yard_sale_sim] Auch wenn dir mit einem Giniquo von 0 starten, also allen Akteuren das selbe Maß an Vermögen zuweisen. Das ist umso erstaunlicher als alle Akture, wie wir uns erinnern, die gleiche Chance auf den Vermögenszuwachs haben. Das ist nicht sehr intuitiv, deswegen umso lehrreicher.  
 Wie kann aus einem Totalen Gleichgewicht -gleichverteilung der Changcen und des Vermögens- ein totales Ungleichgewicht entstehen?  
 
 Halten wir die Fakten fest:
@@ -54,7 +51,7 @@ Zwei Dinge sind bemerkenswert:
 1. die Gewinnerwartung für jeden ist negativ
 2. das Gesamtvermögen bleibt konstant
 
-Aus 1. folgt naiv das das Vermögen jedes Agenten abnimmt, weil wir jedoch mit 2. bestimmt haben das das Gesamtvermögen gleich bleibt, eine einfache Folge aus der Mechanik des Handelns, was wir A wegnehmen wird B gegeben => A+B=Konstant kann das nicht sein. 
+Aus 1. folgt naiv das das Vermögen jedes Agenten abnimmt ^[Jedes gegebene Vermögen in einem Spiel das weniger gewinnt als es verliert sollte weniger werden.], weil wir jedoch mit 2. bestimmt haben das das Gesamtvermögen gleich bleibt, eine einfache Folge aus der Mechanik des Handelns, was wir A wegnehmen wird B gegeben => A+B=Konstant kann das nicht sein. 
 Betrachten wir den Fall in dem beide Agenten nicht das gleiche Vermögen haben, denn hier wird die Mechanik deutlich, in diesem Falle ist der Verlust für den reicheren ein kleinerer Anteil seines Vermögens. Wenn das Vermögen des reicheren langsamer schrumpft als das des Armen, bedeutet das im Kontext von 2. das das Vermögen des reicheren wächst. Es schrumpft weniger schnell, bzw. das Vermögen des Ärmeren schrumpft schneller damit muss dieses Vermögen vom Ärmeren zum Reicheren wandern. Dies ist ein stetiger Fluss von Arm zu Reich. Das ist die Symetriebrechung dieser Mechanik.  
 Erinnern wir uns: Mit der ersten Transaktion ergibt sich bereits ein Ungleichgewicht, denn nur einer gewinnt und ein Vermögensteil wandert vom Verlierer zum zum Gewinner. Dieses zufällige Ungleichgewicht reicht eine unumkehrbare Dynamik in gang zu setzen.
 
@@ -75,12 +72,6 @@ Missverständnisse lassen sich Aufklären.
 
 ### Aufgeklärte Ökonomie
 
-Wir kennen stochastische Prozesse gut, arbeiten wir mit ihnen schon ein gute weile und haben praktische Erfahrung, alle chemischen Industrie Prozesse sind von dieser Stochastischen Natur, besteht ein Mol Stoff doch 10^23 Teilen. Durch einführung eines Ornstein-Uhlenbeck Terms ^[ G.E. Uhlenbeck and L.S. Ornstein, “On the theory of Brownian motion,” Phys. Rev. 36 (1930) 823–841.] in die Fokker-Planck Gleichung läßt sich das System stabilisieren. Ein redistributionsfaktor der pro Transaktion einen Teil des Vermögens gleichmäßig auf alle Agenten verteilt. Eine vermögenssteuer die regelmäßig ein Teil des Vermögens der reichsten auf alle verteilt. Dieser Faktor 'χ' wirkt gegenteilig zu dem im Stochastischen Prozess verborgenen Sog der Vermögenskonzentration.
+Wir kennen stochastische Prozesse gut, arbeiten wir mit ihnen schon ein gute weile und haben praktische Erfahrung, alle chemischen Industrie Prozesse sind von dieser Stochastischen Natur, besteht ein Mol Stoff doch aus 10^23 Teilen. Durch Einführung eines Ornstein-Uhlenbeck Terms ^[ G.E. Uhlenbeck and L.S. Ornstein, “On the theory of Brownian motion,” Phys. Rev. 36 (1930) 823–841.] in die Fokker-Planck Gleichung läßt sich das System stabilisieren. Ein redistributionsfaktor der pro Transaktion einen Teil des Vermögens gleichmäßig auf alle Agenten verteilt. Eine vermögenssteuer die regelmäßig ein Teil des Vermögens der reichsten auf alle verteilt. Dieser Faktor 'χ' wirkt gegenteilig zu dem im Stochastischen Prozess verborgenen Sog der Vermögenskonzentration. 
 
-
-[^10_10_loc_1]: https://en.wikipedia.org/wiki/Gini_coefficient
-[^10_10_vp1]: Pareto, Vilfredo, Cours d'Économie Politique: Nouvelle édition par G.-H. Bousquet et G. Busino, Librairie Droz, Geneva, 1964, S. 313–315. archiviertes Originalwerk in Französisch
-
-[^10_10_lok_1]: https://de.wikipedia.org/wiki/Lorenz-Kurve 
-
-[^10_20_ys_2015]: Boghosian, B.M., Johnson, M. & Marcq, J.A. An H Theorem for Boltzmann’s Equation for the Yard-Sale Model of Asset Exchange. J Stat Phys 161, 1339–1350 (2015). https://doi.org/10.1007/s10955-015-1316-8
+\pagebreak

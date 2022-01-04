@@ -1,4 +1,11 @@
 \pagebreak
+
+## Vor dem Vorwort eine Erklärung
+
+> _„Die Verdinglichung, kraft deren die einzig durch die Passivität der Massen ermöglichte Machtstruktur diesen selbst als eiserne Wirklichkeit entgegentritt, ist so dicht geworden, daß jede Spontanität, ja die bloße Vorstellung vom wahren Sachverhalt notwendig zur verstiegenen Utopie, zum abwegigen Sektierertum geworden ist. Der Schein hat sich so konzentriert, daß ihn zu durchschauen objektiv den Charakter der Halluzination gewinnt.“_  [@DdA_2013 Seite 214]
+
+Wir Unternehmen hier den Versucht eines abwegigen Sektierertum, wir skizzieren eine Politische Kraft, in Form einer Partei, mit dem Kindeswohle im Mittelpunkt. 
+
 ## Prolog
 
 Die Partei ist ein Vehikel, den öffentlichen Diskurs auf das relevante Thema der Gesellschaft zu lenken. Das relevante Thema, das uns angeht, ist die Zukunft; denn dies ist der Raum, der durch die Gegenwart gestaltbar ist. Hier liegt der Unterschied zwischen Verwaltung und Politik: Verwaltet wird die Gegenwart, das Primat der Politik ist die Gestaltung der Zukunft. Das klarste Zeichen der Zukunft sind die Kinder. Es sind unsere Kinder und sie sind immer auch Kinder der Gesellschaft. In ihnen zeichnet sich Verantwortung am deutlichsten ab. Diese Verantwortlichkeit liegt bei uns, den mündigen Bürgern etwa als Eltern, Großeltern, Erziehern und auch Politikern.

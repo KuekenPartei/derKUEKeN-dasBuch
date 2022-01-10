@@ -41,11 +41,6 @@ Eine dritte Fussnote [^ZENTRAL_02] die im fussnoten Teil definiert ist.
 
 ### Citation
 
-@DPV_2003
-
-test dadadad [@DPV_2003] test 
-
-ein weiteres Beispiel: [see @DPV_2003, pp. 33-35] mit weiteren stuff.
 
 Dies ist [ein Beispiel] [id] für einen Referenz-Link.  
 [id]: http://example.com/  "Optionalen Titel hier eintragen"  
@@ -54,11 +49,6 @@ Here is an inline note.^[Inlines notes are easier to write, since
 you don't have to pick an identifier and move down to type the
 note.]  
 
-Hans Jonas [@DPV_2003 Seite 143]
-
-Blah blah [see @DPV_2003, Seite 33-35].
-
-Blah blah ^[see @DPV_2003, Seite 33-35] als fussnote.
 
 [@{https://example.com/bib?name=foobar&date=2000}, p. 33].
 
@@ -127,8 +117,6 @@ ____>
  ![ein anderes bild](resources/lozenz-de-2002-2007.png)
 ____> 
  
-
-
 
 
 [Figuren Text und Nummer]: resources/Gini-Coefficient-pure.png

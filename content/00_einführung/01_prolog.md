@@ -11,7 +11,7 @@ Eine schöne Frage: **Was ist wirklich?**
 Gibt es Staaten und Betriebe, wie Deutschland und Volkswagen? Oder gibt es nicht vielmehr, oder sagen wir weniger, nur Menschen und Dinge, wie Häuser Produktionsanlagen und ähnliches. Wenn wir uns die einfache Wirklichkeit Vorstellen, d.h. die Erde wie sie um die Sonne Kreist, die Menschen/Wesen und der Stoff aus dem wir alle gemacht sind, dann existieren diese Dinge wie Staaten, Betriebe u.ä. nicht, sie existieren nur dadurch das Menschen sie praktizieren. Wir Menschen produzieren diese _"eiserne Wirklichkeit"_ die uns da _"entgegentritt"_.  
 Genau deswegen ist sie eine zweite Wirklichkeit, keine erste. Eine von Menschen produzierte und wie alle Produkte menschlichen Handelns ist sie maßgeblich dadurch bestimmt was wir von der ersten Wirklichkeit, der wirklichen Wirklichkeit, glauben zu wissen.  
 So wissen wir das wir diese Dinge ändern können, das die Halluzination die Wirklichkeit konkreter schöner und wahrer beschreiben und Formen kann, in ihrem Bilde.  
-Das Motto dieses _abwegigen Sektieretums_ wird diese einfache Wirklichkeit sein, *radikal trivial* ihr Slogan.^[das Meme] Und Nichts weniger als "das retten der Welt" das erklärte Ziel.^[Die Welt ist von der ersten Wirklichkeit, nicht alles der zweiten Wirklichkeit kann gerettet werden]  
+Das Motto dieses _abwegigen Sektieretums_ wird diese einfache Wirklichkeit sein, *radikal trivial* ihr Slogan.^[das Meme] Und Nichts weniger als "das retten der Welt" und "ewiger Frieden" das erklärte Ziel.^[Die Welt ist von der ersten Wirklichkeit, nicht alles der zweiten Wirklichkeit kann gerettet werden]  
 
 \pagebreak
 ## Prolog

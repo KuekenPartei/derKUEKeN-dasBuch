@@ -7,11 +7,11 @@ Diese einfache Tendenz ist durch Vilfredo Pareto ^[Pareto, Vilfredo, Cours d'Éc
 Eine vollständige Gleichverteilung von Gütern und Dienstleistungen würde bedeuten, 1% der Menschen besäßen 1% dieser Güter und Dienstleistiungen, 20% besäßen 20%, 90% besäßen 90% usw. bis 100%. Diese Lorenzfunktion wäre eine Gerade Linie durch die Punkte (0,0) und (1,1).  
 Mehr Gleichheit geht nicht. Der absolute elgatismus, in Wirtschaftlicher Hinsicht.  
 
-![Gini Koeffizent 0](resources/gini-0.png)  
+![Gini Koeffizent 0](resources/gini-0.png){ width=50% }  
 
 Jede andere Verteilung von Reichtum sorgt für einen Bauch in der Lorenzkurve unterhalb dieser Geraden der Gleichheit. Ein Speckbauch der an einigen Stellen mehr an anderen zu wenig hat.  
 
-![Lozenz Kurve Deutschland 2002-2007](resources/lozenz-de-2002-2007.png )  
+![Lozenz Kurve Deutschland 2002-2007](resources/lozenz-de-2002-2007.png ){ width=50% }  
 
 Die Lorenzkurve für Deutschland aus den Jahren 2002 und 2007 ^[vermögensverteilung 2002/2007 nach https://www.diw.de/documents/publikationen/73/93785/09-4-1.pdf Abbildung 1] zeigt den Bauch der Deutschen Gesellschaft.  
 

@@ -28,9 +28,11 @@ Auflage 2013. ISBN 978-3-88221-595-3. S.52]
 
 
 \pagebreak
-__Politik an den Bedürfnissen der Kinder ausgerichtet__
+## Politik an den Bedürfnissen der Kinder ausgerichtet
 
-Das relevante Thema, das uns angeht, ist also die Zukunft. Das klarste Zeichen der Zukunft sind die Kinder. Es sind unsere Kinder und sie sind immer auch Kinder der Gesellschaft. In ihnen zeichnet sich Verantwortung am deutlichsten ab. Diese Verantwortlichkeit liegt bei uns, den mündigen Bürgern etwa als Eltern, Großeltern, Erziehern und auch Politikern. 
+Das relevante Thema, das uns angeht, ist also die Zukunft.  
+Das klarste Zeichen der Zukunft sind die Kinder.  
+Es sind unsere Kinder und sie sind immer auch Kinder der Gesellschaft.
 
 
 

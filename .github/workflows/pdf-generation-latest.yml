@@ -1,0 +1,24 @@
+name: Produce pdf
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build the Docker image
+      run: docker run --rm --volume "`pwd`:/data"  --user `id -u`:`id -g` --entrypoint "bin/makedoc.sh"   pandoc/latex:latest-ubuntu
+    - name: 'Upload Artifact'
+      uses: actions/upload-artifact@v3
+      with:
+        name: derKUEKeN.pdf
+        path: derKUEKeN.pdf
+        

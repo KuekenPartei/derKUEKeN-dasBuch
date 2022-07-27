@@ -1,4 +1,10 @@
-# der KUEKEn das Buch
+# derKUEKeN das Buch
+
+Kinder Verantwortung Zukunft
+
+>Insgesamt bietet diese Arbeit einen faszinierenden Blick auf eine mögliche politische Bewegung, die das Kindeswohl ins Zentrum ihrer Agenda stellt und die Welt durch eine radikale Veränderung der politischen Prioritäten und der Auffassung von Wirklichkeit zu retten versucht.  
+
+eine Zipped Version ist unter [actions](https://github.com/KuekenPartei/derKUEKeN-dasBuch/actions) zu finden
 
 ## Verzeichnis Aufbau
 

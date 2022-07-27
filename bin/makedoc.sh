@@ -10,17 +10,20 @@ bibFile="content/literatur.bib"
 #cslFile="etc/csl/sozialwissenschaften-heilmann.csl"
 cslFile="content/csl/zeitschrift-fur-deutsche-philologie.csl"
 
+#
 #default pandoc options
 defaultGenOptions="--metadata csl=$cslFile  \
 --bibliography=$bibFile \
 --toc \
---metadata-file=content/metadata-def.yaml \
 --filter pandoc-crossref \
 --citeproc \
---pdf-engine=pdflatex \
+--pdf-engine xelatex \
 --lua-filter=bin/pagebreak.lua"
 
 echo "found files: $files"
+
+##install font
+#apt get install 
 
 # generate html
 #echo "write: ${titel}.html"

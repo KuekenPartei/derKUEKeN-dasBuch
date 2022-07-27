@@ -3,14 +3,13 @@
 
 **Wie der Stahl gehärtet wurde.**
 
-<small>ist ein Roman des sowjetischen
+> Как закалялась сталь ist ein Roman des sowjetischen
 Schriftstellers Nikolai Alexejewitsch Ostrowski. Er ist eines der
 bekanntesten Beispiele für die Literatur des Sozialistischen Realismus
 und hat nach Einschätzung des Lexikons der Weltliteratur „bei der
 sozialistischen Erziehung in der Sowjetunion und bei der sozialistischen
 Bewußtseinsbildung der fortschrittlichen Jugend in der ganzen Welt eine
-bedeutende Rolle gespielt.“
-[wikipedia](https://de.wikipedia.org/wiki/Wie_der_Stahl_geh%C3%A4rtet_wurde)</small>
+bedeutende Rolle gespielt.“ ^[ https://de.wikipedia.org/wiki/Wie_der_Stahl_geh%C3%A4rtet_wurde ]
 
 Hier gehen wir den entscheidenden Fragen nach.
 

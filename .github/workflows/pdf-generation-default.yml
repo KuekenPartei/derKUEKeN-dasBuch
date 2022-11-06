@@ -2,9 +2,9 @@ name: Produce pdf
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "prepare_for_github" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "prepare_for_github" ]
 
 jobs:
 
@@ -15,7 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-      run: docker run --rm --volume "`pwd`:/data"  --user `id -u`:`id -g` --entrypoint "bin/makedoc.sh"   pandoc/ubuntu-latex:2.9.2.1
+      run: docker run --rm --volume "`pwd`:/pandoc"  --user `id -u`:`id -g` --entrypoint "bin/makedoc.sh"   dalibo/pandocker:stable
     - name: 'Upload Artifact'
       uses: actions/upload-artifact@v3
       with:

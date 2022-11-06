@@ -1,10 +1,10 @@
 #!/bin/bash
 
-pandockDockerVersion=pandoc/ubuntu-latex:2.9.2.1
+pandockDockerVersion=dalibo/pandocker:stable
 
 echo "running in docker ... ${pandockDockerVersion}"
 
-docker run --rm --volume "`pwd`:/data" \
+docker run --rm --volume "`pwd`:/pandoc" \
  --user `id -u`:`id -g` \
  --entrypoint "bin/makedoc.sh" \
   ${pandockDockerVersion}

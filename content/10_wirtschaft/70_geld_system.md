@@ -1,7 +1,7 @@
 \pagebreak
 ## Die Reise zu den Sternen, oder warum eine deflationäre Währung attraktiv ist.
 
-Auch wenn wir im Abschnitt über das Yard Sale Model lernen konnten das das Geldsystem nicht der entscheidende Punkt der bOt ist, geht er als "Wealth affine effect" als Teil eines einfachen Skalars ein, ist die frage nach der Art und Weise wie wir Geld betreiben wollen eine für die Wirtschaft wichtige. An diesem Eckpunkt entscheiden sich bestimmte Eigenschaften des ganzen Wirtschaftssystem.
+Auch wenn wir im Abschnitt über das Yard Sale Model lernen konnten das das Geldsystem nicht der entscheidende Punkt der bOt ist, geht er als "Wealth affine effect" als Teil eines einfachen Skalars ein, ist die frage nach der Art und Weise wie wir Geld betreiben wollen eine für die Wirtschaft wichtige. An diesem Eckpunkt entscheiden sich bestimmte Eigenschaften des ganzen Wirtschaftssystem. Diese werden damit zu a priori Maxime des Handelns. 
 
 Alle Güter/alles Geld -> p
 

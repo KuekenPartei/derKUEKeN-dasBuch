@@ -1,6 +1,6 @@
 \pagebreak
 
-## ableiten der Prinzipien einer an Kindern ausgereichteten Politik
+## ableiten der Prinzipien einer an Kindern ausgererichteten Politik
 
 ### Pazifismus
 
@@ -21,16 +21,14 @@ Kinder gegenüber, selbst zu übernehmen, erscheint hingegen natürlich.
 Der zentrale Punkt ist also die Selbstbestimmung die zentral für die
 Mündigkeit ist.
 
-Gegenwartsbezogenheit
----------------------
+### Gegenwartsbezogenheit
 
 Wir müssen in der Verantwortung bei den existierenden Menschen bleiben,
 die Gegenwart ist der Raum, in der die Zukunft gestaltbar ist, nicht die
 Zukunft. Konkrete Menschen können Ziel unserer Verantwortung sein, nicht
 mögliche Menschen.
 
-Strukturelle Unabgeschlossenheit
---------------------------------
+### Strukturelle Unabgeschlossenheit
 
 Wir, als lebende Menschen, sind strukturell unabgeschlossen. Darin genau
 besteht unsere Möglichkeit zur Entwicklung. Jedes unserer sozialen
@@ -42,8 +40,7 @@ nicht geben. Unser Ziel kann nur die positive und
 [nachhaltige](/wiki/Nachhaltigkeit.md) Entwicklung der Gesellschaft
 sein.
 
-Erhalt der natürlichen Lebensgrundlagen
----------------------------------------
+### Erhalt der natürlichen Lebensgrundlagen
 
 Ein konservierender Umgang mit - bzw. die Wiederherstellung - einer
 gesunden und reichhaltigen Umwelt leitet sich zwangsläufig aus der
@@ -65,16 +62,14 @@ berücksichtigen müssen, "Handle so, daß die Wirkungen deiner Handlungen
 verträglich sind mit der Permanenz echten menschlichen Lebens auf
 Erden."^[@DPV_2003 Seite 85]
 
-Solidarität
------------
+### Solidarität
 
 Der Mensch ist ein Wesen der Gemeinschaft. Deshalb gilt unsere Sorge der
 Gemeinschaft, wie sie dem Individuum gelten muss. In der
 [Solidarität](https://de.wikipedia.org/wiki/Solidarit%C3%A4t) drückt
 sich u.a. der verbindende Generationenvertrag aus.
 
-Gerechtigkeit
--------------
+### Gerechtigkeit
 
 Nur in einer Gesellschaft, die strukturbedingte Benachteiligungen in den
 Möglichkeiten der individuellen Teilhabe ausgleicht und so jedem
@@ -83,8 +78,7 @@ Teilhabe](https://de.wikipedia.org/wiki/Partizipation) ermöglicht,
 können Kinder kulturangemessen aufwachsen und zu mündigen und
 gesellschaftskundigen Menschen heranreifen.
 
-Lebenszeit als Schatz
----------------------
+### Lebenszeit als Schatz
 
 Dass die Lebenszeit ein entscheidender Wert ist, folgt aus der
 Feststellung Hans Jonas, wonach das Leben einen Zweck für das Leben
@@ -96,16 +90,14 @@ Geschenk. Wir müssen weniger Geld ausgeben, weniger Produkte verbrauchen
 - nicht nur aus Nachhaltigkeitsgründen. Wenn wir weniger Geld ausgeben,
 müssen wir weniger Geld verdienen und haben mehr freie Zeit.
 
-Kooperation statt Wettbewerb
-----------------------------
+### Kooperation statt Wettbewerb
 
 Der Wettbewerb ist ein Feind der Gemeinschaft. Er fördert die
 Vereinzelung des Menschen und stört die natürliche Offenheit und die
 kooperativen Fähigkeiten der Menschen. Damit macht er alle Menschen
 unglücklich, denn Menschen sind Wesen der Gemeinschaft.
 
-Bekenntnis zu den universellen Menschenrechten
-----------------------------------------------
+### Bekenntnis zu den universellen Menschenrechten
 
 [Die universellen
 Menschenrechte](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ger.pdf)

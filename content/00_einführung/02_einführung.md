@@ -35,10 +35,10 @@ Das relevante Thema, das uns angeht, ist also die Zukunft.
 Das klarste Zeichen der Zukunft sind die Kinder.  
 Es sind unsere Kinder und sie sind immer auch Kinder der Gesellschaft.  
 
-Wäre es nicht angeracht von 20% armen oder Armutgefährdeten Kindern besser Kinderhilfvereine zu gründen und aktiv den Kindern zu helfen, vor Ort und bei den Kindern?  Das tun wir bereits und schon lange und wir können all diesen Menschen dankbar sein für ihre Arbeit.  
+Wäre es nicht angebracht von 20% armen oder Armutgefährdeten Kindern besser Kinderhilfsvereine zu gründen und aktiv den Kindern zu helfen, vor Ort und bei den Kindern?  Das tun wir bereits und schon lange und wir können all diesen Menschen dankbar sein für ihre Arbeit.  
 Die traurige Feststellung ist das es keinen Einfluss hat. Das die Armut weiter wächst die Klima Katasrophe sich ausweitet, Kriege die Welt überziehen. Mit hilfvereinen Kindern helfen hilft Kindern.  
 Wir brauchen mehr.  
-Das Primat der Politik ist die Gestaltung der Zukunft. Das klarste Zeichen der Zukunft sind die Kinder.
+Das Primat der Politik ist die Gestaltung der Zukunft. Das klarste Zeichen der Zukunft sind die Kinder.  
 Die Kampage "Samstag gehört Vati mir" ^[https://www.hdg.de/lemo/bestand/medien/video-samstags-gehoert-vati-mir.html IGMetal 1956] der IGMetall war der erfolgreichste Arbeitskampf der geführt wurde.  
 Wenn die Bedürfnisse der Kinder in den Fokus der Aufmerksamkeit gestellt werden, lässt sich erfolgreich Politik für alle Menschen machen.  
 Wiederholen wir aus dem Prolog:  
@@ -48,7 +48,9 @@ Ausgangspunkt jeden politischen Handelns wird so die Frage nach der Zweckhaftigk
 Hier steckt der radikale Wandel den wir brauchen, er vollzieht sich nicht in der ersten Wirklichkeit sondern in der zweiten. Denn der Wandel ist ein Wandel der Perspektive, diese Perspektive nimmt die Sorge in den Fokus und setzt uns als Verantwortliche Wesen -die wir sind- voraus.  
 Deutschland ist eine Parteien Demokratie, der Öffentliche Diskurs wird massgeblich durch die Parteienlandschaft geprägt. Sehr gut erkennbar ist das bei den Piraten gewesen, die für eine Zeit, ohne Parlamentarische Mehrheiten, gar Sitze überhaupt, einen starken Einfluss auf den allgemeinen Politischen Diskurs hatten, in dem sie die anderen Parteien vor sich her trieben. Die haben sich in der Zeit die Augen gerieben, und überlegt was sie tun können, begannen zu adaptieren, aber auch zu Intrigieren.  
 Wir müssen von den Piraten viel lernen und versuchen deren Fehlern zu vermeiden.  
-Viele Fehler der Piraten waren Formaler Natur, so erstaunlich das klingt. Die Form wird durch die Strukturen bestimmt, und diese Strukturen waren nicht fest, so hat sich die Form geändert. ^[https://www.heise.de/tp/features/Die-Piraten-und-der-Krieg-3399579.html?seite=all] 
+Viele Fehler der Piraten waren Formaler Natur, so erstaunlich das klingt. Die Form wird durch die Strukturen bestimmt, und diese Strukturen waren nicht fest, so hat sich die Form geändert. ^[https://www.heise.de/tp/features/Die-Piraten-und-der-Krieg-3399579.html?seite=all] es ist das selbe Schicksal das die grünen ereilte -die den ersten Deutschen Angriffskrieg geführt haben.  
+Alternative Positionen werden systematisch aus dem Politschen geschehen entfernt wie der Name 'Alternative Liste' aus den grünen verschwunden ist. 
+
 
 
 

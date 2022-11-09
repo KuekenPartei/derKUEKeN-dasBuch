@@ -1,8 +1,17 @@
+title: derKUEKeN
+subtitle: > 
+    das Buch und die Partei\vspace{1ex}
+language: de-DE
+cover-image: pdf-template/cover.png
+mainfont: "DejaVu Sans"
+documentclass: article
+pagestyle: plain
 figureTitle: "Abbildung"
 tableTitle: "Tabelle"
 figPrefix: "Abb."
 eqnPrefix: "Gl."
 tblPrefix: "Tab."
 secPrefix: Abschnitt 
-loftitle: "# Abbildungsverzeichnis"
-lotTitle: "# Tabellenverzeichnis"
+lofTitle: "Abbildungsverzeichnis"
+lotTitle: "Tabellenverzeichnis"
+toc-title: "Inhaltsverzeichnis"

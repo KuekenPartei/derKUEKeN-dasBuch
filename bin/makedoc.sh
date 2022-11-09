@@ -16,7 +16,8 @@ defaultGenOptions="--metadata csl=$cslFile  \
 --toc \
 --metadata-file=content/metadata-def.yaml \
 --filter pandoc-crossref \
---filter pandoc-citeproc \
+--citeproc \
+--pdf-engine=pdflatex \
 --lua-filter=bin/pagebreak.lua"
 
 echo "found files: $files"

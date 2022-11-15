@@ -1,32 +1,31 @@
 \pagebreak
-
 ## ableiten der Prinzipien einer an Kindern ausgererichteten Politik
+
+Um eine Unterwanderung und Umdeutung vorzubeugen werden die Zentralen Kerne als Prinzipien abgeleitet die sich in der Satzung als Grundbestimmungen wiederfinden bzw. aufgenommen werden, diese können nach Satzung nur schwerlich geändert werden. Wie das  Grundgesetzt für alle Parteien nur deutlich spezifischer und das Ziel ist es das Grundgesetzt diesen Grundbestimmungen anzunähern. Siehe _die Partei ist ein Labor_.  
+Diese Grundbestimmungen sind die Maßlatte an denen sich die Politik zu Orientieren hat sie sind der Wertekanon der Partei, sie sind im Schiedsgericht einklagbar.  
+Kein Vorsitzender kann mit einer kleinen Mehrheit einen Parteikurs gestalten der den Grundbestimmungen zuwieder läuft. Nicht ohne aus dem Amt geklagt zu werden. Hier sehen wir wie wichtig diese Formalitätet sind. Wie genau es gilt eine Satzung zu konstruieren das sie nicht hackbar ist, ist nur ganz bedingt Gegenstand unserer Überlegungen. Ein Beispiel ist im Bastelabschnitt niedergelegt. ^[Abschnitt 2 Basterl...] 
 
 ### Pazifismus
 
-[Pazifismus](https://de.wikipedia.org/wiki/Pazifismus) ist die
-konsequente Folge aus der Verantwortung für unsere Kinder. Er muss in
-dem Sinne radikal sein, als wir verstehen müssen, dass Krieg nur mit
-Kriegsgerät stattfinden kann und wir damit aufhören müssen, es zu
-produzieren und zu nutzen.
+[Pazifismus](https://de.wikipedia.org/wiki/Pazifismus) ist die konsequente Folge aus der Verantwortung für unsere Kinder. Er muss in dem Sinne radikal sein, als wir verstehen müssen, dass Krieg nur mit Kriegsgerät stattfinden kann und wir damit aufhören müssen, es zu produzieren und zu nutzen.  
+Auf den Punkt gebracht ist der Anspruch: **Frieden ist eine Verantwortung gegenüber unseren Kindern**, denn Kinder können keine Feinde sein, sie sind immer Kinder der Gesellschaft und bedürfen unser aller Verantwortung.  
+
+> If the russian love the children too ... ^["Russians", The Dream of the Blue Turtles, A&M Records, Sting, Pete Smith , 1985]
+
 
 ### Säkularismus
 
-Auch der [Säkularismus](https://de.wikipedia.org/wiki/S%C3%A4kularismus)
-ist eine Folge dieser Verantwortung. Wenn wir ein höheres Wesen, einen
-Gott, annehmen, dann trägt dieses höhere Wesen am Ende die
-Verantwortung, die Verantwortung für den Zustand der Welt. Die
-Verantwortung, insbesondere der menschlichen Gesellschaft und unseren
-Kinder gegenüber, selbst zu übernehmen, erscheint hingegen natürlich.
-Der zentrale Punkt ist also die Selbstbestimmung die zentral für die
-Mündigkeit ist.
+Auch der [Säkularismus](https://de.wikipedia.org/wiki/S%C3%A4kularismus) ist eine Folge dieser Verantwortung. Wenn wir ein höheres Wesen, einen Gott, annehmen, dann trägt dieses höhere Wesen am Ende die Verantwortung, die Verantwortung für den Zustand der Welt. Die Verantwortung, insbesondere der menschlichen Gesellschaft und unseren
+Kinder gegenüber, selbst zu übernehmen, erscheint hingegen natürlich. Der zentrale Punkt ist also die Selbstbestimmung die zentral für die Mündigkeit ist.
 
 ### Gegenwartsbezogenheit
 
-Wir müssen in der Verantwortung bei den existierenden Menschen bleiben,
-die Gegenwart ist der Raum, in der die Zukunft gestaltbar ist, nicht die
-Zukunft. Konkrete Menschen können Ziel unserer Verantwortung sein, nicht
-mögliche Menschen.
+Wir müssen in der Verantwortung bei den existierenden Menschen bleiben, die Gegenwart ist der Raum, in der die Zukunft gestaltbar ist, nicht die Zukunft. Konkrete Menschen können Ziel unserer Verantwortung sein, nicht mögliche Menschen.  
+Das ist die Aufforderung des Zahratusras, uns unsere Serblichkeit zu klar zu machen, und ein teil der wirkliche Welt zu sein, nicht einer möglichen und vorgestellten. 
+> Ich beschwöre euch, meine Brüder, bleibt der Erde treu und glaubt Denen nicht, welche euch von überirdischen Hoffnungen reden! Giftmischer sind es,ob sie es wissen oder nicht ^[https://www.deutschestextarchiv.de/book/view/nietzsche_zarathustra01_1883?p=15 Nietzsche, Friedrich: Also sprach Zarathustra. [Bd. 1]. Chemnitz, 1883].  
+
+Das ist ein Zentraler Kern, das wir Kinder haben führt uns auch unsere Sterblichkeit vor Augen.  
+
 
 ### Strukturelle Unabgeschlossenheit
 

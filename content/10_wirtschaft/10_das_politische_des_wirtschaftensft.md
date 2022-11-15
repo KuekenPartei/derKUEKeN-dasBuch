@@ -18,7 +18,7 @@ Die Lorenzkurve für Deutschland aus den Jahren 2002 und 2007 ^[vermögensvertei
 Die Lorenzkurve ist also eine Nabelschau, ein Bild, das die Ungleichheit beschreibt, um diese Ungleichheit bewerten zu können müssen wir das Bild reduzieren auf einen Faktor: Dem Ungleichverteilungsmaß. 
 Das Maß an Ungleichverteilung wird definiert als das doppelte der Fläche zwischen der Geraden der Gleichheit und der Lorenzkurve der Vermögemsverteilung. Der sog. Gini Koeffizent ^[https://en.wikipedia.org/wiki/Gini_coefficient] er kann Werte zwischen 0 und 1 annehmen. 
 Dieser handliche Faktor beschreibt die Ungleichverteilung in der Gesellschaft mit einem einfachen ^[Einfach meint hier nicht nur eindimensional auch der Wertebereich ist einfach [0,1]]Maß. 
-Wir werden später sehen: Für die Funktion der Zeitlichen Entwicklung des Gini Koeffizent  gilt G(t)->1 über lange Zeit t. Eine solche Ungleichverteilung von Wert stellt die grundsätzlichen Prinzipien auf denen unser wirtschaftliches Handel als soziales Konstrukt beruht in Frage.  
+Wir werden später sehen: Für die Funktion der Zeitlichen Entwicklung des Gini Koeffizent  gilt _G(t)->1_ über lange Zeit _t_. Eine solche Ungleichverteilung von Wert stellt die grundsätzlichen Prinzipien, auf denen unser wirtschaftliches Handel als soziales Konstrukt beruht, in Frage.  
 
 
 
@@ -70,8 +70,8 @@ Missverständnisse lassen sich Aufklären.
 
 ### Aufgeklärte Ökonomie
 
-Wir kennen stochastische Prozesse gut, arbeiten wir mit ihnen schon ein gute weile und haben praktische Erfahrung, alle chemischen Industrie Prozesse sind von dieser Stochastischen Natur, besteht ein Mol Stoff doch aus 10^23 Teilen. Durch Einführung eines **Ornstein-Uhlenbeck Terms** ^[ G.E. Uhlenbeck and L.S. Ornstein, “On the theory of Brownian motion,” Phys. Rev. 36 (1930) 823–841.] in die Fokker-Planck Gleichung läßt sich das System stabilisieren. Er beschreibt einen Redistributionsfaktor (_rd_) der pro Transaktion einen Teil des Vermögens gleichmäßig auf alle Agenten verteilt.  Dieser Faktor 'χ' wirkt gegenteilig zu dem im Stochastischen Prozess verborgenen Sog der Vermögenskonzentration. Mit Einführung und Richtiger Wahl dieses Redistributionsfaktor verwandelt sich das System in ein stabiles System, in dem immer ein paar Agenten einen größeren Anteil haben und ein paar einen geringeren, aber der GiniKoe mit der Zeit gegen einen Wert Ɛ < 1 konvergiert bzw um einen Bereich ∆Ɛ fluktuiert.  
-Es schein nahe zu liegen das des zwischen diesem Ornstein-Uhlenbeck Term und dem Wert gegen den der GiniKo konvergiert eine Beziehung besteht.  
+Wir kennen stochastische Prozesse gut, arbeiten wir mit ihnen schon ein gute weile und haben praktische Erfahrung, alle chemischen Industrie Prozesse sind von dieser Stochastischen Natur, besteht ein Mol Stoff doch aus 10^23 Teilen. Durch Einführung eines **Ornstein-Uhlenbeck Terms** ^[ G.E. Uhlenbeck and L.S. Ornstein, “On the theory of Brownian motion,” Phys. Rev. 36 (1930) 823–841.] in die Fokker-Planck Gleichung läßt sich das System stabilisieren. Er beschreibt einen Redistributionsfaktor (_rd_) der pro Transaktion einen Teil des Vermögens gleichmäßig auf alle Agenten verteilt.  Dieser Faktor 'χ' wirkt gegenteilig zu dem im Stochastischen Prozess verborgenen Sog der Vermögenskonzentration. Mit Einführung und richtiger Wahl dieses Redistributionsfaktor verwandelt sich das System in ein stabiles System, in dem immer ein paar Agenten einen größeren Anteil haben und ein paar einen geringeren, aber der GiniKoe mit der Zeit gegen einen Wert Ɛ < 1 konvergiert bzw um einen Bereich ∆Ɛ fluktuiert.  
+Es schein nahe zu liegen das es zwischen diesem Ornstein-Uhlenbeck Term und dem Wert gegen den der GiniKo konvergiert eine Beziehung besteht.  
 Damit sind wir in einer Aufgeklärten Ökonomie: **Wir müssen von nun an selber festlegen wieviel Armut wir zu lassen.**  
 Armut wird zu einer Gesellschaftlichen entscheidung. Vorher hat sich Armut ereignet, niemand außer dem System war verantwortlich. Das hat sich alles geändert von nun an ist es unsere Entscheidung, eine Politische Entscheidung.  
 Um die Ökonomische Wirklichkeit wiederzuspiegeln und korrekt zu quantifizieren muss das YardSaleModel um zwei Faktoren erweitert werden, ^[Jie Li, Bruce M. Boghosian, Chengli Li, The Affine Wealth Model: An agent-based model of asset exchange that allows for negative-wealth agents and its empirical validation, .(https://www.sciencedirect.com/science...) https://arxiv.org/pdf/1604.02370.pdf] es braucht einen Wealth affine Skalar, ein Maß für die Reichen begünstigigung (_af_) und eine Schulden Maß (_d_).  
@@ -80,10 +80,12 @@ In dieser Aufgeklärten Ökonomie ergeben sich die Besitzverhältnisse nicht ein
 Die Politik wird nicht länger die Märke beschwören, ihnen "signalisieren", Opfer darbieten und ähnlich 'magische' Handlungen vollziehen. Es wird bestimmt, gemessen, quantifiziert und gesteuert. Hier ist kein Platz für ein Eigenleben.  
 Wir bestimmen das Maß der Ungleichheit in unsere Gesellschaft, das ist die politische Entscheidung, wir bestimmen einen GiniKooeffizeten. Es ist ein einfacher Skalar eine Zahl zwischen 0 und 1, spätere Wahlplakate werden mit solchen Zahlen, groß Geschrieben, voll sein.  
 "von 0.4 auf 0.3 da bin ich dabei"  
-Wir erheben die Lorenzfkt. und quantifizieren die Parameter (_af_) (_d_) (_re_). Und nun ändern wir (_re_) um den Prozess zu Steuern. Steuererlichterungen für Reiche sind genau dann angezeigt wenn die ungleichheit wachsen soll.  
-Geschichten wie "Die Flut hebt alle boote."^[Ein Argument der Tickledown eoconimics] gehören einer alten voraufgeklärten Zeit an. 
+Wir erheben die Lorenzfkt. und quantifizieren die Parameter (_af_) (_d_) (_re_). Und nun ändern wir (_re_) um den Prozess zu Steuern. Steuererleichterungen für Reiche sind genau dann angezeigt wenn die Ungleichheit wachsen soll.  
+Geschichten wie "Die Flut hebt alle boote."^[Ein Argument der Tickledown eoconimics] gehören einer alten voraufgeklärten Zeit an. Sie werden nicht mehr erzählt werden, denn niemand wird sich selbst in die Zeit der Voraufklärung zurück katapultiern. Keiner sich die blöße geben für einem solchen Standpunkt offen zu Argumentieren.  
+Jetzt erst kommt der schwieriege Teil:  
 
+> Diese "banale Oligachie tendenz" (bOt) eines Agentensystems entsteht durch die zufälligen Fluktuationen, nahe des Anfangszustands, die sich im laufe vertiefen ...
 
- Eine vermögenssteuer die regelmäßig ein Teil des Vermögens der reichsten auf alle verteilt.
+Ist auch das Ende des Mythos des 'Self Made Man', des Leistungsprinzips und das Ende jeder Form von Rechtfertigung für die **bestehenden Besitzverhältnisse**. Wenn alle Besitzverhältnisse sich auf _zufälligen Fluktuationen_ zurückführen lassen verlieren sie jeden begründenen Charakter. Das ist eine schwierige Vorstellung, und errinnert, wie der Totale Frieden an das _abwegigen Sektierertum_, wie _die bloße Vorstellung vom wahren Sachverhalt notwendig zur verstiegenen Utopie, zum abwegigen Sektierertum geworden ist_[@DdA_2013 Seite 214].  
 
 \pagebreak

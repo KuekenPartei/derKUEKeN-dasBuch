@@ -1,9 +1,36 @@
 \pagebreak
 ## ableiten der Prinzipien einer an Kindern ausgererichteten Politik
 
+Grundbestimmungen als der Feste Anker in der realen Politik
+
 Um eine Unterwanderung und Umdeutung vorzubeugen werden die Zentralen Kerne als Prinzipien abgeleitet die sich in der Satzung als Grundbestimmungen wiederfinden bzw. aufgenommen werden, diese können nach Satzung nur schwerlich geändert werden. Wie das  Grundgesetzt für alle Parteien nur deutlich spezifischer und das Ziel ist es das Grundgesetzt diesen Grundbestimmungen anzunähern. Siehe _die Partei ist ein Labor_.  
 Diese Grundbestimmungen sind die Maßlatte an denen sich die Politik zu Orientieren hat sie sind der Wertekanon der Partei, sie sind im Schiedsgericht einklagbar.  
-Kein Vorsitzender kann mit einer kleinen Mehrheit einen Parteikurs gestalten der den Grundbestimmungen zuwieder läuft. Nicht ohne aus dem Amt geklagt zu werden. Hier sehen wir wie wichtig diese Formalitätet sind. Wie genau es gilt eine Satzung zu konstruieren das sie nicht hackbar ist, ist nur ganz bedingt Gegenstand unserer Überlegungen. Ein Beispiel ist im Bastelabschnitt niedergelegt. ^[Abschnitt 2 Basterl...] 
+Kein Vorsitzender kann mit einer kleinen Mehrheit einen Parteikurs gestalten der den Grundbestimmungen zuwider läuft. -Nicht ohne aus dem Amt geklagt zu werden.  Es wird nicht die Ankündigung geben, Kinderrechte in das Grundgesetzt zu schreiben ^[Koalitionsvertrag cdu spd 2017 2021] um dann- eine Legislatur Periode später , 100 Milliarden für den Krieg bereit zu stellen ^[GG änderung Grüne/spd 2021], Grundgesetztlich verankert, anstelle der Kinderrechte. Hier sehen wir wie wichtig diese Formalitätet sind. Wie genau es gilt eine Satzung zu konstruieren das sie nicht hackbar ist, ist nur ganz bedingt Gegenstand unserer Überlegungen. Ein Beispiel ist im Bastelabschnitt niedergelegt. ^[Abschnitt 2 Basterl...]  
+Bei den Grundbedingungen dürfen wir nicht sparen, sie müssen **radikal trivial**, also eingängig, herausfordernd und umfassend sein, sie bilden den Kern des _abwegigen Sektierertum_ dem wir uns verschrieben haben.  
+Der Zentrale Kern der alle Grundbestimmungen ausmacht ist die **Sorge für unsere Kinder**, es ist die Frage aus dem Prolog: **Wie kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet?**  
+Es ist eine universelle Frage, sie ist uns Menschen gegeben, unabhängig von Kultur und Glaube, denn wir haben gesehen wie sehr **wir alle** also **jeder von uns** Abhängig von der Zukunft ist. Aber nicht nur diese Zukunftsabhänigkeit ist eine universelle, wichtiger ist diese einfache Wahrheit: Das **jeder von uns** ein Kind war. Wir Erwachsene waren Kinder die in dieser Gesellschaft und Gemeinschaft aufgewachsen sind. Universell ist der Erfahrungszugang eines jeden von uns. Nicht _was_ aber _das_ wir eine Erfahrung vom Kindsein haben ist uns allen gemeinsam. Diese Individuelle Erfahrung ist zugleich eine kollektive und universelle. Wir Menschen werden geboren und besorgt, unserer Hilflosigkeit wird entsprochen.  
+Diese Grundbestimmungen sollen Antworten sein auf genau diese Frage, zusammen ergeben sie den Entwurf einer _verstiegenen Utopie_ einer Gesellschaft die das Wohle der lebenden Kinder und damit der lebenden Menschen im Auge hat. Die Verantwortung für **unsere** Kinder unterscheidet diesen Entwurf von vermeintlich ähnlichen Entwürfen wie 'longtermism' ^[https://globalprioritiesinstitute.org/wp-content/uploads/2020/Greaves_MacAskill_strong_longtermism.pdf] die eine abstrakte Menschheit vor Augen haben.  
+Dies ist eine Utopische Vorstellungen die nicht die **Gegenwart von uns allen** in den Blick nimmt, sondern abschweift in ein diffuses Morgen, immer bereit das Heute für die Versprochenen Zukunft zu Opfern. Dabei vollzieht sich doch der Wechsel kontinuierlich, im hier und jetzt, stetig. Ohne Lücke und Sprung. Diese Zukunft wird durch die Gegenwart gestaltet, deswegen ist sie kein Ziel, unsere Zukunft ist nicht Fixiert, sie entsteht mit unserem Handeln. Die Verantwortung im hier und jetzt bringt uns die Gegewartsbezogenheit aber auch eine Unabgeschlossenheit was die Zukunft und unsere Vorstellung von ihr angeht.  
+In der Fragestellung verbirgt sich eine Elementare Grundaussagen: **Das Leben hat für uns Lebenden einen Wert** ^[vgl. vom Konsens der lebenden], dieser einfachen Feststellung folgenden ergibt sich die Verantwortung gegenüber den Kindern.  
+ „Verantwortung im ursprünglichsten und massivsten Sinn folgt aus der Urheberschaft des Seins, an der über die aktuellen Erzeuger hinaus alle beteiligt sind, die der Fortpflanzung durch Nichtwiderruf ihres Fiat im eigen Fall beipflichten, also alle, die sich selber das Leben erlauben“ [@DPV_2003 Seite 241]  
+Wir die wir das Leben als einen Wert erklären, verpflichten wir uns diesem Leben gegenüber, dieses Leben ist nicht nur unser eigenes, es ist das Leben aller dem wir so verpflichtet sind.  
+"[..] das Neugeborene , dessen bloßes Athmen unwiedersprechlich ein Soll an die Umwelt richtet, nämlich sich seiner anzunehemen. [..] Da hier das Sein eines einfachen otischen Daseinden ein Soll für andere immanent und ersichtlich beinhaltet, [...]"[@DPV_2003 Seite 235]  
+Wir waren diese Neugeborenen, ein Soll für die anderen, wir wurden angenommen. Nur dadurch leben wir. 
+
+
+
+* Paziﬁsmus
+* Säkularismus
+* Gegenwartsbezogenheit
+* Strukturelle Unabgeschlossenheit
+* Erhalt der natürlichen Lebensgrundlagen
+* Solidarität
+* Gerechtigkeit
+* Lebenszeit als Schatz
+* Kooperation statt Wettbewerb
+* Bekenntnis zu den universellen Menschenrechten
+
+
 
 ### Pazifismus
 
@@ -21,8 +48,9 @@ Kinder gegenüber, selbst zu übernehmen, erscheint hingegen natürlich. Der zen
 ### Gegenwartsbezogenheit
 
 Wir müssen in der Verantwortung bei den existierenden Menschen bleiben, die Gegenwart ist der Raum, in der die Zukunft gestaltbar ist, nicht die Zukunft. Konkrete Menschen können Ziel unserer Verantwortung sein, nicht mögliche Menschen.  
-Das ist die Aufforderung des Zahratusras, uns unsere Serblichkeit zu klar zu machen, und ein teil der wirkliche Welt zu sein, nicht einer möglichen und vorgestellten. 
-> Ich beschwöre euch, meine Brüder, bleibt der Erde treu und glaubt Denen nicht, welche euch von überirdischen Hoffnungen reden! Giftmischer sind es,ob sie es wissen oder nicht ^[https://www.deutschestextarchiv.de/book/view/nietzsche_zarathustra01_1883?p=15 Nietzsche, Friedrich: Also sprach Zarathustra. [Bd. 1]. Chemnitz, 1883].  
+Das ist die Aufforderung des Zahratusras, uns unsere Serblichkeit zu klar zu machen, und ein teil der wirklichen Welt zu sein, nicht einer möglichen und vorgestellten. 
+
+> Ich beschwöre euch, meine Brüder, bleibt der Erde treu und glaubt Denen nicht, welche euch von überirdischen Hoffnungen reden! Giftmischer sind es, ob sie es wissen oder nicht ^[https://www.deutschestextarchiv.de/book/view/nietzsche_zarathustra01_1883?p=15 Nietzsche, Friedrich: Also sprach Zarathustra. [Bd. 1]. Chemnitz, 1883].  
 
 Das ist ein Zentraler Kern, das wir Kinder haben führt uns auch unsere Sterblichkeit vor Augen.  
 

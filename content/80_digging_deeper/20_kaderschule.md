@@ -88,7 +88,7 @@ Hierin liegt auch eine zentrale Voraussetzung für die Demokratie und das
 Kernargument dafür, warum es entscheidend ist, alle Menschen im
 politischen Prozess zu berücksichtigen und zumindest bei Wahlen alle
 einmal zu fragen und niemanden auszuschliessen. Es ist dem kritischen
-Denken vom Prinzip her nicht möglich exlusiv zu sein. Eine Ausnahme
+Denken vom Prinzip her nicht möglich Exklusiv zu sein. Eine Ausnahme
 widerspräche dem kritischen Denken selbst, es wäre damit kein kritisches
 Denken mehr.
 
@@ -104,6 +104,10 @@ Hier können wir nur Glück haben, Glück das die Voraussetzungen richtig gewäh
 
 Wird das Denken so als eine Glücksache verstanden ist es ein Aufruf zur Intellektuellen Bescheidenheit.
 Wir verlieren so nichts was wir vorher besaßen aber gewinnen Bescheidenheit.
+
+### der Mensch als Primat
+
+
 
 
 ### Die Aufklärung und der Liberalismus
@@ -150,9 +154,6 @@ So sind die Wirkungszusammenhänge und Zwecke in die Wirklichkeit eingeschrieben
 
 
 "In jedem Zweck erklärt sich das Sein für sich selbst und gegen das Nichts."[^hj_155]
-
-
-
 
 Fürsorge für den Nachwuchs "Hier ist der Archetype alles verantwortlichen Handelns ..."[^hj_85] So ist jeder von uns ein Säugling dessen Bedürftigkeit angenommen und entsprochen, dessen Anspruch auf Leben angenommen und beantwortet wurde.  
 

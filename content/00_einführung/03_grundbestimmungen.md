@@ -29,9 +29,9 @@ Definiert Harari das Bewustsein über die Fähigkeit zum Leiden, was für sich v
 
  ![Klarmachen ändert, Ein Bewustsein achtet ein anderes Bewustsein](resources/klarmachen/klamachen-Bewustsein.png){ width=50% }
 
-Wahr ist aber auch das wir nicht nur staunen und lieben können, auch frustriert wie der Frosch ^[verhaltenbiologie 7 Klasse Abbruch des Appetenzverhalten] können wir uns fühlen, verraten und verkauft ... einsam. Uvm.
+Wahr ist aber auch das wir nicht nur staunen und lieben können, auch frustriert wie der Frosch ^[Verhaltenbiologie 7 Klasse Abbruch des Appetenzverhalten] können wir uns fühlen, verraten und verkauft ... einsam. Uvm.
 Die daraus folgende Ethik kann nur sein, das man empfindsamen Lebewesen keine schlechten Gefühlen zufügt. Und da sind wir doch beim Leid das wir fähig sind zu empfinden von dem Harari gesprochen hat.  
-
+Wenn wir einen hauch einer Vorstellung von Bewustsein entwickeln wollen, an dieser Stelle, dann scheint eine "non computable", in der Quantenmechanik verankerte Vorstellung, wie die "Orchestrated objective reduction" ^[@penrose2017consciousness "1. Consciousness in the Universe: Neuroscience, Quantum Space-Time Geometry and Orch OR Theory"] eine geeignete Wahl.  
 
 
 * Paziﬁsmus
@@ -55,11 +55,14 @@ Auf den Punkt gebracht ist der Anspruch: **Frieden ist eine Verantwortung gegen�
 > If the russian love the children too ... ^["Russians", The Dream of the Blue Turtles, A&M Records, Sting, Pete Smith , 1985]
 
 Und wenn sie es tun, die Russen, wenn sie ihre Kinder Lieben, wenn sie teil der selben Verantwortung sind wie wir, wie können wir mit ihnen Kriegführen? Wie überhaupt, wenn das Leben einen Zweck darstellt für uns Lebenden, können wir Kriegführen?  
-Doch nur, weil wir uns dieser Verantwortung nicht stellen.  
+Doch nur, weil wir uns dieser Verantwortung nicht stellen. Das ist die nihilistische Alternative die Camus skizziert: 
+
+>Aber wenn wir allein sind unter einem leeren Himmel, wenn wir für immer sterben müssen, wie können wir da wirklich sein? Die metaphysische Revolte versuchte dann, das Sein abzuleiten aus dem Erscheinen. Worauf das rein geschichtliche Denken sagte: Sein ist Tun. Wir waren nicht, aber wir mussten mit allen Mitteln sein. Unsere Revolution ist ein Versuch, ein neues Sein zu erobern, durch das Tun, außerhalb jedes Moralgesetzes. Aus diesem Grund verurteilt sie sich dazu, nur für die Geschichte und im Terror zu leben. ^[@camus2013mensch Seite 325]  
+
 Das Ausmaß das wir hier ansprechen ist gewaltig, die Welt ist voller nutzloser Rüstungsgüter. Nutzlos bezogen auf die Verantwortung die wir inne haben, und wir alle müssen deshalb abrüsten. Abrüstungsvertrag um Abrüstungsvertrag.  
 Ewiger Friede, eine _verstiegenen Utopie_ und Gleichzeitig eine Aufforderung zur Verantwortung, an der wir uns zu Messen haben. 
-Bild von
-"Das ist ~~nicht~~ unser Krieg" ^[Russland Urkaine Krieg 2022]
+Bild von  
+"Das ist ~~nicht~~ unser Krieg" ^[Russland Urkaine Krieg 2022]  
 Beschreibt sowohl diese Aufforderung als auch die Verantwortung genau. Es ist unser Krieg, er ist unser aller Verantwortung, und wir könnten ihn beenden. Und deshalb ist es nicht unser Krieg, wir sollten ihn beenden. Wir führen keine Kriege wenn wir die Verantwortung gegenüber unseren Kindern annehmen.  
 
 

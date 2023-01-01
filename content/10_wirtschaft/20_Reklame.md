@@ -54,5 +54,9 @@ Das ist nicht möglich, die Milch von Morgen kann man heute nicht trinken. Es mu
 
  Wir müssen heute mehr Milch produzieren, um die Milch von Morgen auszugleichen, die wir heute schon getrunken habe.
 
+### von Miliardäre die alte Autos Fahren
 
+> I just don’t believe a big showy lifestyle is appropriate. Why do I drive a pickup truck? What am I supposed to haul my dogs around in, a Rolls Royce? ^[https://www.walmartmuseum.com/content/walmartmuseum/en_us/timeline/decades/1970/artifact/2580.html Walmart museeum]  
+
+Und nun SBF ^[Sam Bankman Fried FTX debakel] er fährt einen Honda irgenwas. Ein beliebtes Motiv in der amerikanischen geschichte.  
 

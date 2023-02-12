@@ -3,7 +3,7 @@
 
 Oder die Grundbestimmungen als der Feste Anker in der realen Politik.
 
-Um eine Unterwanderung und Umdeutung vorzubeugen werden die Zentralen Kerne als Prinzipien abgeleitet die sich in der Satzung als Grundbestimmungen wiederfinden bzw. aufgenommen werden, diese können nach Satzung nur schwerlich geändert werden. Wie das  Grundgesetzt für alle Parteien nur deutlich spezifischer und das Ziel ist es das Grundgesetzt diesen Grundbestimmungen anzunähern. Siehe _die Partei ist ein Labor_.  
+Um eine Unterwanderung und Umdeutung vorzubeugen werden die Zentralen Kerne als Prinzipien abgeleitet die sich in der Satzung als Grundbestimmungen wiederfinden bzw. aufgenommen werden, diese können nach Satzung nur schwerlich geändert werden, wie das  Grundgesetzt für alle Parteien nur deutlich spezifischer. Das Ziel ist es das Grundgesetzt diesen Grundbestimmungen anzunähern. Siehe _die Partei ist ein Labor_.  
 Diese Grundbestimmungen sind die Maßlatte an denen sich die Politik zu Orientieren hat sie sind der Wertekanon der Partei, sie sind im Schiedsgericht einklagbar.  
 Kein Vorsitzender kann mit einer kleinen Mehrheit einen Parteikurs gestalten der den Grundbestimmungen zuwider läuft. -Nicht ohne aus dem Amt geklagt zu werden.  Es wird nicht die Ankündigung geben, Kinderrechte in das Grundgesetzt zu schreiben ^[Koalitionsvertrag cdu spd 2017 2021] um dann- eine Legislatur Periode später , 100 Milliarden für den Krieg bereit zu stellen ^[GG änderung Grüne/spd 2021], Grundgesetztlich verankert, anstelle der Kinderrechte. Hier sehen wir wie wichtig diese Formalitätet sind. Wie genau es gilt eine Satzung zu konstruieren das sie nicht hackbar ist, ist nur ganz bedingt Gegenstand unserer Überlegungen. Ein Beispiel ist im Bastelabschnitt niedergelegt. ^[Abschnitt 2 Basterl...]  
 Bei den Grundbedingungen dürfen wir nicht sparen, sie müssen **radikal trivial**, also eingängig, herausfordernd und umfassend sein, sie bilden den Kern des _abwegigen Sektierertum_ dem wir uns verschrieben haben.  
@@ -32,7 +32,13 @@ Definiert Harari das Bewustsein über die Fähigkeit zum Leiden, was für sich v
 Wahr ist aber auch das wir nicht nur staunen und lieben können, auch frustriert wie der Frosch ^[Verhaltenbiologie 7 Klasse Abbruch des Appetenzverhalten] können wir uns fühlen, verraten und verkauft ... einsam. Uvm.
 Die daraus folgende Ethik kann nur sein, das man empfindsamen Lebewesen keine schlechten Gefühlen zufügt. Und da sind wir doch beim Leid das wir fähig sind zu empfinden von dem Harari gesprochen hat.  
 Wenn wir einen Hauch einer Vorstellung von Bewusstsein entwickeln wollen, an dieser Stelle, dann scheint eine "non computable", in der Quantenmechanik verankerte Vorstellung, wie die "Orchestrated objective reduction" ^[@penrose2017consciousness "1. Consciousness in the Universe: Neuroscience, Quantum Space-Time Geometry and Orch OR Theory"] eine geeignete Wahl.  
+Das Bewustsein ist es was uns miteinander interagieren läßt, so Roy Baumeister ^[Roy Baumeister - Why Did Consciousness Emerge? https://www.youtube.com/watch?v=TpRVvRpySkk ]. Einfacher auf den Punkt gebracht liest es sich:  
 
+ ![Der Mensch ist ein Wesen der Gemeinschaft ...](resources/klarmachen/klamachen-Polis.png){ width=50% }
+
+Für uns Menschen ist unser Bewustsein nicht von der Gemeinschaft trennbar, die Gemeinschaft Formt das Bewustsein, das Bewustsein stiftet die Gemeinschaft.
+
+Das Bewustsein läßt sich für uns nicht von der Gemeinschaft trennen.
 
 
 * Paziﬁsmus

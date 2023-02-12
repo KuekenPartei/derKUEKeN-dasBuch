@@ -124,6 +124,26 @@ Der Anspruch der Universalität des kritischen Denkens wird eingetauscht gegen d
 > Was berechtigt einen *liberalen Politiker* zu dem Glauben, dass die Menschen von sich aus wünschenswerte Entscheidungen treffen und nicht einem egoistischen Verhalten den Vorzug geben, ja zynisch beschließen, sich wie ein <<Teufel>> aufzuführen? Bastiats Antwort darauf ist einmal mehr exemplarisch: Sie markiert in aller Deutlichkeit den (zugleich philosophischen wie historischen) Augenblick, in dem die  Einheit der liberalen Philosophie *an sich* endlich eine Einheit *für sich* werden kann. Anders gesagt: den Augenblick, in dem der Liberalismus entdeckt, dass die einzig ihm noch zu Verfügung stehende *konsequente* Option zur Entkräftung der sozialistischen Kritik darin besteht, die Auflösung der Aporien des Rechts den *Mechanismen des Marktes* zu überantworten.` [@JCM_DRU_2017 Seite 45-46]  
 
 
+### was wir vom süßen Wein lernen können
+
+> "Acidissimum autem omne quod ex plumbi fauce gustatur; primum quia grave est et saccharinum" ^[Naturalis Historia, Buch 34, Kapitel 131, "Alles, was aus einer Bleiflasche getrunken wird, schmeckt säuerlich; zuerst, weil es schwer und süßlich ist."]
+
+> Nam plumbum ex dolio in vinum multo facilius quam ex aqua transilit; ideo vina quae ex plumbeis doliiis haustae sunt, acriora sunt et noxia ^[Naturalis Historia, Buch 31, Kapitel 89, "Blei tritt aus Fässern in Wein viel leichter aus als aus Wasser; deshalb sind Weine, die aus Bleifässern gezogen wurden, saurer und schädlicher." ]
+
+Seit 2000 Jahren wissen wir also um die enorm schädliche Wirkung des Blei, das hat niemanden abgehalten, im Mittelalter war es weit verbreitet. Erst die Aufklärung mit hat mit Antoine François Fourcroy in "System der chemischen Kenntnisse und ihrer Anwendungen auf die Phänomene der Natur und der Kunst" von 1801 die Schädlichkeit des Bleis geschrieben. Davon ausgehen sind Jahre später Verordnungen erlassen worden die Bleibenutzung einschränkt. ^[in Deutschland wurde 1879 eine Verordnung erlassen, die das Herstellen und den Verkauf von Wein aus Bleigefäßen untersagt, "Sale of Food and Drugs Act" von 1875 in England] Und hier ist die Geschichte des Blei nicht beendet. Obwohl wir die schädliche Wirkung des Blei kannten haben wir begonnen Blei in das Benzin zu mischen das unsere Autos verbrennen. Es lässt den Motor runder laufen. Dieses Blei schwebt dann frei in der Luft und wir Atmen es ein.
+Wir konnten zeigen dass die Kontamination der Kinder mit Blei zu Hirnschädigungen führt: "Needleman, H. L., Gunnoe, C., Leviton, A., Reed, R., Peresie, H., Maher, C., & Barrett, P. (1979). Deficits in psychologic and classroom performance of children with elevated dentine lead levels. New England Journal of Medicine, 300(13), 689-695." und "Mahaffey, K. R., Annest, J. L., & Roberts, J. (1976). National estimates of blood lead levels: United States, 1971-1974. New England Journal of Medicine, 295(11), 573-578." aber auch schon viel FRüher: " die Studie von Kehoe und coll. aus dem Jahr 1943, die in der Fachzeitschrift "American Journal of Diseases of Children", und jezt kommt doch die spannende Frage: Wie kann es sein das wir einen Stoff in Benzin mischen von dem wir wissen das er Giftig ist, von dem wir wissen, wenn unsere Kinder ihn einatmen das sie massive schäden an Nervensystem, Nieren usw. davon tragen können?  
+Eine Erklärung ist der Profit, es läßt sich besser verkaufen, fahren die Autos doch schneller mit einer effektiveren Verbrennung des Treibstoffs. 
+Irgenwie fühlt man sich aber auch an die Aussage "Some women like smaller babies" ^[William L. Dunn  Jr. zu dem Einfluss des Rauchens auf ungeborerene] errinnert, hier hieße der Satz "Most rules like dummer peopel".  
+Ausgehend von der Bekannten Schädlichkeit, also mit sehendem Auge die falsche entscheidung zu treffen klingt mehr nach Vorsatz denn nach Pech. Das Blei ist damit ein hervorragedes beispiel wie wir hinter bekanntem zurückbleibe, wie partikulare interessen in der Lage sind das bekannte und richtige zu unter unterdrücken. 
+
+
+### Gererchtigkeit und Frieden
+
+Frieden ist unsere erste Grundbestimmung, Gerechtigkeit eine andere, heute ^[Feb. 2023] in Zeiten des Ukraine Krieges wird die Gerechtigkeit gegen den Frieden in Stellung gebrach, das Argument ist wir können keinen Frieden schließen so lange die ungerechtigkeit, in diesem Fall der angriffkrieg der Russen, gesühnt ist. Solange nicht Gerechtigekeit hergestellt ist.  
+
+
+
+
 ###  Vom Wert des Zweckes
 
 Was spricht gegen den Nihiliusmus ?

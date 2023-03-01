@@ -1,3 +1,12 @@
+### das kartesische Subjekt und sein Bauchnabel
+
+Das kartesische Subjekt hat keinen Bauchnabel, denn es hat keinen Körper. Es ist die vorgestellte Abgrenzung des Bewusstsein von allem, auch seinem Körper, durch den Zweifel.  
+Es scheint, so zweifelt das Kartesische Subjekt, als brauche es keine Hände, keine Beine, keinen Kopf mit einem Gehirn das die Denkvorgänge stiftet.  
+Wie kann das sein? Weil das Denken ein zweites ist, das Denken ist das Ergebnis der Prozesse des Gehirns, deshalb kann, oder besser muss, das Kartesische Subjekt die Denkvorgänge des Gehirns Voraussetzen weil es dessen Ergebnis ist. So wie der Fisch das Wasser voraussetzt. Die Verwechslung des Signifikanten mit dem Signifikant. Der Landkarte mit dem Territorium.  
+In der Wirklichkeit schwimmt der Fisch im Wasser und wir sind Menschen, mit einem spezifischen Körper und das kartesische Subjekt ist eine Vorstellung von uns Menschen in unserem Gehirn. Der Mensch hat einen Körper und einen Bauchnabel, ein jeder Mensch. Der Bauchnabel ist das Zeichen der Hilflosig- und Angewiesenheit des Menschen. Das der Mensch nur durch die Sorge andere Menschen ein Mensch sein, das heißt Leben kann.  
+Und das er das tut: Das es Menschen gibt die die Hilflosigkeit des Säuglings annehmen, die ihn besorgen. Jeder Erwachsene ist ein Zeugnis dies Besorgtwerdens. Ein lebender Beweis.  
+Die Sorge ist die andere Seite der Hilflosigkeit, sie ist die Entsprechung und Annahme dieser. Ohne würden wir nicht leben, deswegen sind sie die 
+
 ### radikale nominalisierung
 
 Radikale Nominalisierung kündigt sich an. Mit dem Streichen des Modells aus der Wissenschaft wird das an sich negativ formulierte Erkenntnisprinzip "Eine wissenschaftliche Erkenntnis kann nur widerlegt werden, niemals bewiesen" ^[Falsifikationsprinzip, Karl Popper] aufgegeben.^[Der Paradigmenstreit der Wissenschaft ist ablesbar im z.B. "Human Brain Project (HBP)" (Wo bleibt das Hirn?) Konkret gesprochen klingt es so: "Ich kann den aktuellen Großprojekten, die an der Simulation des Gehirns arbeiten, nur viel Glück Wünschen. Aus meiner Sicht liegt eine theoretische Neurobiologie, die diesen Namen verdient noch in weiter Ferne." (Gerhard Roth, Gehirn und Geist, 3/2014, S.66)] Der kritische Rationalismus wird überwunden. Big Data ist nicht realistisch. Der Verzicht auf das Modell ist gleichzeitig ein Verzicht auf den "realen Grund" erscheinender Natur.

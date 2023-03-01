@@ -105,8 +105,31 @@ Hier können wir nur Glück haben, Glück das die Voraussetzungen richtig gewäh
 Wird das Denken so als eine Glücksache verstanden ist es ein Aufruf zur Intellektuellen Bescheidenheit.
 Wir verlieren so nichts was wir vorher besaßen aber gewinnen Bescheidenheit.
 
+### wozu Bewustsein
+
+Wenn wir Leibnitz große Frage, "Warum ist etwas und nicht vielmehr nichts", ein wenig abwandeln, bleibt sie für uns gleich relevant, aber leichter greifbar. Warum das leben Bewusstsein ausgebildet hat, das ist für das Bewustsein die selbe Frage. Im ersten Moment scheint das Bewusstsein eher etwas hinderliches, wenn ich mich erst entscheiden kann, nach dem ich mir etwas klar gemacht habe, kann ich schon gegessen worden sein. Einfachere reflexogbogen Systeme sind da viel schneller. Warum schleppt sich das leben mit diesem Bewusstsein rum? Gerade wenn wir uns den selektiven Druck vorstellen, der auf dem leben lastet. Warum ein Bewusstsein produzieren das die Entscheidungsvorgänge "erlebt". Ist es nicht sogar besonders herzlos von der Welt, all diese Wesen die sich nicht behaupten können, die gefressen, verschlungen, zerquetscht, aufgelöst in Säure u.ä. werden, müssen mit anfühlen wie das mit ihnen passiert. Das klingt doch eher wie die grausame Idee eines verrückten Gottes.  
+Bewustsein ist kein Problem, Bewustsein ist die Lösung für ein Problem, das das leben hat: "Entscheiden".
+Entscheiden ist ein Problem, wir wissen das von der Russelschen Aniomie, der Gödelschen Unvollständigkeit und dem halte Problem Turings. Enscheidungen sind das Problem die das Leben Lösen muss. Wie die vorhergehenden Sätze gezeigt haben ist dies Algoritmisch nicht möglich, das hat auch das Leben 'begriffen' die Antwort des lebens auf das Enscheidungs Problem ist unser Bewustsein. Das "Klarmachen ändert" gibt dem Leben einen selektiven Vorteil gegenüber "algoritmischen" leben. ^[Voraussichtlich ist genau deshalb das Weltall nicht voller von Neuman Sonden, die Funktionieren einfach nicht.] 
+Wir können die Dialektik der Aufklärung erkennen, können hinter die Kulisse der zweiten Welt schauen und können ein neues Bild von ihr in unserem inneren erzeugen.  
+Bewustsein ist eine Problemlösung, und das Problem ist schwerwiegend. Das Problem heißt wie sich auf die dich ändernden Umstände zu beziehen und wie handeln. Das Handeln ist erzwungen durch die Welt.  
+Das Leben hat das Bewusstsein hervorgebracht weil das Bewusstsein ein evolutionärer Vorteil ist. Bewustes Leben verschlingt alles algorithmische leben.  
+Daraus können wir lernen das unsere Leidensfähigkeit etwas gutes ist, ein echtes plus. Mit dieser Voraussetzung ist die Frage nach alhoritmischen Bewusstsein geklärt, wenn das Bewusstsein die Lösung für das algoritmische Problem darstellt kann es ein algotithmischen Bewusstsein nicht geben. Computer werden demnach nie Bewustsein entwickeln. ^[Das ist eine dezente weiter Entwicklung des Argument in "The Emperor's New Mind" von Roger Penrose.]. Das Zentrale Merkmal für Bewusstsein ist hier "die nicht berechenbarbeit" bzw. "non Computable". Das Argument dafür ist recht einfach, da rechnen nur eine Verkürzung des Zählens ist, und alles Zählbare immer schon gezählt ist, gibt es keine Dynamik, keine Form die sich bilden und erhalten kann.  
+Physikalisch halte ich eine "non computable", in der Quantenmechanik verankerte Vorstellung, wie die "Orchestrated objective reduction" ^[@penrose2017consciousness "1. Consciousness in the Universe: Neuroscience, Quantum Space-Time Geometry and Orch OR Theory"] für die geeignetste Vorstellung für die Verbindung der Physikalischen Welt mit dem gestiftet sein unsere Erfahrung von Dasein.  
+
+
 ### der Mensch als Primat
 
+Primatengruppen mit großem physiologischem Unterschied zwischen den Geschlechtern:
+
+* Gorillas: Männliche Gorillas sind deutlich größer und schwerer als weibliche Gorillas, und sie haben auch einen größeren Schädel und größere Zähne.
+* Mandrills: Männliche Mandrills haben auffällige Gesichtsfarben und längere Stoßzähne als weibliche Mandrills.
+
+Primatengruppen mit geringen physiologischen Unterschieden zwischen den Geschlechtern:
+
+* Gibbons: Männliche und weibliche Gibbons haben ähnliche Körpergrößen und Körpermasse.
+* Bonobos: Männliche und weibliche Bonobos unterscheiden sich kaum in ihrer Körpergröße oder Körpermasse, und beide Geschlechter haben einen ähnlich hohen Sexualtrieb.
+
+Bei einigen Arten, wie beispielsweise Gibbons und Bonobos, beteiligen sich auch die Männchen an der Betreuung der Jungen, indem sie sie herumtragen und gelegentlich füttern. Bei Gorillas hingegen sind die Männchen in der Regel nicht direkt an der Betreuung der Jungen beteiligt, sondern sie dienen eher als Beschützer der Gruppe.
 
 
 
@@ -139,8 +162,9 @@ Ausgehend von der Bekannten Schädlichkeit, also mit sehendem Auge die falsche e
 
 ### Gererchtigkeit und Frieden
 
-Frieden ist unsere erste Grundbestimmung, Gerechtigkeit eine andere, heute ^[Feb. 2023] in Zeiten des Ukraine Krieges wird die Gerechtigkeit gegen den Frieden in Stellung gebrach, das Argument ist wir können keinen Frieden schließen so lange die ungerechtigkeit, in diesem Fall der angriffkrieg der Russen, gesühnt ist. Solange nicht Gerechtigekeit hergestellt ist.  
-
+Frieden ist unsere erste Grundbestimmung, Gerechtigkeit eine andere, heute ^[Feb. 2023] in Zeiten des Ukraine Krieges wird die Gerechtigkeit gegen den Frieden in Stellung gebrach, das Argument ist: Wir können keinen Frieden schließen so lange die ungerechtigkeit, in diesem Fall der Angriffkrieg der Russen, gesühnt ist. Solange nicht Gerechtigekeit hergestellt ist.  
+Der Fieden, so wie wir ihn in den Grundbestimmungen voraussetzen, ist negativ, über die abwesenheit von Kriegsgerät, bestimmt. Wir können ziemlich genau sagen worin Frieden besteht. Frieden ist mess- und kontrollierbar ^[ask the weapons inspector].  
+Das selbe gilt nicht für die Gerechtigkeit, was gerecht ist ist nicht eindeutig über etwas negavives bestimmbar, ist die gegebene Vermögensverteilung gerecht, oder aritnetische Trivialität? ^[vgl. ] Mit der gerechtigkeit werden wir uns lange beschäftigen müssen. Wir müssen den Kern klären ... miteinander. Einfach kann man sagen: bevor wir ein gemeinsames Verständins von Gerechtigkeit entwickelt haben wird noch viel Zeit vergehen. Genau dewegen darf die Gerechtigkeit nicht die Voraussetzung für Frieden sein.  
 
 
 

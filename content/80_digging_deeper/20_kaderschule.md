@@ -17,80 +17,6 @@ Hier gehen wir den entscheidenden Fragen nach.
 Und immer daran denken was der naive Dekonstruktivist sagen wird:
 **Ideolielosigkeit ist eine Ideologie.**
 
-### Wie begründet ihr Wert?
-
-Da es ohne Werte kein richtiges oder falsches Handeln geben kann und so
-auch keine Orientierung für politisches Handeln gegeben wäre, braucht
-der KUEKeN wie jedes verantwortliche Handeln einen Wertekanon, der den
-Kern des politischen Denkens bildet. Ohne diesen ließe sich zwar
-Klientelpolitik ohne Weiteres realisieren. Ein dem Gemeinwohl
-verpflichtetes und somit verantwortliches politisches Handeln hingegen
-braucht eine Werteorientierung.
-
-Als säkulare Partei suchen wir die Gründe unseres Handelns
-selbstverständlich nicht in einer transzendenten Entität wie etwa Gott.
-Was uns alle eint ist das Leben. Wir schätzen das Leben wert. Täten wir
-dies nicht, wir könnten es beenden. Ganz nach der Logik: "Save the
-planet, kill yourself." [vgl. vom finden des Konsens] Wir gehen jedoch davon aus, dass ein gesundes
-Lebewesen das Leben ganz allgemein - nicht nur sein eigenes - als einen
-Wert schätzt. Hieraus erwächst ein Anspruch jedes einzelnen Individuums
-auf Leben. Dass dieser Anspruch auf Leben jedem Menschen (an sich sogar
-jedem Lebewesen) inhärent ist, vereint er uns Lebende. Wir können
-hieraus direkt auch das Recht jedes einzelnen auf Leben wie auch
-körperliche Unversehrtheit ableiten. Ohne Ausnahme. Dieses "ohne
-Ausnahme" ist von zentraler Bedeutung: Es macht deutlich, dass dieser
-Anspruch auf Leben für alle gleichermaßen gilt. Es gibt nichts in der
-Welt, das eine Ausnahme begründen könnte. Somit kann dieses fundamentale
-Grundrecht auf Leben und körperliche Unversehrtheit weder eingeschränkt
-werden, noch kann es exklusives Recht geben.
-
-Das Leben als einen Wert zu schätzen, ohne Ausnahme, eint uns lebende
-Menschen.
-
-Aus diesem Wert entspringt die Verantwortung als Fürsorge für den
-Nachwuchs. *„Verantwortung im ursprünglichsten und massivsten Sinn folgt
-aus der Urheberschaft des Seins, an der über die aktuellen Erzeuger
-hinaus alle beteiligt sind, die der Fortpflanzung durch Nichtwiderruf
-ihres Fiat im eigen Fall beipflichten, also alle, die sich selber das
-Leben erlauben“* Diese Fürsorge weitet sich, als Kinder der
-Gesellschaft, umfasst diese Verantwortung und Fürsorge jeden einzelnen.
-
-Diese Wertebestimmung findet sich in den Grundbestimmungen wieder als
-[Lebenszeit als
-Schatz](/wiki/Grundbestimmungen#Lebenszeit_als_Schatz.md).
-
-### Wieso ist "ohne Ausnahme" so zentral?
-
-"Ohne Ausnahme" ist ein zentrales Element der Aufklärung. Es begründet
-sich in der Säkularität. Denn ohne einen Gott gibt es auch kein
-auserwähltes Volk, da es keinen Gott mehr gibt, der uns auswählt.
-Ebensowenig gibt es dann einen Messias. Es gibt eben lediglich Menschen
-mit individuellen Bedürfnissen, die eine Schnittmenge bilden, die im
-wesentlichen in den universellen Menschenrechten abgebildet sein sollen
-und auch nur "ohne Ausnahme" universell sind.
-
-Statt einer metaphysischen Entität wie Gott oder einer Ideologie leiten
-wir unsere Werte aus dem kritischen Denken ab, welches wieder "ohne
-Ausnahme" ist und sein muss, weil es von jedem und jeder nachvollzogen
-werden kann. Unsere Kulturtechniken sind erlernbar, jeder kann - die
-geeignete Ausbildung vorausgesetzt - das kritische Denken selbst
-benutzen und so das Denken und das Gedachte nachvollziehen. Diese
-Nachvollziehbarkeit macht das kritische Denken universell. Ein einfaches
-Beispiel ist die Mathematik, jeder kann den [Beweis des
-Euklids](https://de.wikipedia.org/wiki/Beweis_der_Irrationalit%C3%A4t_der_Wurzel_aus_2_bei_Euklid)
-nachvollziehen, nur Ausbildung ist vorausgesetzt. Diese Ausbildung muss
-jedem zugänglich sein (vgl.
-[1](http://www.un.org/depts/german/menschenrechte/aemr.pdf%7CMenschenrechte).
-
-Das kritische Denke ist nicht exklusiv.
-
-Hierin liegt auch eine zentrale Voraussetzung für die Demokratie und das
-Kernargument dafür, warum es entscheidend ist, alle Menschen im
-politischen Prozess zu berücksichtigen und zumindest bei Wahlen alle
-einmal zu fragen und niemanden auszuschliessen. Es ist dem kritischen
-Denken vom Prinzip her nicht möglich Exklusiv zu sein. Eine Ausnahme
-widerspräche dem kritischen Denken selbst, es wäre damit kein kritisches
-Denken mehr.
 
 ### Denken ist Glückssache
 
@@ -119,18 +45,17 @@ Physikalisch halte ich eine "non computable", in der Quantenmechanik verankerte 
 
 ### der Mensch als Primat
 
-Primatengruppen mit großem physiologischem Unterschied zwischen den Geschlechtern:
+Wenn wir betonen das der Mensch einen körper hat ^[vgl. das kartesische Subjekt und sein Bauchnabel], und wir festgestellt haben das dieser unser Körper spezifische bezogeheit auf die Welt bedeutet, müssen wir uns näher mit diesem Körper beschäftigen.
+Wir sind Wirbeltiere und teilen damit ihr Verhalten, wird eine Appetez Handlung unterbrochen, haben wir Frust, wie der Frosch Frust hat.  
+Und so lohnt sich der Blick auf die Primaten, zu denen wir auch gehören. Aus der Ferne und über den Daumen kann man leicht feststellen, dass diese Gruppe in zwei grobe Klassen fallen die über ein Phänotypisches Merkmal unterscheidbar sind. Dieses Merkmal ist der sog. "Sexualdimorphismus" ^[https://de.wikipedia.org/wiki/Sexualdimorphismus] der im großen und ganzen den Unterschied zwischen den  geschlechtsreifen männlichen und weiblichen Individuen derselben Art, die nicht auf die Primären Geschlechtsorgane bezogen ist, bezeichnet.  
+Bei den Primaten gibt es eine Gruppe mit einem hohen Sexualdimorphismus, hierunter fallen die Gorillas, Mandrills oder Orang-Utans, sowie die Gruppe der Primaten die einen sehr niedrigen Sexualdimorphismus aufweisen. Gibbons, Bonobos, Marmosetten usw.. Der Physiologische Unterschied in den Geschlechtern führt zu einer Unterschiedlichkeit im Verhalten und auch hier ist das empirische Schema relativ eingänig und deutlich.  
+Für Primaten mit einem hohen Sexualdimorphismus gilt das ~20% der Männchen für 80% des Nachwuchs verantwortlich sind. Es sind die alpha Männchen in der Gruppe die den Zugang zu den Weibchen kontrollieren, nun ist alpha Männchen sein eine erschöpfende Angelegenheit, es gilt diese 20% Nachwuchs der anderen zu verhindern, es gilt jede Herausforderung der anderen Männchen siegreich zu beantworten und diese in ihre Schranken zu weisen. Alles während man versucht so viel Nachwuchs wie irgend möglich zu zeugen, denn alpha Männchen ist man nicht für lange. Da bleibt kein Platz für die Erziehung. Keine Aufmerksamkeit für die Brutpflege. Meist sterben sie früh, werden von einem anderen Männchen bezwungen, und werden ausgestoßen. Kompetitive Gruppen sind ein hartes Brot. Sie bestehen primär aus traumatisierten Personen.  
+Das Alphamännchen: Zwar ist es das Männchen mit dem Zugang zu den Weibchen und in der Hierarchie an der Spitze, aber einsam ist es da. Die anderen, die Beta Männchen, jedes trachtet danach selbst Alpha Männchen zu sein. Wartet auf einen Moment für seine "Palastrevolution". Koalitionen werden geschmiedet, Zusammenarbeit, soziale Interaktion, reduziert sich am Ende immer auf die Generierung von Vorteilen. Männliche Banden ^[Bande kommt von Binden und Bund]:  
 
-* Gorillas: Männliche Gorillas sind deutlich größer und schwerer als weibliche Gorillas, und sie haben auch einen größeren Schädel und größere Zähne.
-* Mandrills: Männliche Mandrills haben auffällige Gesichtsfarben und längere Stoßzähne als weibliche Mandrills.
+> _Fry, I'm an 80s guy. Friendship to me means that for 2 bucks I'd beat you with a pool cue until you got detached retinas._ ^[Steve Castle,Futurama Season 3 Episode 21 "Future Stock"  https://theinfosphere.org/Steve_Castle#Quotes] 
 
-Primatengruppen mit geringen physiologischen Unterschieden zwischen den Geschlechtern:
-
-* Gibbons: Männliche und weibliche Gibbons haben ähnliche Körpergrößen und Körpermasse.
-* Bonobos: Männliche und weibliche Bonobos unterscheiden sich kaum in ihrer Körpergröße oder Körpermasse, und beide Geschlechter haben einen ähnlich hohen Sexualtrieb.
-
-Bei einigen Arten, wie beispielsweise Gibbons und Bonobos, beteiligen sich auch die Männchen an der Betreuung der Jungen, indem sie sie herumtragen und gelegentlich füttern. Bei Gorillas hingegen sind die Männchen in der Regel nicht direkt an der Betreuung der Jungen beteiligt, sondern sie dienen eher als Beschützer der Gruppe.
-
+Für die Weibchen in der Gruppe sieht es nicht viel besser aus. Sie sind mit den Kindern allein, müssen herhalten für das alpha Männchen, sind, unbeobachtet von diesem, Ziel von beta Männchen und ihren nicht immer höflichen annäherungs versuchen.  
+Da fühlen sich Kooperative Gesellschaften, wie sie Gibbons, Marmosetten oder Bonobos praktizieren deutlich attraktiver, d.h. weniger traumatisierend, an. 
 
 
 ### Die Aufklärung und der Liberalismus

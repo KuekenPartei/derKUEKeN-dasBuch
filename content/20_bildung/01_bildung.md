@@ -18,8 +18,9 @@ Bildung ist daher auch ein wesentlicher Punkt in unserem
 selbstverständlicher Bestandteil unserer Überlegungen zur [sozialen
 Nachhaltigkeit](/wiki/Soziale_Nachhaltigkeit.md).
 
-Schule
-------
+## Kindergeld - auf dem Weg zu BGE
+
+## Schule
 
 Im Bildungsbereich schneidet Deutschland seit vielen Jahren aber nicht
 mehr in den Spitzenpositionen ab, in denen ein rohstoffarmes Land sich
@@ -51,14 +52,42 @@ Schulverweildauer sollte hierbei keine Rolle spielen. Wir denken, dass
 wir es uns nicht leisten können, dieses aktivierbare Potential ungenutzt
 zu lassen.
 
-Universität
------------
 
-Einzelnachweise
----------------
+### echte Lehrmittelfreiheit
 
-<references />
-[Kategorie:Bildungspolitik](/wiki/Kategorie:Bildungspolitik.md)
+Zwar wird den Bürgern und Bürgerinnen von verschiedenen Stellen
+Lehrmittelfreiheit für ihre Kinder versprochen, doch dann müssen Eltern
+feststellen, dass sie neben den Kosten für Material wie Hefte, Mappen,
+Papier, Stiften u.ä. - diese Kosten sollten, wie die Gegenstände selbst
+eben auch, durchaus weiter bei den Eltern verbleiben - eben auch
+Workbooks, Kopiergeld, Klassenfahrten, Schulausflüge und anderes mehr
+bezahlen müssen.
+
+Diesen Missstand wollen wir abschaffen. Wir wollen, dass jedes Kind an
+allen schulischen Veranstaltungen teilnehmen kann - unabhängig vom
+elterlichen Geldbeutel und auch, ohne dass dafür auf etwas anderes
+verzichtet werden muss.
+
+### Transportentgelte für Schulwege
+
+Nachdem in vielen Gegenden Deutschland kleinere Schulen auf dem Land
+sukzessive abgebaut wurden - häufig mit dem Verweis, dass der Transport
+in die nächstgrößere Gemeinschaft doch von den Kommunen übernommen werde
+- wird nun der öffentliche Beitrag zu diesen Transferkosten
+zurückgenommen. Dies ist ein Skandal und grenzt an Betrug an den Bürgern
+und Bürgerinnen. Wir wollen eine allgemeine Schulpflicht und treten
+dafür ein, dass Schulen gerade für die jüngeren Kinder möglichst
+wohnortnah zur Verfügung stehen. Wo dies vorübergehend nicht
+gewährleistet werden kann, wird der Transport der Kinder zur Schule
+selbstverständlich von der gesamten Gemeinschaft finanziell getragen,
+sodass die verantwortungsvolle und mündige Gemeinschaft auch hier ihrer
+Verantwortung für die [Kinder der
+Gesellschaft](/wiki/Kinder_der_Gesellschaft.md) gerecht wird.
+
+
+## Universität
+
+
 
 [1] vgl. [Art.26, Allgemeine Erklärung der
 Menschenrechte](http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/ger.pdf)

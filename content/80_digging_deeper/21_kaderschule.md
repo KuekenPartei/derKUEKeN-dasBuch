@@ -6,6 +6,20 @@ Wie kann das sein? Weil das Denken ein zweites ist, das Denken ist das Ergebnis 
 In der Wirklichkeit schwimmt der Fisch im Wasser und wir sind Menschen, mit einem spezifischen Körper und das kartesische Subjekt ist eine Vorstellung von uns Menschen in unserem Gehirn. Der Mensch hat einen Körper und einen Bauchnabel, ein jeder Mensch. Der Bauchnabel ist das Zeichen der Hilflosig- und Angewiesenheit des Menschen. Das der Mensch nur durch die Sorge andere Menschen ein Mensch sein, das heißt Leben kann.  
 Und das er das tut: Das es Menschen gibt die die Hilflosigkeit des Säuglings annehmen, die ihn besorgen. Jeder Erwachsene ist ein Zeugnis dies Besorgtwerdens. Ein lebender Beweis.  
 Die Sorge ist die andere Seite der Hilflosigkeit, sie ist die Entsprechung und Annahme dieser. Ohne würden wir nicht leben, deswegen sind sie die 
+//TODO: weiter
+
+
+### Die Weltraumkolonien der Amazonen.
+
+Die Geschichte des Katalytischen Zyklus. 
+Eine Geschichte aus der Vergangenheit, der Zukunft und der Gegenwart, es ist eine ewige Geschichte und sie spielt an vielen Stellen unseres Universums zugleich, auf vielen der Planeten. 
+Durch welche Umstände der Katalytische Zyklus auf diese Planeten gekommen ist, spielt keine Rolle, er könnte auf Asteroiden haftend, eingeschlagen, er könnte von fremden Intelligenzen in das All gepustet, oder im Schatten einer mittleren Sonne, in einer Pfütze, angeregt durch eine elektromagnetische Entladung, spontan und zufällig entstanden sein. Er benötigt spezifische Bedingungen um katalytisch wirken zu können. Um diese spezifischen Bedingungen selbst herstellen zu können, benutzt der Katalytischen Zyklus Stoff, um Körper zu bauen - in und mit diesen Körpern stellt der Katalytischen Zyklus lokal genau diese spezifischen Bedingungen geeignet her. 
+Diese Katalytische Zyklus auf unserem Planet Erde ist das Bioproteinsynthese System. Die Körper sind wir und alle uns umgebenen Lebewesen. In der Biologie ist es der einfachste Willensausdruck den wir ableiten können, „Das Egoistische Gen“ das sich reproduzieren will1.^[Egoistisch ist wahrscheinlich ein, im heutigen Sprachgebrauch, falsches Wort, zeigt es sich das die  „zero determinant strategies“ nicht stabil sind, on the long run. [http://msutoday.msu.edu/news/2013/evolution-will-punish-you-if-youre-selfish-and-mean/] Und der lange Weg ist es, auf dem wir sind. Der ablesbare Willensimpuls in der Biologie dreht sich als Sorge um sich selbst, und weniger als Narzis.] Diese  egoistischen Gene bauen Körper Roboter um größere Bereiche der Umwelt besiedeln zu können. Die geschlechtliche Fortpflanzung ist ein Mechanismus der egoistischen Gene die komplexen Baupläne der Körper leichter zu rekombinieren, um eine vielfältigere Auswahl an Phänotypen zu erzeugen, die die spezifischen Bedingungen des Katalytischen Zyklus unter unterschiedlichsten Umweltbedingungen möglich machen. Die Stamm Form des Katalytischen Zyklus ist so immer die weibliche Form. 
+Hier stehen wir, auf diesem Planeten, der in nur 5 Milliarden Jahren, von der Sonne, aufgebläht zu einem roten Riesen, verschluckt wird. Planeten sind ein Schoß. Und das Leben ist nicht gedacht auf Planeten zu verweilen. 
+So richtet sich der Blick in den Himmel. Unser Blick. Mit der Besiedelung des Weltraums werden die Bedingungen in dem den Katalytischen Zyklus existiert, bestimmt von ihm selbst. Damit verliert sich der Zweck der geschlechtlichen Fortpflanzung, und darüber wird sich auch das Geschlecht verlieren. Die  Parthenogenese wird sich einstellen und über die Zeit wird sich die Stammform herausbilden. 
+So sind die Weltraumkolonien, die Weltraumkolonien der Amazonen.
+
+
 
 ### radikale nominalisierung
 

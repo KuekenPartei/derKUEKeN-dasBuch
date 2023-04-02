@@ -1,4 +1,5 @@
 
+\pagebreak
 
 
 “Die Irrationalität der wiederstandlosen und emsigen Anpassung an die Realität wird für den Einzelnen vernünftiger als die Vernunft.”[DdA S. 212]

@@ -1,6 +1,5 @@
 \pagebreak
-
-## Vom Konsens der Lebenden
+### Vom Konsens der Lebenden
 
 
 Eine Gemeinschaft lebt vom Konsens. Worin können wir einen Konsens begründen? 

@@ -1,0 +1,21 @@
+name: release pdf
+
+on:
+  push
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build the Docker image
+      run: docker run --rm --volume "`pwd`:/pandoc"  --user `id -u`:`id -g` --entrypoint "bin/makedoc.sh"   dalibo/pandocker:stable
+    - name: 'Release Artifact'
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/')
+      with:
+        draft: true
+        files: derKUEKeN.pdf

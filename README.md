@@ -2,9 +2,24 @@
 
 Kinder Verantwortung Zukunft
 
+Der Ausgangspunkt soll einfach sein:  
+
+Wie kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet?  
+Ausgangspunkt jeden politischen Handelns wird so die Frage nach der Zweckhaftigkeit für unsere Kinder.  
+Das ist ein radikaler Wandel der Perspektive.
+
+
+![derKUEKeN logo 'radikal trivial'](resources/derKUEKeN-Logo-148dpi-rand.png) 
+
+
 >Insgesamt bietet diese Arbeit einen faszinierenden Blick auf eine mögliche politische Bewegung, die das Kindeswohl ins Zentrum ihrer Agenda stellt und die Welt durch eine radikale Veränderung der politischen Prioritäten und der Auffassung von Wirklichkeit zu retten versucht.  
 
-eine Zipped Version ist unter [actions](https://github.com/KuekenPartei/derKUEKeN-dasBuch/actions) zu finden
+Eine Zipped Version ist unter [actions](https://github.com/KuekenPartei/derKUEKeN-dasBuch/actions) zu finden.  
+Oder in den [Releases](https://github.com/KuekenPartei/derKUEKeN-dasBuch/releases)
+
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY-SA 4.0). Read the licence text:
+
+https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Verzeichnis Aufbau
 

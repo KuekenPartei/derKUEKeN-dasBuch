@@ -113,11 +113,15 @@ Der Mensch ist ein Wesen der Gemeinschaft. Deshalb gilt unsere Sorge der Gemeins
 
 >"Es gibt nur Identifikation mit dem Schicksal und Parteiergreifung. Das Individuum stellt demnach nicht an sich den Wert dar, den es verteidigen will. Um ihn zu bilden, bedarf es mindestens aller Menschen. In der Revolte übersteigert sich der Mensch im andern, von diesem Gesichtspunkt aus ist die menschliche Solidarität eine metaphysische." ^[@camus2013mensch Seite 325]  
 
-
+Die Solitarität und die Gerechtigkeit hängen zusammen. Die indeferenz der Welt gegenüber unseren Wünschen und Vorstellungen läßt sich sich nur durch dir Anteilnahme der andern Menschen ausgleichen oder wenigstens durch trost ertragen.  
+Wir alle Teilen das Schicksal ^["shared faith"], unser Schicksal, denn die Erde ist eine Kugel und alle wirkungen betreffen uns alle. So bedauerlich der eine oder andere das finden mag, so einfach und wahr ist dieser Zusammenhang. Wir alle Teilen ein Schicksal hier auf der Erde. Hier geht die Solidarität in die Gerechtigkeit über.
 
 ### Gerechtigkeit
 
-Nur in einer Gesellschaft, die strukturbedingte Benachteiligungen in den Möglichkeiten der individuellen Teilhabe ausgleicht und so jedem Menschen die [gesellschaftliche Teilhabe](https://de.wikipedia.org/wiki/Partizipation) ermöglicht, können Kinder kulturangemessen aufwachsen und zu mündigen und gesellschaftskundigen Menschen heranreifen.
+Nur in einer Gesellschaft, die strukturbedingte Benachteiligungen in den Möglichkeiten der individuellen Teilhabe ausgleicht und so jedem Menschen die [gesellschaftliche Teilhabe](https://de.wikipedia.org/wiki/Partizipation) ermöglicht, können Kinder kulturangemessen aufwachsen und zu mündigen und gesellschaftskundigen Menschen heranreifen.  
+Die Gerechtigkeit ist die Basis des Leistungsprinzips und damit auch die Basis jeder Vertagstheorie.  
+
+
 
 ### Lebenszeit als Schatz
 

@@ -14,11 +14,11 @@ Was ist mit dem Straßenbau? Es ist eine Straße in das Nirgendwo, hören wir au
 Alle diese Infrastruktur Projekte sie gleichen dieser Straße in das Nirgendwo. So viele der Tätigkeiten und Projekte hängt an der Zukunft.
 Uns bliebe nur zu "warten bis die Zeit vergeht".^["Déjà vu" Spliff, Album 85555, CBS 1982]  
 Hier zeigt sich der universale Zugang den unsere Kinder für uns bereiten, sie gewähren uns den Zugang zu unserer Zukunft die erst durch sie zu unseren wird. Nur durch diese gestiftete Verbindung wird das bloße Vergehen von Zeit zu einer Geschichte, zu unsere Geschichte. Nicht nur für die Eltern, für uns alle die wir jetzt und hier Leben.  
+![Klarmachen ändert, Kinder sind Kinder der Gesellschaft](resources/klarmachen/klamachen-Kinder.jpg){ width=50% }\
 Deswegen sind diese Kinder nicht nur die Kinder ihrer Eltern, sie sind auch die Kinder der Gesellschaft.  
 
 Als narrative Wesen sind wir Menschen an den Zauber der Geschichte gebunden.
 
-![Klarmachen ändert, Kinder sind Kinder der Gesellschaft](resources/klarmachen/klamachen-Kinder.jpg){ width=50% }
 
 > "Nur im Rahmen einer Narration kann das Ende als Vollendung erscheinen. Ohne jeden narrativen Schein ist das
 Ende immer ein absoluter Verlust, ein absoluter Mangel."

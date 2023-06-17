@@ -1,4 +1,4 @@
-name: Produce pdf diabolo pandocker
+name: Produce pdf in dalibo pandocker image
 
 on:
   push

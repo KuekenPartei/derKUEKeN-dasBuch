@@ -1,5 +1,4 @@
-\pagebreak
-# die Zukunft im Heute oder warum sind die Kinder wichtig
+## die Zukunft im Heute oder warum sind die Kinder wichtig
 
 Beginnen wir mit den Letzten Menschen, wie wir im letzten Abschnitt mit ihnen geschlossen haben. _"Traurig und leer wird die Welt der letzten Menschen sein."_ denn sie haben keine Zukunft. Ein großer Teil des Möglichkeitsraumes im Denken ist geschlossen und die Welt ist auf der einen Seite klein auf der anderen Seite aber weit, leer und aufgegeben, stumm - in dem Sinne das sie nicht mehr Antwortet auf den Menschen, ihm nichts mehr zu sagen hat. Wir finden diese Vorstellung in "Im Land der leeren Häuser" von P.D. James und anschaulich in "Children of Men" ^[https://www.imdb.com/title/tt0206634/ to do, muss eine erstere quelle geben] dargestellt. Obwohl in der Gegenwart verhaftet, scheint uns die Zukunft wichtig zu sein.  
 Samulel Scheffler untersucht die Beziehung die wir gegenwärtigen mit dieser unseren Zukunft haben in "Der Tod und das leben danach" [@scheffler2015leben]
@@ -17,7 +16,7 @@ Hier zeigt sich der universale Zugang den unsere Kinder für uns bereiten, sie g
 ![Klarmachen ändert, Kinder sind Kinder der Gesellschaft](resources/klarmachen/klamachen-Kinder.jpg){ width=50% }\
 Deswegen sind diese Kinder nicht nur die Kinder ihrer Eltern, sie sind auch die Kinder der Gesellschaft.  
 
-Als narrative Wesen sind wir Menschen an den Zauber der Geschichte gebunden.
+Als narrative Wesen sind wir Menschen an den Zauber der Geschichte und des Erzählens gebunden.
 
 
 > "Nur im Rahmen einer Narration kann das Ende als Vollendung erscheinen. Ohne jeden narrativen Schein ist das
@@ -27,7 +26,7 @@ Auflage 2013. ISBN 978-3-88221-595-3. S.52]
 
 
 \pagebreak
-## Politik an den Bedürfnissen der Kinder ausgerichtet
+# Politik an den Bedürfnissen der Kinder ausgerichtet
 
 oder Warum eine Partei?
 

@@ -1,6 +1,6 @@
 ## die Zukunft im Heute oder warum sind die Kinder wichtig
 
-Beginnen wir mit den Letzten Menschen, wie wir im letzten Abschnitt mit ihnen geschlossen haben. _"Traurig und leer wird die Welt der letzten Menschen sein."_ denn sie haben keine Zukunft. Ein großer Teil des Möglichkeitsraumes im Denken ist geschlossen und die Welt ist auf der einen Seite klein auf der anderen Seite aber weit, leer und aufgegeben, stumm - in dem Sinne das sie nicht mehr Antwortet auf den Menschen, ihm nichts mehr zu sagen hat. Wir finden diese Vorstellung in "Im Land der leeren Häuser" von P.D. James und anschaulich in "Children of Men" ^[https://www.imdb.com/title/tt0206634/ to do, muss eine erstere quelle geben] dargestellt. Obwohl in der Gegenwart verhaftet, scheint uns die Zukunft wichtig zu sein.  
+Beginnen wir mit den Letzten Menschen, wie wir im letzten Abschnitt mit ihnen geschlossen haben. _"Traurig und leer wird die Welt der letzten Menschen sein."_ denn sie haben keine Zukunft. Ein großer Teil des Möglichkeitsraumes im Denken ist geschlossen und die Welt ist auf der einen Seite klein auf der anderen Seite aber weit, leer und aufgegeben, stumm - in dem Sinne das sie nicht mehr Antwortet auf den Menschen, ihm nichts mehr zu sagen hat. Wir finden diese Vorstellung in "Im Land der leeren Häuser"[@james_1993] von P.D. James und anschaulich in "Children of Men" [@children_of_man_2006] dargestellt. Obwohl in der Gegenwart verhaftet, scheint uns die Zukunft wichtig zu sein.  
 Samulel Scheffler untersucht die Beziehung die wir gegenwärtigen mit dieser unseren Zukunft haben in "Der Tod und das leben danach" [@scheffler2015leben]
 Er entwickelt ein einfaches Gedanken Experiment: "Würde es uns etwas ausmachen, wenn wir wüssten das 30 Tagen nach unserem,persönlichen Tot die Welt der Menschen enden würde." [@scheffler2015leben Seite 16 frei Zitiert] Naiv lässt sich antworten, "natürlich nicht, denn eine Prämisse ist ja, ich merke es nicht, es geschieht nach meinem Tod." Ist dem so? Richtig ist es geschieht nach meinem Tod, und richtig ist auch nach meinem Tod merke ich nichts ^[so möchten wir hier den Tot verstehen] aber das Wissen ändert etwas. ^[Klarmachen ändert ...] Es wäre nur egal, wüsste ich nicht davon. Eine Triviale Aussage.  
 Wenn das Wissen um den Untergang einen Unterschied macht, dann weil Wissen eine Art des Merkens ist, wir würden bis an unsere Lebensende merken das die Welt untergeht. Die Naive Antwort ist also nur ein Schlussfehler, sie hat eine falsche Prämisse. 
@@ -16,13 +16,9 @@ Hier zeigt sich der universale Zugang den unsere Kinder für uns bereiten, sie g
 ![Klarmachen ändert, Kinder sind Kinder der Gesellschaft](resources/klarmachen/klamachen-Kinder.jpg){ width=50% }\
 Deswegen sind diese Kinder nicht nur die Kinder ihrer Eltern, sie sind auch die Kinder der Gesellschaft.  
 
-Als narrative Wesen sind wir Menschen an den Zauber der Geschichte und des Erzählens gebunden.
+Als narrative Wesen sind wir Menschen an den Zauber der Geschichte und des Erzählens gebunden:  
 
-
-> "Nur im Rahmen einer Narration kann das Ende als Vollendung erscheinen. Ohne jeden narrativen Schein ist das
-Ende immer ein absoluter Verlust, ein absoluter Mangel."
-^[Byung-Chul Han  Transparenzgesellschaft. Berlin 2012. Verlag Matthes & Seitz. 3.
-Auflage 2013. ISBN 978-3-88221-595-3. S.52]
+> _„Nur im Rahmen einer Narration kann das Ende als Vollendung erscheinen. Ohne jeden narrativen Schein ist das Ende immer ein absoluter Verlust, ein absoluter Mangel.“_ [@han_2012 Seite 52]
 
 
 \pagebreak
@@ -48,7 +44,7 @@ Hier steckt der radikale Wandel den wir brauchen, er vollzieht sich nicht in der
 Deutschland ist eine Parteien Demokratie, der Öffentliche Diskurs wird massgeblich durch die Parteienlandschaft geprägt. Sehr gut erkennbar ist das bei den Piraten gewesen, die für eine Zeit, ohne Parlamentarische Mehrheiten, gar Sitze überhaupt, einen starken Einfluss auf den allgemeinen Politischen Diskurs hatten, in dem sie die anderen Parteien vor sich her trieben. Die haben sich in der Zeit die Augen gerieben, und überlegt was sie tun können, begannen zu adaptieren, aber auch zu Intrigieren.  
 Wir müssen von den Piraten viel lernen und versuchen deren Fehlern zu vermeiden.  
 Viele Fehler der Piraten waren Formaler Natur, so erstaunlich das klingt. Die Form wird durch die Strukturen bestimmt, und diese Strukturen waren nicht fest, so hat sich die Form geändert. ^[https://www.heise.de/tp/features/Die-Piraten-und-der-Krieg-3399579.html?seite=all] es ist das selbe Schicksal das die grünen ereilte -die den ersten Deutschen Angriffskrieg geführt haben.  
-Alternative Positionen werden systematisch aus dem Politschen geschehen entfernt wie der Name 'Alternative Liste' aus den grünen verschwunden ist. 
+Alternative Positionen werden systematisch aus dem Politschen geschehen entfernt wie der Name 'Alternative Liste' aus den Grünen verschwunden ist oder der Frieden aus dem Programm der Grünen.
 
 
 

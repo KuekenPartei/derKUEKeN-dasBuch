@@ -15,7 +15,7 @@ Eine Abschaffung Leistungsloser Einkommen ist ein inkrementeller Prozess, d.h. e
 * Urheberrecht verkürzen in regelmäßigen Abständen
 * Einschätzung der Schöpfungshöhe reduzieren
 * Kapitalerträge höher besteuern
-* 
+* Reduzierung von Lizenzgebühren
 
 NOTIZ:
 Die Reduzierung Leistungsloser Einkommen kann auch anders herum erzählt werden, als die Freisetzung von Einkommen, das nicht mehr aufgewendet werden muss, primär bei allen anderen. Wenn wir leistungslose Einkommen reduzieren haben alle anderen mehr in der Tasche, und z.B. bei dem Urheber Recht nicht mal im selben Verhältnis, da viele das Material nicht genutzt hätten weil sie nicht bezahlen wollten, und es nun nutzen können, der Nutzen ist also vergrößert. Wir sind alle zusammen reicher.

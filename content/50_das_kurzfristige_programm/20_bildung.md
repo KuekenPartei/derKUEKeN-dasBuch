@@ -5,9 +5,10 @@
 Mit dem selbstverständlichen [Bekenntnis zu den Menschenrechten](/wiki/Grundbestimmungen.md) bekennen wir uns ebenso
 selbstverständlich zu dem Recht jedes Menschen auf Bildung.[1] Dafür Sorge zu tragen, dass jeder Mensch dieses Recht weitestmöglich ausleben kann und auslebt, muss unser Anliegen sein.
 
-Bildung ist daher auch ein wesentlicher Punkt in unserem [Programm](/wiki/Programm:Program_konkret.md) sowie
-selbstverständlicher Bestandteil unserer Überlegungen zur [sozialen Nachhaltigkeit](/wiki/Soziale_Nachhaltigkeit.md).
-![Vermögen ist ein Verb.](resources/plakate/Vermögen-2-v2-Seite001.png ){ width=100% }/
+Bildung ist daher ein wesentlicher Punkt in unserem [Programm](/wiki/Programm:Program_konkret.md) sowie
+selbstverständlicher Bestandteil unserer Überlegungen zur sozialen Nachhaltigkeit.  
+
+![Vermögen ist ein Verb.](resources/plakate/Vermögen-2-v2-Seite001.png ){ width=100% }
 
 Bildung macht spaß, Bildung macht klüger.  
 Wir wollen mehr Öffentliche Bildung, z.B. durch Bildungsangebote in den Öffentlichen Rundfunks Anstalten. Als auch den Volkshochschulen und ähnlichen Angeboten. 
@@ -28,7 +29,8 @@ Langfristig zielen wir auf ein Abitur für alle, die es erwerben wollen und kein
 ### echte Lehrmittelfreiheit
 
 Zwar wird den Bürgern und Bürgerinnen von verschiedenen Stellen Lehrmittelfreiheit für ihre Kinder versprochen, doch dann müssen Eltern feststellen, dass sie neben den Kosten für Material wie Hefte, Mappen, Papier, Stiften u.ä. - diese Kosten sollten, wie die Gegenstände selbst eben auch, durchaus weiter bei den Eltern verbleiben - eben auch Workbooks, Kopiergeld, Klassenfahrten, Schulausflüge und anderes mehr bezahlen müssen.
-![Unsere Kinder: Perlen der Menscheit](resources/plakate/perlen-der-menschheit-v2-Seite001.png ){ width=100% }\
+
+![Unsere Kinder: Perlen der Menscheit](resources/plakate/perlen-der-menschheit-v2-Seite001.png ){ width=100% }
 
 Diesen Missstand wollen wir abschaffen. Wir wollen, dass jedes Kind an allen schulischen Veranstaltungen teilnehmen kann - unabhängig vom elterlichen Geldbeutel und auch, ohne dass dafür auf etwas anderes verzichtet werden muss.
 

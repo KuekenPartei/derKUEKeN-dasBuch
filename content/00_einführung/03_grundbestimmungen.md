@@ -38,6 +38,9 @@ Das Bewustsein ist es was uns miteinander interagieren läßt, so Roy Baumeister
 
 Für uns Menschen ist unser Bewustsein nicht von der Gemeinschaft trennbar, die Gemeinschaft Formt das Bewustsein, das Bewustsein stiftet die Gemeinschaft.
 
+Und so Antworten wir der Neoliberalen Marget Thatcher auf ihre Aussage, "there is no such thing as society" ^[Thatcher, Margaret. 1987. ‘Interview for “Woman’s Own” (“No Such Thing as Society”). https://newlearningonline.com/new-learning/chapter-4/neoliberalism-more-recent-times/margaret-thatcher-theres-no-such-thing-as-society] "there is no such thing as a single person, this person could not even them self a person"
+
+
 Das Bewustsein läßt sich für uns nicht von der Gemeinschaft trennen.
 
 
@@ -52,7 +55,9 @@ Das Bewustsein läßt sich für uns nicht von der Gemeinschaft trennen.
 * Kooperation statt Wettbewerb
 * Bekenntnis zu den universellen Menschenrechten
 
+## Grundbestimmungen
 
+Die Grundbestimmungen werden in einem eigenen Abschnitt in der Partei Satzung erklärt^[vgl. Satzung/Abschnitt B Grundbestimmungen]. Sie drücken die Zentralen Werte der Partei aus. Sie sind konkret, deswegen braucht es einiege, aber auch derartig allgemein das sie gemeinsam das ganze Feld der Werte abgdecken könnenn. Das für jeden etwas dabeist. 
 
 ### Pazifismus
 

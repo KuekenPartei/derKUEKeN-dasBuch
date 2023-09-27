@@ -53,7 +53,10 @@ Das Alphamännchen: Zwar ist es das Männchen mit dem Zugang zu den Weibchen und
 
 > _Fry, I'm an 80s guy. Friendship to me means that for 2 bucks I'd beat you with a pool cue until you got detached retinas._ ^[Steve Castle,Futurama Season 3 Episode 21 "Future Stock"  https://theinfosphere.org/Steve_Castle#Quotes] 
 
-Für die Weibchen in der Gruppe sieht es nicht viel besser aus. Sie sind mit den Kindern allein, müssen herhalten für das alpha Männchen, sind, unbeobachtet von diesem, Ziel von beta Männchen und ihren nicht immer höflichen annäherungs versuchen.  
+Das sind auch die Kinder Mörder, sie morden die Kinder der vorherigen Alpha Männchen, denn die Weibchen werden nicht schwanger sonst. Eine einfache und brutale Lösung, die notwendig ist wenn die Aufzucht Zeit der Kinder länger als die Herrschaftszeit des Alpha Männches ist. Individuelle selektion ist das Stichwort. Die Berggorillas, es gibt nicht mehr viele und sie werden in ein oder zwei Jahrzehnten unweigerlich aussterben denn von Zeit zu Zeit wird ein männlicher Berggorilla systematisch die Jungtiere in einer Gruppe töten. ^[(April 2, 2010) Robert Sapolsky in 3. Behavioral Evolution II, ein nicht eingetretenes Szenario wie es scheint, hat sich Berggorilla bestand erholt in neuester Zeit] Ein schönes Beispiel das die Individuen sich nicht zum Wohle der Art oder der Gruppe verhalten.  
+
+
+Für die Weibchen in der Gruppe sieht es nicht viel besser aus. Sie sind mit den Kindern allein, immer in der Gefahr das diese erschlagen werden von dem nächsten , müssen herhalten für das alpha Männchen, sind, unbeobachtet von diesem, Ziel von beta Männchen und ihren nicht immer höflichen annäherungs versuchen.  
 Da fühlen sich Kooperative Gesellschaften, wie sie Gibbons, Marmosetten oder Bonobos praktizieren deutlich attraktiver, d.h. weniger traumatisierend, an. 
 
 
@@ -89,6 +92,13 @@ Ausgehend von der Bekannten Schädlichkeit, also mit sehendem Auge die falsche e
 Frieden ist unsere erste Grundbestimmung, Gerechtigkeit eine andere, heute ^[Feb. 2023] in Zeiten des Ukraine Krieges wird die Gerechtigkeit gegen den Frieden in Stellung gebrach, das Argument ist: Wir können keinen Frieden schließen so lange die ungerechtigkeit, in diesem Fall der Angriffkrieg der Russen, gesühnt ist. Solange nicht Gerechtigekeit hergestellt ist.  
 Der Fieden, so wie wir ihn in den Grundbestimmungen voraussetzen, ist negativ, über die abwesenheit von Kriegsgerät, bestimmt. Wir können ziemlich genau sagen worin Frieden besteht. Frieden ist mess- und kontrollierbar ^[ask the weapons inspector].  
 Das selbe gilt nicht für die Gerechtigkeit, was gerecht ist ist nicht eindeutig über etwas negavives bestimmbar, ist die gegebene Vermögensverteilung gerecht, oder aritnetische Trivialität? ^[vgl. ] Mit der gerechtigkeit werden wir uns lange beschäftigen müssen. Wir müssen den Kern klären ... miteinander. Einfach kann man sagen: bevor wir ein gemeinsames Verständins von Gerechtigkeit entwickelt haben wird noch viel Zeit vergehen. Genau dewegen darf die Gerechtigkeit nicht die Voraussetzung für Frieden sein.  
+
+
+### Warum haben die Christen eigentlich keine Schwarzen gegessen ?
+
+Eine interressante Frage, in der Vorstellung der Christen waren diese Schwarzen genausoweing beseelt wie das Rind oder das Schwein. Rinder werden gegessen, Hasen, allerlei wird gegessen. Denn es ist unbeseelt.  
+Es scheint im denken der Christen keine wirklichen einschränkungen geben die ein Essen von unbeseelten Menschen unterbinden mag und schackhaft ist der Mensch bestimmt auch, gerade gut gefüttert.  
+Aber sieh habe es nicht gemacht, es gab nie ein große Außwahl von Mensch an der Theke, geschnitten, als Stück, mit Panade, oder hauch zart. Nicht bei den Christen und auch sonst nicht. Zumindest nicht sehr verbreitet. 
 
 
 

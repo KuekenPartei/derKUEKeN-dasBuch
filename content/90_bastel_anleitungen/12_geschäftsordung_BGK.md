@@ -1,13 +1,11 @@
 \pagebreak
 
 
-GESCHÄFTSORDNUNG Des BGK
-------------------------
+## GESCHÄFTSORDNUNG Des BGK
 
-Allgemeines
------------
+#### Allgemeines
 
-### § 1 Teilnahme & Akkreditierung
+##### § 1 Teilnahme & Akkreditierung
 
 (1) Stimmberechtigte Mitglieder der Versammlung im Sinne dieser
 Geschäftsordnung sind alle akkreditierten Mitglieder der Partei.
@@ -22,7 +20,7 @@ der akkreditierten Mitglieder. Diese Liste soll nach Landesverbänden
 unterscheiden, damit ggf. eine Statistik zu Protokoll gegeben werden
 kann.
 
-### § 2 Grundlegende Regeln für Wahlen und Abstimmungen
+##### § 2 Grundlegende Regeln für Wahlen und Abstimmungen
 
 (1) Alle Abstimmungen und Wahlen finden grundsätzlich offen durch das
 Zeigen von Stimmkarten statt, sofern nicht diese Geschäftsordnung, die
@@ -100,7 +98,7 @@ Mitglied gleichermaßen anzubieten.
 (14) Bild- und Tonaufnahmen sind auch während geheimer Stimmabgabe
 zulässig, solange das Wahlgeheimnis gewahrt wird.
 
-### § 3 Akzeptanzwahl
+##### § 3 Akzeptanzwahl
 
 (1) Bei der Akzeptanzwahl hat jedes stimmberechtigte Mitglied so viele
 Stimmen, wie Anträge bzw. Kandidierende zur Auswahl stehen, es darf für
@@ -131,7 +129,7 @@ Stimmzahl gewählt, bis die zu besetzende Zahl der Ämter erreicht ist.
 
 (5) Ein leerer Stimmzettel lehnt alle Anträge bzw. Kandidierende ab.
 
-### § 4 Ungültige Stimmzettel
+##### § 4 Ungültige Stimmzettel
 
 Ungültig ist ein Stimmzettel, wenn dieser
 
@@ -142,7 +140,7 @@ Ungültig ist ein Stimmzettel, wenn dieser
     erkennen lässt oder
 -   einen Zusatz oder Vorbehalt enthält.
 
-### § 5 Unterstützungsunterschriften
+##### § 5 Unterstützungsunterschriften
 
 Erfordert ein Antrag oder eine Kandidatur eine Unterstützung von
 akkreditierten Mitgliedern, so ist diese durch eine vom Frontoffice
@@ -152,10 +150,9 @@ Namen, die Akkreditierungsnummern und Unterschriften der beteiligten
 Mitglieder zu enthalten. Diese Liste wird zusammen mit dem Protokoll und
 Stimmunterlagen archiviert – aber nicht veröffentlicht.
 
-Versammlungsämter
------------------
+#### Versammlungsämter
 
-### § 6 Versammlungsämter
+##### § 6 Versammlungsämter
 
 (1) Die Versammlung wählt eine Versammlungsleitung, Wahlleitung und
 Protokollführung.
@@ -167,7 +164,7 @@ der Versammlung, durch Rücktritt oder Abberufung durch die Versammlung.
 (3) Bei Rücktritt von einem Versammlungsamt ist unverzüglich eine
 Nachfolge zu wählen.
 
-### § 7 Versammlungsleitung
+##### § 7 Versammlungsleitung
 
 (1) Die Versammlung wird durch den Versammlungsleitenden geleitet, der
 möglichst zu Beginn von dieser gewählt wird. Der Versammlungsleitende
@@ -206,7 +203,7 @@ Abstimmungsergebnissen zu unterstützen.
 entgegen, die sie nach Prüfung auf Zulässigkeit und Dringlichkeit der
 Versammlung angemessen bekannt macht.
 
-### § 8 Wahlleitung
+##### § 8 Wahlleitung
 
 (1) Die Versammlung wählt zur Durchführung von Wahlen zu Ämtern, die
 über das Ende der Versammlung hinaus bestehen, eine Wahlleitung aus
@@ -268,7 +265,7 @@ Wahlhelfenden, § 15c).
 Versammlung an, das vom verantwortlichen Wahlleitenden und mindestens
 zwei Wahlhelfenden zu unterschreiben ist.
 
-### § 9 Protokollführung
+##### § 9 Protokollführung
 
 (1) Die Protokollführung ist für das Erstellen eines schriftlichen
 Protokolls der Versammlung verantwortlich.
@@ -301,10 +298,9 @@ Bundesvorsitzenden oder dessen Stellvertreter unterschrieben.
 (4) Es ist den Mitgliedern (im Sinne der Satzung) durch Veröffentlichung
 auf üblichen Kommunikationswegen unverzüglich zugänglich zu machen.
 
-Wahlen
-------
+#### Wahlen
 
-### § 10 Kandidaturen
+##### § 10 Kandidaturen
 
 (1) Für die Aufstellung zu Personenwahlen, mit der Ausnahme der
 Versammlungsämter, ist die Unterstützung (§ 5) der Kandidierenden von
@@ -327,7 +323,7 @@ entscheidet die Versammlung nach kurzer Aussprache, ob ein Wahlgang
 stattfindet. Für den neuen Wahlgang wird die Kandidierendenliste erneut
 geöffnet.
 
-### § 11 Vorstellung der Kandidierenden
+##### § 11 Vorstellung der Kandidierenden
 
 (1) Jeder Kandidierende erhält drei Minuten Zeit sich der Versammlung
 vorzustellen. Die Reihenfolge der Vorstellungen ermittelt sich durch
@@ -353,10 +349,9 @@ fortgesetzt.
 haben, erhalten nur noch eine Minute, um sich erneut vorzustellen. Eine
 Befragung nach Abs. 2 bleibt möglich.
 
-Anträge
--------
+#### Anträge
 
-### § 12 Allgemeine Anträge an die Versammlung
+##### § 12 Allgemeine Anträge an die Versammlung
 
 (1) Zu Beginn der Beratung eines neuen Antrags hat der Antragstellende
 jedes aufgerufenen Antrags das Recht, den Antrag in einer dafür
@@ -380,7 +375,7 @@ Redezeiten begrenzen, nachdem darauf deutlich hingewiesen worden ist.
 Sofern die Redezeit nicht weiter begrenzt ist, gilt ein Standardwert von
 3 Minuten.
 
-### § 13 Aussprache zu Anträgen
+#### § 13 Aussprache zu Anträgen
 
 (1) Bei einer Aussprache zu Anträgen werden drei Redeschlangen gebildet,
 eine für (Pro), eine gegen (Contra) den Antrag und eine für
@@ -410,7 +405,7 @@ Standardwert von 3 Minuten.
 verlängert werden, so wird dem Antragsstellenden die Möglichkeit
 eingeräumt, eine einminütige Stellungnahme abzugeben.
 
-### § 14 Abstimmungen über Anträge
+##### § 14 Abstimmungen über Anträge
 
 (1) Gibt es zwei oder mehr konkurrierende Anträge, so kann die
 Abstimmung offen durch Akzeptanzwahl oder geheim {§15d GO-Antrag auf
@@ -452,7 +447,7 @@ sollte erklären welcher Teil des Gesamtantrags ersetzt wird.
 Antragsstellenden über die Konkurrenz von Anträgen. Im Zweifel
 entscheidet die Versammlung.
 
-### § 15 Anträge zur Geschäftsordnung
+##### § 15 Anträge zur Geschäftsordnung
 
 (1) Nur die in diesem Abschnitt benannten Geschäftsordnungsanträge sind
 als solche zulässig.
@@ -505,12 +500,12 @@ GO-Antrag gestellt hat. Sie hat ihn zu begründen.
 (11) Die Versammlungsleitung behandelt GO-Anträge nach ihrer
 Dringlichkeit.
 
-#### § 15a Zulassung des Gastredenden
+#####§ 15a Zulassung des Gastredenden
 
 Jedes Mitglied kann das Rederecht für einen Gast beantragen; die
 Versammlungsleitung kann Gästen auch das Rederecht per Zuruf erteilen.
 
-#### § 15b Neuwahl eines Versammlungsamts
+##### § 15b Neuwahl eines Versammlungsamts
 
 (1) Ein GO-Antrag auf Neuwahl eines Versammlungsamts muss schriftlich
 bei der Versammlungsleitung eingereicht werden. Der GO-Antrag muss von
@@ -521,7 +516,7 @@ mindestens 20 akkreditierten Mitgliedern gestellt werden.
 (3) Der GO-Antrag muss spätestens nach dem laufenden Tagesordnungspunkt
 behandelt werden.
 
-#### § 15c Ablehnung eines Wahl-, Protokoll- oder Versammlungsleitungshelfenden
+##### § 15c Ablehnung eines Wahl-, Protokoll- oder Versammlungsleitungshelfenden
 
 (1) Wahl-, Protokoll- oder Versammlungsleitungshelfenden können von der
 Versammlung abgelehnt werden. Der Helfer ist namentlich zu benennen und
@@ -530,12 +525,12 @@ der Antrag zu begründen.
 (2) Dem Helfenden ist das Recht einzuräumen, sich angemessen zu
 verteidigen.
 
-#### § 15d Geheime Abstimmung
+##### § 15d Geheime Abstimmung
 
 Ein GO-Antrag auf geheime Abstimmung ist angenommen, wenn mindestens 20
 akkreditierte Mitglieder diesem zustimmen.
 
-#### § 15e Wiederholung der Wahl/Abstimmung
+##### § 15e Wiederholung der Wahl/Abstimmung
 
 (1) Bei Unklarheit des Ergebnisses einer Wahl oder Abstimmung kann
 einmalig beantragt werden, dass diese unmittelbar wiederholt wird.
@@ -544,7 +539,7 @@ Hierfür werden mindestens 20 Unterstützende (§ 2 Abs.10) benötigt.
 (2) Der GO-Antrag auf Wiederholung der Wahl/Abstimmung wird mit einer
 einfachen Mehrheit angenommen.
 
-#### § 15f Auszählung einer Wahl/Abstimmung
+##### § 15f Auszählung einer Wahl/Abstimmung
 
 (1) Mit dem GO-Antrag auf Auszählung einer Abstimmung kann beantragt
 werden, dass per Handzeichen abgegebene Stimmen exakt ausgezählt werden.
@@ -552,7 +547,7 @@ werden, dass per Handzeichen abgegebene Stimmen exakt ausgezählt werden.
 (2) Der GO-Antrag auf Auszählung einer Abstimmung wird mit einfacher
 Mehrheit angenommen.
 
-#### § 15g Getrennte Wahlgänge
+##### § 15g Getrennte Wahlgänge
 
 (1) Mit dem GO-Antrag auf getrennte Wahlgänge kann beantragt werden,
 dass Wahlgänge zur Besetzung mehrerer gleichartiger Posten nicht
@@ -561,19 +556,19 @@ gemeinsam sondern getrennt durchgeführt werden.
 (2) Nach einem angenommenen GO-Antrag auf getrennte Wahlgänge legt die
 Wahlleitung die Reihenfolge der Wahlgänge fest.
 
-#### § 15h Änderung der Reihenfolge der Wahlgänge
+##### § 15h Änderung der Reihenfolge der Wahlgänge
 
 Finden getrennte Wahlgänge statt, so kann die Versammlung mit einem
 GO-Antrag auf Änderung der Reihenfolge der Wahlgänge eine abweichende
 Reihenfolge der Wahlgänge bestimmen.
 
-#### § 15i GO-Alternativantrag
+##### § 15i GO-Alternativantrag
 
 Wurde ein GO-Antrag gestellt, so kann jedes Mitglied einen
 GO-Alternativantrag gleicher Art stellen. Andersartige Anträge sind bis
 zum Beschluss über den Antrag oder dessen Rückziehung nicht zulässig.
 
-#### § 15j Änderung der Redezeit
+##### § 15j Änderung der Redezeit
 
 (1) Ein GO-Antrag auf Änderung der Redezeit muss die gewünschte maximale
 Dauer (in vollen Minuten) zukünftiger Redebeiträge enthalten.
@@ -581,7 +576,7 @@ Dauer (in vollen Minuten) zukünftiger Redebeiträge enthalten.
 (2) Eine Redezeitänderung gilt bis zum Ende der Behandlung des laufenden
 Antrages.
 
-#### § 15k Einholung eines Meinungsbildes
+##### § 15k Einholung eines Meinungsbildes
 
 (1) Meinungsbilder sind ein Mittel zur Überprüfung der Meinung der
 Versammlung zum gerade behandelten Antrag. Meinungsbilder, die keinen
@@ -591,13 +586,13 @@ haben, werden als unzulässig abgewiesen.
 (2) Ein GO-Antrag auf Einholung eines Meinungsbildes gilt ohne
 Abstimmung als angenommen.
 
-#### § 15l Unterbrechung der Sitzung
+##### § 15l Unterbrechung der Sitzung
 
 Ein GO-Antrag auf Unterbrechung der Sitzung soll die Dauer der
 Unterbrechung beinhalten. Falls die Dauer nicht bestimmt ist, obliegt es
 der Versammlungsleitung die Dauer zu bestimmen.
 
-#### § 15m Änderung der Tagesordnung
+##### § 15m Änderung der Tagesordnung
 
 (1) Eine Änderung der Tagesordnung kann sein
 
@@ -628,7 +623,7 @@ Tagesordnungspunkten müssen eindeutige Angaben enthalten sein, wann die
 betreffenden Anträge behandelt werden sollen. Ansonsten ist der Antrag
 ohne Abstimmung als unzulässig abzuweisen.
 
-#### § 15n Änderung der Geschäftsordnung
+##### § 15n Änderung der Geschäftsordnung
 
 (1) Ein GO-Antrag auf Änderung der Geschäftsordnung muss schriftlich bei
 der Versammlungsleitung oder den von ihr beauftragten Mitgliedern von
@@ -644,7 +639,7 @@ abzuweisen.
 einfachen Mehrheit angenommen. Abweichend zu § 15 (9) wird ein GO-Antrag
 auf Änderung der Geschäftsordnung stets abgestimmt.
 
-#### § 15o Feststellung von Antragskonkurrenzen
+##### § 15o Feststellung von Antragskonkurrenzen
 
 (1) Ein GO-Antrag auf Feststellung von Antragskonkurrenzen muss
 schriftlich bei der Versammlungsleitung oder den von ihm beauftragten
@@ -662,25 +657,24 @@ Konkurrenzen nacheinander zur Abstimmung stellen.
 (3) Der GO-Antrag soll spätestens nach dem laufenden Tagesordnungspunkt
 behandelt werden.
 
-Schlussbestimmungen
--------------------
+#### Schlussbestimmungen
 
-### § 16 Automatisches Verfallen von Anträgen
+##### § 16 Automatisches Verfallen von Anträgen
 
 Die auf dem Bundesparteitag nicht behandelten Anträge verfallen.
 
-### § 17 Gültigkeit
+##### § 17 Gültigkeit
 
 Diese Geschäftsordnung behält ihre Gültigkeit für folgende
 Bundesgesamtkonferenzen, bis sie vom einer Bundesgesamtkonferenz durch
 eine neue Geschäftsordnung ersetzt wird.
 
-### § 18 Abweichen von der Geschäftsordnung
+##### § 18 Abweichen von der Geschäftsordnung
 
 Die Versammlung kann auf Antrag der Versammlungsleitung durch Beschluss
 von der Geschäftsordnung abweichen.
 
-### § 19 Erinnerung
+##### § 19 Erinnerung
 
 (1) Nur die in dem Abschnitt {Geschäftsordnungsanträge} §15 bis §15o
 benannten Geschäftsordnungsanträge sind als solche zulässig.

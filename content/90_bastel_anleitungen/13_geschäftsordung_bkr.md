@@ -1,10 +1,8 @@
 \pagebreak
 
-GESCHÄFTSORDNUNG Des BKR
-------------------------
+## GESCHÄFTSORDNUNG Des BKR
 
-§ 1 Zusammensetzung und Funktion des Bundeskoordinationsrat
------------------------------------------------------------
+#### § 1 Zusammensetzung und Funktion des Bundeskoordinationsrat
 
 (1) Der [
 Bundeskoordinationsrat](Überregionalen_Projektbereiche.md)
@@ -25,8 +23,7 @@ Bundesvorstand](/wiki/Bundesvorstand.md) beratend zur Seite stehen,
 indem er [ Anträge](/wiki/Go_bundesvorstand#.C2.A73_Antr.C3.A4ge.md)
 in die Bundesvorstandssitzung einbringt.
 
-§ 2 Tagung des Bundeskoordinationsrates
----------------------------------------
+#### § 2 Tagung des Bundeskoordinationsrates
 
 (1) Der Bundeskoordinationsrat tagt mindestens ein Mal innerhalb des
 laufenden Kalenderjahres in öffentlicher Sitzung.
@@ -39,8 +36,7 @@ werden.
 Bundeskoordinationsratstreffen ein, wobei die Einladung mindestens 4
 Wochen vor Beginn der Veranstaltung zu veröffentlichen ist.
 
-§ 3 Nachvollziehbarkeit
------------------------
+#### § 3 Nachvollziehbarkeit
 
 1) Alle öffentlichen Sitzungen werden protokolliert. Das Protokoll gibt
 im Regelfall den Verlauf der Debatten wieder.

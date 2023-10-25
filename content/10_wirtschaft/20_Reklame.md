@@ -41,6 +41,8 @@ So verbirgt sich die Wirkung der Werbung indem wir sie verbergen. Wenn wir in de
 So verstanden ist alles was uns begegnet Manipulation. Worin unterscheidet es sich von der Werbung? Anders als z.B. Argumente ist die Werbung konzeptioniert das Denken Kurz zuschließen, es von der Rationalität und den realen Bedürfnissen zu entkoppeln. Für ein Produkt nach dem Bedürfnis besteht braucht nicht geworben zu werden. Eine bedürfnisorientierte Wirtschaft kommt gänzlich ohne Werbung aus, stiftet sich die Nachfrage doch aus den Bedürfnissen, die uns als lebende Wesen gegeben sind. So schält sich heraus wie unser kapitalistisches Wirtschaftssystem, abhängt und gestützt wird durch die Reklame. Erst durch die stetige Penetrierung unsere Gehirne  ist dieser schnöde Kreislauf von Produktion und Konsumoption möglich. Erst durch die stetige Affektirrung unsere Libido sind Produkte für die kein Bedarf kein Bedürfnis besteht absetzbar und erst dieser stetige Zwang zum Geld ausgeben erzeugt den stetigen Zwang zu arbeiten. 
 So verwirklicht sich die Herrschaft des Systems.
 
+Wenn wir die Herrschaft beenden wollen, müssen wir die Reklame enden.
+
 ### freie Märkte
 
 Aber, zu diesem Bild werden wir öfter zurückkommen, der "Freie" Mark präsentiert sich als Schlachtfeld. Ein Krieg jeder gegen jeden. Ein Krieg auf Leben und Tot. Es gibt nichts Gebotetnes nur nackte Gewalt und das Wollen den anderen zu überwinden. Das recht ist der Erfolg, das Geschlagen haben des Gegners.  

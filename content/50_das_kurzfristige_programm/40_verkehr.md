@@ -7,5 +7,4 @@ Wie das Deuschland Ticket gezeigt hat, und wie die Piraten immer vertreten haben
 
 ### Allgemeine Geschwindigkeitbegrenzung 
 
-Der Deutsche Fährt zu schnell, macht dabei, nachvollziehbarer weise, mehr fehler, hat mehr Unfälle die schwere ausgehen.
-
+Der Deutsche Fährt zu schnell, macht dabei, nachvollziehbarer weise, mehr fehler, hat mehr Unfälle die schwere ausgehen. Er verbraucht quadratisch mehr Treibstoff und produziert mehr Co2.  

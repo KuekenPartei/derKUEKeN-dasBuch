@@ -1,0 +1,1096 @@
+
+Sir Roger Penrose | The Emperor’s New Mind: Consciousness & Computer | INTO THE IMPOSSIBLE Podcast
+Dr Brian Keating
+
+https://www.youtube.com/watch?v=5Ag6jpvIa2w
+
+0:00
+the only thing we can be sure of about the future is that it will be absolutely fantastic
+0:09
+[Music]
+0:18
+uh welcome everybody to the into the impossible podcast production of the Arthur C Clarke Center for human
+0:23
+imagination and the division of physical sciences at UC San Diego and it's a
+0:29
+treat to welcome sir Roger Penrose back to UC San Diego pleasure certainly yes yeah we're uh certainly need to be back
+0:35
+thank you we're extracting a lot out of you in this visit we are
+0:41
+grateful to you for hosting uh to be hosting these many talks that you're
+0:46
+giving you gave one talk that was uh more than standing room only earlier today uh you're doing this interview now
+0:52
+and tomorrow you're giving another talk uh it's really quite generous of you thank you so much and I've come to
+0:57
+expect that of you your gracious as always and and so responsive and it couldn't be a greater treat to have you
+1:04
+affiliated with our fine University um when I was mentioning to some of my
+1:09
+uh followers online that you were coming I wanted to uh to highlight that this is
+1:15
+actually the fifth decade of this book here the emperor's new mind uh which is uh as I pointed out was the first
+1:21
+popular so to speak science book that I ever read as a as a teenager in 1989
+1:27
+when it when it first came out and I've been remarking along with my friends at how much has changed but also how little
+1:34
+has changed and I thought we'd take this opportunity on the fifth decade of this of its existence on planet Earth to kind
+1:41
+of review some of the uh discoveries that you've had and that science has progressed since the writing of the book
+1:47
+I know it had a second edition and other editions since this first edition that I have here but I wanted to get a general
+1:54
+impression from you is it did this book exceed your expectations what did it did
+1:59
+it sort of touch a nerve in the popular Consciousness that it's still a bestseller to this very day for you I'm not sure I initially thought
+2:06
+that it might either disappear without trace or that maybe there will be a
+2:12
+little tension to be paid to it well it was around about the same time as Stephen Hawking had written his book yes
+2:17
+the A Brief History of Time and uh I remember asking or noting that that his
+2:25
+book had been had a forward written by uh
+2:30
+that's right yes and uh so I thought well I better try and do something this
+2:36
+and the best I could do I thought well I thought I happened to know Martin Gardner so right so I thought um if he
+2:43
+wrote a decent forward or if he's prepared to do it first of all I wasn't a tough show whether he'd be shocked by
+2:48
+the point of view I was presenting right in fact he was very in favor of favorable expressed he said he rather
+2:55
+thought of things the same way and he wrote a very nice forward and then I thought well perhaps it won't disappear
+3:01
+without Trace at least some people will read it uh I was very naive and I didn't expect
+3:08
+this sort of mixed is the wrong word there was a lot of antagonism from certain quarters I'm
+3:15
+not expected there might be people who would object to what I'd written from the artificial
+3:21
+intelligence intelligence Community because I was trying to say it was a bit more than
+3:27
+um computation going on in human thinking and also that I might have
+3:32
+trouble with the religious community because I was certainly not expressing a religious View and I was trying to
+3:38
+and go against that somewhat well you're not General religious but but somehow that there was something outside science
+3:44
+which had to explain uh conscious beings and so on what I hadn't expected was a
+3:50
+lot of philosophers objected to what I was saying too I think they just thought I was too sloppy
+3:55
+I was sort of expecting that there would be a lot of young people picking up on the ideas and maybe writing to me or
+4:01
+something my initial experience was nothing of the sort they were only old retired people who wrote to me and they
+4:09
+were old retired people who'd had time to read the book I guess and amongst the people not just the
+4:15
+retired and a few young people they were usually people who got inspired by the book
+4:20
+one in particular who became the um
+4:25
+there was a man named Michael Michael Wills who wrote A he was intending to have a series of television programs on
+4:32
+based on the book it ended up being a one program but he had as a researcher
+4:38
+somebody who was uh doing the work and then he sort of gave up half the way
+4:43
+through and I thought maybe that had a row or something and he said well actually he'd become interested in
+4:49
+something else and he actually turned out he became a singer and he became the leading singer
+4:56
+in Britain tennis singer yes so I didn't mind him he was like that one of the
+5:01
+people who one of the few people as a youngster who had written to me about the book so that's a decent excuse to
+5:07
+yes but one of the main things that Agnes was a positive aspect of this
+5:14
+was that Stuart hammeroff read my book right and uh he more or less wrote to me
+5:19
+to say well the one thing that seems to be missing from your point of view with
+5:24
+these things called microtubules if you had written the book Feeling you know quite uh
+5:31
+uh I knew a bit about physics and Mathematics and I would try and learn a bit about neurophysiology and maybe I'll
+5:38
+find enough about it to see where my ideas had any relevance to that and I
+5:43
+got to the end and I came to the conclusion I didn't see any relevance mainly that nerve propagation you said I
+5:49
+need to have preserve kind of some kind of quantum coherence and I just let the
+5:54
+nerve propagation wasn't then there was no hope that the signals there's always big
+6:00
+electric fields which would hear you all your Quantum clearance get
+6:06
+lost in the rest of the brain and it was completely hopeless so I sort of had a
+6:12
+rather feeble ending which didn't I didn't really believe in myself but Stuart wrote to me and said are you I
+6:18
+think the key thing you're missing is these things called microtubules now I never heard of microtubules and I had
+6:24
+lots of letters and email well emails didn't exist in those things but this is from people crackpots of one kind or
+6:30
+another so I thought oh here's another you see and I thought these things look he's got a picture of these things it looks like it must be real so I look at
+6:37
+the map and I see yeah they're real all right and it seemed to me these were structures from Far Far More
+6:45
+probable plausible things which could preserve Quantum coherence I mean it's
+6:51
+still a challenge a major challenge but the account is the fact that there were tubes and the fact they were symmetrical
+6:56
+in various ways and and it looked to me there was a bit much much better chance there so it sort of
+7:02
+started a collaboration with Stuart and uh we formulated this General point of
+7:07
+view called orchestrated objective reduction objective reduction is
+7:13
+something I'd treated in the book but although that's one of the things I
+7:19
+think the exact form I had was not correct there are a few things I would say were wrong in the book
+7:26
+but not majorly wrong that is to say it wasn't the right Criterion but it was
+7:31
+the sort of idea which I still believe in namely that it's gravitation which is
+7:36
+the place you have to look for where quantum mechanics it needs something
+7:43
+to make it consistent the theory we have at the moment is a combination of two
+7:49
+things which literally mutually contradict each other and people sort of live with that and try to live with it
+7:54
+and make sense of it but they don't normally take the view there's something wrong which was the view I took and
+8:01
+which I still hold and it's really the second book which was Shadows of the Mind where I more or less I introduced
+8:08
+the microtubules there and the point of view which I still believe in with regard to the
+8:15
+how to fix up quantum mechanics and that the uh that the microtubules have sort
+8:20
+of a geometric uh connection to them or sort of a natural geometry to them is no
+8:25
+surprise that appeals to your deep love of geometry uh but is there something deeper to it other than just their
+8:31
+geometric structure well I think there is um although it's not being made use
+8:36
+of very much in the later developments I mean it's already there that is these structures that are well
+8:44
+actually microtubules come in two forms they're two different lattices I didn't know that at the time one of them are
+8:50
+What's called the a lattice which is highly symmetrical and the others the B lattice which is not quite so
+8:56
+symmetrical it's got a seam now on one Edge along the tube whereas the ones
+9:02
+which are highly symmetrical seem to me have a much better Prospect of
+9:08
+um preserving Quantum coherence so you want Quantum effects to be preserved at
+9:13
+a big level and symmetry is a good way to do that so
+9:19
+when you say the geometrical structure that's part of it which is appealing to me and there's this thing called the
+9:24
+yarn teller effect this is when you have a highly symmetrical structure where maybe uh
+9:29
+it could be a crystal-like thing or it could be like a tube with different
+9:35
+kinds of symmetries and the high symmetry means that you can have
+9:41
+well there's a sort of lowest level of activity which is the sort of lowest Quantum level and that is what's called
+9:47
+degenerate so you have information at that level well it's called Quantum information at that level which is
+9:53
+shielded from The Next Level so there's a big gap between that level and the next and you get that when you have very
+9:59
+symmetrical structures and the microtubules yes
+10:04
+macrotubules and there's a lot of other problems which it simply doesn't resolve just like that but it gave it seemed to
+10:11
+me there was a lot much much more promise in microtubules than anything else I've seen before in in
+10:19
+neurophysiology so one thing that distinguishes your research it's not without its speculations and and new and
+10:26
+novel ideas but that in almost every case that I've found in your research you predict effects which are in
+10:34
+principle possible to prove wrong in other words they are possible to be falsified
+10:39
+um you know to date you've enjoyed success and that they haven't been false as many things have not been falsified and in fact many of your discovery have
+10:46
+been have stood this test of time and test of other experimental and mathematical scrutiny is that something
+10:53
+that's important to you obviously you you know of the and our listeners will know of you know popper Carl popper and
+10:58
+his uh his sort of uh you know objectivist and how do we how do we
+11:04
+determine if something is scientific well it must be falsifiable and and I
+11:09
+always point out that um I believe and you talk about girdle and his incompleteness theorem very um
+11:15
+frequently in the emperor's new mind um but I feel like physicists almost have an Envy of girdles incompleteness
+11:21
+there and then in that we have no way of of objectively showing that our assumptions are are are built upon
+11:29
+perhaps in in you know incompatible uh premises or on unprovable or
+11:35
+unfalsifiable uh axioms and I wonder you know to what extent do you are you
+11:40
+Guided by copper and the falsification demarcation theory is that something that's important to you would you you
+11:46
+work on something that is not because it could be tomorrow our colleagues find that microtubules are just impossible to
+11:52
+be you know they they can't maintain coherence Beyond you know nanosecond level time scale something like that
+11:57
+well you see I think your point is is well taken but there is a major part of
+12:03
+what I've done in relation to physics and how it relates to mathematics which at least as yet has not been falsifiable
+12:11
+yeah and you know I rather regret the fact that it's not this is the theory which I refer to as twister Theory now
+12:17
+it's very much motivated by relativity facts and uh
+12:24
+curious things like the the nature of the celestial sphere you think of the
+12:29
+sky that's a sphere and the structure of that sky is what's called a conformal
+12:35
+structure and this is a thing I got interested in very early that if you imagine two space Travelers
+12:42
+getting passing each other very close and they look at the same sky but they're traveling at almost
+12:48
+very close to the speed of light one with respect to the other and they look up at this game sky and there's a
+12:54
+distortion of the sky they see the stars are slightly different spots and so on there's something collaboration which
+13:00
+has to do with emotion but it has a very curious feature that it preserves angles
+13:06
+not to say if you if you imagined an angle in the sky it's two three stars
+13:12
+close together and at a certain angle that the other Observer would see the same angle so it's what the
+13:17
+transformation of one Observer to the sky to the other is what's called conformal and this is a kind of geometry
+13:23
+which I got very interested in uh called conformal geometry I mean we know about
+13:29
+euclidean geometry that's to do with links but this is to do with angles and it's a much richer geometry and the fact
+13:36
+that it applies to the sky is an indication of something in
+13:41
+completely different subject the you might say the two big Revolutions of 20th century physics one is relativity
+13:48
+and here we see in special relativity it doesn't work in Newtonian Theory right relativity the Ang the conformal nature
+13:55
+of the transformation of the sky but the other is in quantum mechanics and you have these complex numbers which are all
+14:02
+intimately related to this conformal structure and they play a big role when you think
+14:07
+about spins of particles and again you get this same sphere which is a conformal sphere playing a fundamental
+14:14
+role in physics and this has to do with the complex numbers which involve the square root of minus one sort of
+14:20
+mysterious numbers which are at the basis of quantum mechanics and so I kind of thought of this as a
+14:27
+link between relativity and quantum mechanics and twister Theory I won't go into it here
+14:33
+but it's it's a mathematical formalism it has particular features one of them
+14:40
+it's you have to have three space dimensions in one time Dimension so when I was being confronted with things like
+14:45
+string theory I quite like the idea when strings were initially put forward but when they seem to consider you needed to
+14:52
+have 26 dimensions of space-time or 10 Dimensions or both together in some
+14:58
+Curious way it didn't appeal to me at all because the link between the quantum
+15:07
+mechanics and and relativity which is through this conformal sphere only works
+15:14
+when you have three space dimensions in one time Dimension and so the theory which I developed which I call twister
+15:19
+Theory was based upon this very specific structure and it doesn't work in other
+15:26
+numbers well you can start doing it in another dimension it doesn't really work and it took me years and years to try
+15:32
+and make it work with general relativity and only relatively recently did I see how these things fit together and with
+15:39
+quantum mechanics and curious feature is that it needs to have this was a big blow to me initially the
+15:46
+cosmological constant see this was this number introduced by Einstein
+15:52
+in 1917 for the wrong reason you see he wanted a static Universe he liked a
+15:58
+universe which was sort of spherical in space so it closed up on itself and sort of sat there forever
+16:04
+and this was just about at the time when people were becoming convinced that the Universe was expanding
+16:10
+but Einstein introduced this cosmological constant term could be usually called it Lambda like a V upside
+16:17
+down and this was as soon as he was convinced that the
+16:22
+Universe was actually expanding and this model doesn't work he sort of retracted this cosmological term and regarded it
+16:30
+as his greatest blunder now you see all the cosmology books were
+16:35
+sort of oh Einstein says this number has to be there and so they all considered a
+16:40
+cosmological constant and so on so and I sort of like everybody else a lot of people thought well it shouldn't
+16:46
+really be there it's much nicer not having it there and my trying to solve a big problem in twister Theory I thought
+16:52
+I needed it to be zero and I remember having this conversation with uh with
+16:57
+Jerry our Striker and I was saying do we really have to believe from these stupid
+17:03
+distant super no they were observations of distant exploding stars supernovae that there seemed to be evidence for
+17:10
+this expansion exponential expansion of the universe over and Beyond the expansion that we already thought
+17:17
+was consistent with the Einstein equations and that seemed to indicate that there was this cosmological
+17:22
+constant the line standard regarded as biggest blunder it had to be there it had to be positive and I said to Jerry I
+17:29
+said well do we really have to believe that I mean because perhaps it's just dust out there as many people said and
+17:35
+he looked at me and said look that's not the point there are so many things in cosmology that are much better
+17:41
+understood they work so much better with this cosmological term and I thought okay I'll give you I'm
+17:48
+prepared to give it up before you say so it was a good thing because the later
+17:53
+views that I had absolutely depend on having this cosmological constant it has
+17:58
+to be positive it has to be there we have to see this exponential expansion and if it hadn't been for Jerry
+18:05
+convincing me it was there I'd have been still going down the wrong route that I was going down before uh no we say you
+18:12
+know Einstein's biggest blunder turned out to be that he called it a blunder actually I guess he wasn't right in the
+18:18
+way he was using it that's right but it was uh I mean it was a great Insight because that's basically the only thing
+18:24
+you could do to his equations without wrecking them yeah and he knew you could do that and he had great confidence in
+18:29
+the equations absolutely especially as uh after the 1919 the Addington Eclipse so in the book one thing that helped me
+18:36
+as a young you know uh scientifically mathematically inclined uh young person when I read this in 1989 was
+18:44
+um the way that you very carefully lay out your your opinions but in a very
+18:50
+even-handed fashion as to different theories of math and physics and and and you kind of give a rank ordering to them
+18:57
+which you which you talk about and I want to revisit that on this you know yeah so the categories I have them here
+19:05
+are tentative useful and superb and one of the most amazing things you do is you
+19:10
+start off with Euclid and you say Euclid euclidean geometry is actually in it was in your characterization a physical
+19:17
+Theory and I wonder if you can talk more about that yeah
+19:25
+I mean I guess uh it's an interesting question how the
+19:30
+Ancients looked at it um I mean the the ideas of
+19:37
+euclidean geometry we're sort of based on angles and lengths and triangles and
+19:43
+sort of the view that a big triangle and a little triangle the same geometry applied if you had a really huge
+19:50
+triangle and if you added up its angles it would still add up to 180 degrees
+19:55
+and uh and people tried there was a big activity where
+20:01
+um I forgetting his name now this chap who tried to prove that the angles had to add up I mean
+20:08
+Euclid realized that there was a puzzle here that you needed to have a special assumption which it was the parallel
+20:15
+postulate usually phrased in terms of if you have a land in the plane and a point in that plane which is not on the line
+20:22
+then there is only exactly one line straight line through that point which
+20:27
+didn't meet the other line and and it was thought that somehow you should be
+20:33
+able to deduce that from the others and it was a real insight yeah for Euclid to see that that was an independent
+20:39
+assumption right and uh and it took not just the Ancients but many people and
+20:46
+they tried to prove it and sakiri and spent his entire life trying to prove it
+20:52
+and at the end more or less discovered what's called hyperbolic geometry and there are other
+20:58
+people who uh what was his name Lambert was somebody who proved
+21:04
+beautiful theorems which had to depend on this other kind of geometry that people didn't think existed and about
+21:12
+how you add up the angles of a triangle and how much they fall short of 180 degrees as a measure of the angle of the
+21:17
+triangle area of the triangle an amazing thing and how could you prove a thing like when when you don't believe that
+21:24
+that there is any other geometry I don't know it very interesting to know what what Lambert's psyche was here I think
+21:31
+he probably at certain times of his life thought there was a that it was consistent to have different times of geometry and other types he probably
+21:38
+thought he was absurd because you had to catch the types times when you thought it was consistent because he had this
+21:44
+beautiful theorem in it but then and Gauss who more importantly
+21:50
+trying to find well it's an interesting question because he he part of his
+21:57
+job was to do geodesic so he's actually measuring very big triangles the mountaintops and people are trying to
+22:03
+think oh well he's just doing you ought to say and he's but I think at the back of his mind he was really trying to see
+22:09
+whether the geometry was the euclidean or not because he knew he knew that there were other kinds of geometry right
+22:15
+and it was really interesting how the history people kind of toying with were there other kinds of General but the
+22:21
+fact that euclidean geometry is so precise and it was sort of laid out as this
+22:28
+wonderful Theory which it is an amazing Theory and it lasted a few minutes knows how many centuries yeah before people a
+22:34
+discovered there were other kinds of geometries and B with Einstein and uh
+22:42
+um well primarily Einstein but realizing that you needed to her in order to
+22:47
+describe a physics in which
+22:53
+the principle of equivalence that is again a thing a lot of these ideas are ancient but
+22:59
+people didn't know quite what significance was I mean this was going
+23:05
+back to Galileo it's not just going back to Archimedes and and going back to uh
+23:11
+Euclid people but the fact that a gravitational field
+23:17
+is equivalent to an acceleration and so Galloway was extremely insightful and
+23:22
+you imagine you know dropping these things from the in a bone Tower or whatever it was and they fall together and they somehow you can cancel out
+23:29
+gravity and there's a wonderful description he has in in one of his books where he talks about
+23:35
+fireworks and you see the fireworks and they explode and you see these spheres
+23:41
+beautiful spheres and they come they come and they fall and they remain spheres right and he pointed this out
+23:47
+and there was a deep Insight in that it's just as though there was no gravity and the acceleration you
+23:54
+if you're free freely falling it's as though there's no experience now that's a huge Insight which had to wait until
+24:01
+Einstein to realize the importance of it yeah that's right yeah that was in the
+24:07
+discourse I think the last book that Galileo wrote yes so I want to read from emperor's new mind a paragraph that
+24:13
+speaks to me to this very dang and I remember being moved by it way back when he said great works of art are indeed
+24:19
+closer to God than our lesser ones it is a feeling not uncommon amongst artists that in their greatest works they are
+24:24
+revealing Eternal truths which have some kind of Prior ethereal existence while
+24:30
+there are lesser Works may be more arbitrary of nature more Mortal constructions likewise in engineering
+24:35
+Innovation with a beautiful economy uh where a great deal is achieved in the scope of the application of some simple
+24:41
+unexpected idea might appropriately be described as a discovery rather than an
+24:47
+invention now this Harkens back to whether or not mathematical truths are in some way discovered or invented and I
+24:53
+wonder if you can weigh in with your vast experience glean both before and after this book and where do you feel
+24:58
+fall now well I certainly haven't changed my view in that particular respect I haven't certain others
+25:05
+yeah I think the mathematics well it's a platonic view you would say
+25:10
+that the mathematics has its own world you see I like to do this with an illustration which I think
+25:17
+first had in in Shadows of the Mind where I had three types of existence in
+25:23
+a sense and if you're a mathematician you very strongly get the feeling that it's like a bit like geology or
+25:30
+archeology or something you're exploring a world oh yeah you're discovering things which are out there you don't
+25:37
+invent the theorems you discover truths which are in some sense out there in a
+25:43
+world but it's not the world the physical world because the things you find that you know you try to draw a
+25:49
+triangle and it's not quite and how do you draw a straight line when the more you know about the nature of matter you
+25:54
+see it's granular in certain respects yeah you talk in here about what is the number three yes very difficult and so you when you
+26:02
+think about the mathematics you really have to think about it in this platonic way uh it's not that you're creating it
+26:10
+I mean you sometimes do things which are simply especially while that they look
+26:15
+as though you've um you've made made it all up but in a certain sense if it really works beautifully there's
+26:21
+something out there which is out of your control and it's much more like exploration
+26:26
+you could say this is a feeling that one has but it's more
+26:31
+I think strong you see this is one of the worlds the world the platonic World which of mathematics which I sort of
+26:37
+draw is this sphere at the top of the picture and then a little bit of that
+26:43
+world and it's only a very tiny bit because if you you look at any article and or any Journal of pure mathematics
+26:50
+and you will see the articles in there which have any relevance whatsoever to the physical world right very very tiny
+26:55
+yeah and the money that I have another number in it that's right and it's a very tiny bit of
+27:02
+it which sometimes it turns out later things that you find well in behind this this beautiful theorem which was in that
+27:07
+pure mathematical work and and now it's found an application so you see that but when you think of the whole totality of
+27:15
+a mathematical work that's been done that's explored if you like it's a really tiny part of that world a very
+27:23
+um productive magical particularly magical part of that world which seems
+27:29
+to be and I have it sort of projecting out to the physical world the laws that
+27:34
+we see being extraordinarily precise well I say uh euclidean geometries even
+27:41
+though not we know no not exactly mirrored in the in the geometry of the physical world
+27:47
+it's a basic ingredient of everything we think about in geometry so it has a huge impact into into into
+27:54
+physics but then the more we learn about physics it's governed by equations and
+28:00
+geometrical ideas and things and we reduce them to mathematics and in
+28:06
+that mathematics we can gain enormous Precision in the way we describe and
+28:11
+understand the way the physical world operates now this is a in some sense The View we have and this
+28:17
+is the view I have is that this small part of the mathematical World encompasses in a certain sense the whole
+28:24
+of a physical world so I draw this in this rather strange way a little tiny part of the world the mathematical world
+28:32
+seems to Encompass the behavior of this physical world we've seen it seems to be
+28:37
+when we get our laws right they really be it almost is that we reduce them to mathematics you might say
+28:44
+well what is a what is a rock well this rock is made of molecules and things like that and what
+28:51
+are the molecules made of holy made of atoms what are the atoms made of what they're made of fundamental particles electrons and
+28:57
+and you worry about the neutrons and protons and then the gluons and things
+29:04
+but sticks the particles together are they particles themselves well then you worry about the photons well you have to
+29:10
+use this there used to be fields and then you see their particles but then you say what is an electron well the
+29:17
+best you can do is it's a solution of the Dirac equation you say well that's a pretty abstract note and you kind of
+29:24
+have to resort to mathematics when you try to probe reality at its deepest
+29:29
+levels and then there's the next question you see which is my third world which is the world of conscious
+29:36
+experience and so the type of view I'm expressing well both in the emperor's
+29:41
+demand and shadows of them are more more explicitly in in this picture is that there's a third world which is the world
+29:47
+of conscious experience some people take that as primary and they try to build everything else out of
+29:53
+that I think that's pretty hopeless task because they are sensory experiences are very
+30:00
+hard to describe any of these other things in a in a precise way but nevertheless that's one we'll have
+30:06
+different ways of looking at it but again it seems to be a very small part of the world of physics
+30:13
+which is actually supports consciousness so okay human beings sure
+30:20
+I think it extends much more broadly than that and animals maybe many animals
+30:25
+but not all animals I wouldn't know but certainly I think the difference between human beings and
+30:31
+and certain animals is okay great in certain respects but not
+30:36
+fundamental I think the people who are dog owners for example are pretty convinced their dogs are conscious I
+30:43
+think octopus is a conscious elephants are way down though below that I think
+30:48
+my subconscious too aren't they nice I used to have infestations of mice in the place I used to live in and like you can
+30:54
+either Mar the cleverness of these little creatures sometimes ah they could step over the Trap that way quite
+31:01
+deliberately and take out all all the food completely clean that and they hadn't touched the thing which would
+31:06
+trip them up I just had a great admiration for the mice so there's something which goes deep down into the
+31:14
+into the world but it's still a tiny part in this physical world you know in
+31:20
+the Penrose hierarchy of of um you know superb useful and tentative
+31:25
+yes where do you rank because obviously geometry is superb and obviously mathematics is superb well mathematics
+31:31
+is I would say you have to spread it out it's not just mathematics is itself in
+31:36
+itself but do you feel in principle a theory of consciousness could be superb is it possible for it to
+31:43
+be superb or is it only possible for it to be useful I think if we get it right we're a long
+31:48
+way what would it look like what would such a theory all I can say about it in the studies of
+31:55
+the books I've written is a little chip I would say and the tiny thing I'm
+32:02
+trying to say is that Consciousness well again it's a little
+32:07
+part Consciousness in first all sorts of things you know pain and perception of
+32:12
+the color blue and happiness and love and and all sorts of things
+32:19
+um I don't talk about most of those things in my book I just talk about the one thing that I could say anything
+32:25
+about which is understanding and I concentrate on that because
+32:30
+there are these theorems of logic most particularly girdles theorem and turing's Analysis of
+32:38
+of it in terms of computation the ideas of computation and so on lead me to believe that human
+32:45
+understanding is not computable it's not a computation and the and a lot of people that's the
+32:53
+way a lot of people argued with me because somehow it tells us that an algorithm you see we we have these
+33:00
+wonderful computers and what they can do they do incredible things I agree with that but they run on algorithms and this
+33:06
+is what we understand this notion of an algorithm which was well it really goes back to what it was Arabic now here is
+33:14
+me but that was during and a few other people posts and church and people who
+33:20
+really made clear the idea of what an algorithm is what a computation is and
+33:25
+the girdle theorem tells you that our understanding is not a computation I
+33:31
+mean this is a story which is you know a lot of people complain about but I think the argument is pretty clear that what
+33:39
+we do when we understand a proof in mathematics is not following an algorithms and it's
+33:47
+very clear because of the girdle thing right it says whenever you what do you
+33:52
+mean by proof you see well proof is using certain kinds of rules and you have to use them correctly and if you
+33:58
+really think of it as a proof you've got to believe that those rules only give you true statements now it's that thing
+34:04
+the belief that it only gives you true statements which enables you to demonstrate the truth of a proposition
+34:10
+which girdle produces very ingeniously a proposition which you can see must be
+34:15
+true nevertheless it cannot be derived by means of whatever rules you start with
+34:21
+as long as you believe those rules only give you truth then you must believe this girdle statement is also true and
+34:28
+not derivable by means of those rules now when I learned that I was stunned by
+34:33
+it you see it wasn't that you can prove certain things can't derived in certain ways it's much stronger than that say
+34:39
+whatever procedure you use if it's following defense definite rules algorithms which you believe in trust
+34:46
+the algorithm that you trust then you can see how to transcend that now what is it in in our abilities to think
+34:54
+perceive conscious perception that transcends computation oh there are
+35:02
+lots of arguments people present and one of these is well you know the algorithm we use in our heads are so complicated that we'll never be able to see what the
+35:09
+girdle thing is we are sure but the point is that how did it come about by natural
+35:15
+selection it has to have been by relatively simple things which we can certainly understand these very
+35:21
+complicated things which you can maybe have a computer which
+35:26
+could do things which are pretty hard to see why they're true because it's very very elaborate that's not what was
+35:32
+naturally selected for what was naturally selected for was this more basic principle of an understanding and
+35:39
+that is not a computation it's something I don't know what it is don't ask me what it is that's the distinguishing
+35:45
+between computability and actual comprehension and it's the comprehension of why the algorithm does what it's
+35:51
+supposed to do and it's not simply trying this and that and that zillion
+35:56
+still inductively in a certain sense I mean there's an irony here because okay
+36:03
+uh conscious beings came about in a way by Natural Selections and which
+36:08
+is an algorithmic right some way of picking out the ones that were more successful but they were successful in
+36:14
+the view I hold by probing the laws of physics at a much
+36:20
+deeper level than we've seen yet at this level where we see non-computable action
+36:26
+and this has to be still yeah it was already the argument I gave in the in the emperor's new mind
+36:31
+but although not quite the right criteria in my view it has to be at this place where we have to go beyond current
+36:39
+Quantum Theory and the argument came about right which is what formula is the view
+36:45
+basically when I was my I think it was my first year as a graduate student when I went to courses
+36:51
+by a man called Steen of mathematical logic Bondi on general relativity and Dirac a
+36:58
+great Quantum physicist on quantum mechanics and I tried to see what in the physical world can be not put on a
+37:04
+computer basically and basically my conclusion was it was this curious feature of quantum mechanics
+37:10
+where you have an inconsistency it's basically making a measurement you see
+37:16
+quantum theory consists of two parts one is following an equation and it just that's a thing you could put
+37:23
+on a computer unitary Evolution unitary Evolution and the other is where you
+37:28
+don't do uniform Solutions right you make a measurement plan to collapse the wave function and you cheat but you have
+37:35
+to do that right to to have the world we see and so this scene to me that's the
+37:41
+place where the non-computable physics has to come in I don't see in detail how it comes in and it's a big mystery but
+37:48
+my claim is you've got to harness that bit and somehow the conscious brain
+37:55
+is at some point making use of this part of
+38:00
+this place is not just that it uses quantum mechanics many people that already they say oh no it's classical
+38:06
+physics or you don't know what a economic is no when we see that's wrong already because in things like uh
+38:12
+photosynthesis and maybe bird migration there are other places where we seem to see
+38:18
+effects which do just depend on crucially on Quantum effects well chemistry is already Quantum these are
+38:24
+things a little bit outside that saying like room temperature yes preserving of quantum coherence at room
+38:31
+temperature so sure the argument is nature has found a way to do it deep in
+38:38
+the in the brain and much more likely it'll be to do with microtubules
+38:44
+um and probably how they relate to other structures and um so anything with a microtubule
+38:51
+could participate in quantum mechanical measurements even it doesn't say that
+38:56
+much I mean there are these two structures the a lattice and the B Latins and the a lattice is very
+39:01
+symmetrical the B lens is not so symmetrical the realized it's still symmetrical but not so much and most
+39:08
+microtubules in the body all over the place tend to be B lattice the eyelashes ones seem to be much more
+39:16
+promising for doing things in the brain probably and maybe conscious actions so the guess is
+39:24
+that whatever is really responsible for conscious action is not just microtubules that a lettuce macrotubules
+39:31
+and there is some theoretical work done by various people which does seem to indicate that that's certainly for the
+39:39
+future and I think that's way ahead of what we have at the moment are there models you know mice or octopi or yeah I
+39:47
+mean are we able to test in living structures that these things can occur I mean uh Schrodinger cat experiment
+39:53
+supervised by an octopus or something that the folks at Peter wanted I think going to that level
+39:59
+is unlikely for a while for a long term I think it's much more likely probing uh
+40:06
+areas of the brain not so much areas of the brain but exactly what's going on when
+40:11
+and there are things uh you know it's outside my area of expertise but they're sort of
+40:18
+waves of activity involving different layers in the brain and where the
+40:23
+conscious activity seems to come in is where there are large numbers of these
+40:29
+certain kinds of cells called pyramidal cells I'm I don't know enough about it to know
+40:35
+exactly there is a big question you see which people often raise and that is
+40:41
+there are far more cells neurons I only reasonably then it's more I knew it was
+40:47
+comparable yeah in this part of the brain called the cerebellum now the cerebellum it's not that people usually
+40:53
+but people who think of it's just as hard at the top with adults convolutions all that it's a part which looks much
+40:58
+more like a ball of knitting underneath and at the back it has more neurons considerably more than they are and more
+41:06
+connections between neurons and it seems to be pretty well unconscious it's it's
+41:13
+activated when you do very precise motions you know if you become an expert tennis player or play the piano
+41:19
+beautifully well you don't think every moment you know where do I put my middle fingers in exactly what spot
+41:26
+that's controlled pretty well by unconscious actions and the Precision needed in these actions are carried up
+41:34
+by the cerebellum I mean they initially you have to learn about them in the cerebrum part but when they become
+41:40
+unconscious controlled with such unconscious Precision that you need at
+41:46
+these great levels of expertise or even when you're walking down the street probably certainly when you're driving the car not thinking about it is
+41:53
+probably controlled by the cerebellum now that doesn't seem to be conscious right what's the difference well I don't
+42:01
+know but Stuart would say there's no there are no pyramidal cells in the cerebellum and the pyramidal cells have
+42:08
+many more microtubles in them and they're organized in a different way from those
+42:14
+that's the kind of thing one could Explore More and see to what extent
+42:20
+is it that these structures with more microtubules and more analytus microtubules maybe actually seem to be
+42:27
+more concerned with conscious thinking and you can definitely true that some parts of the brain are much much more to
+42:33
+do with Consciousness than others right that's certainly true of the with the the cerebellum I don't know what the
+42:39
+question is with other parts of the cerebrum you know on a practical level I'm curious to get your perspective on
+42:46
+recent developments and things like Quantum Computing you you very presciently talked in this book about
+42:52
+not only chess and this is before deep blue it defeated Gary Kasper off but you talked about the game go which is uh
+42:58
+which was recently Google's version of the goal playing algorithm beat it uh the best human human being uh you talked
+43:06
+about all these things in the late 80s it's really it's really amusing to look back uh the other things you talked about quantum teleportation there's a
+43:12
+Charming uh chapter where you talk about you know taking the molecules of a brick and and replacing them and is it the
+43:19
+same brick and then what's the difference in the brink in your brain and could you do these things you know to this so I'm interested with all the
+43:25
+technological developments in Quantum Computing that we've recently achieved Quantum Supremacy and things like that
+43:31
+what's your uh from the standpoint of the Long View of History how important is this era in modern in modern times
+43:38
+how will you feel like it will be regarded in the future was this a critical time or is it it's very hard
+43:43
+for me to judge at the moment I mean certainly the quantum computers that they have now and they've made a lot of
+43:49
+progress are not like the ones that were being considered before where you might
+43:54
+have something like a classical computer but then you're sort of introduced Quantum superpositions and calculations
+44:00
+and so on they're basically different kinds of structure and they're not as
+44:05
+far as I know really Universal machines see one of the wonderful things about
+44:12
+ordinary computers if I can call them ordinary is that depending on this
+44:17
+notion developed by touring and church and posts and girdle and people of computability being a universal concept
+44:25
+so you can build up through very simple ingredients a machine which can in
+44:31
+principle do any computation now this is these ideas are developed into of course
+44:37
+lots of ingenious ideas go into it but the modern computers are basically
+44:42
+Universal Computing machines so any kind of algorithm you can put on the computer now with the
+44:49
+quantum machines it's really a very small number of problems okay there's very specific ones they can do very well
+44:55
+simulated hamiltonians right yeah as far as I'm aware they're not really general purpose machines so it's it's not really
+45:02
+quite level maybe they will become and maybe there will be a point which you
+45:09
+sound like sometimes commenting on this see in the old days people used to say well you get better computers this is
+45:15
+before the quantum computer screen you get better better machines the smaller you make them so you can get smaller and
+45:21
+smaller chips and then they become smaller and smaller and smaller and they much more effective and you get more
+45:27
+power out of the machine and then there's a certain limit because at a certain point you run into the problems
+45:32
+of quantum mechanics so there is say the quantum limits you see that'll stick us up at some point well then of course
+45:39
+people say no well once you know what's going on at the quantum level you can actually harness the quantum level so
+45:45
+you have this idea of a quite computer which enables you to transcend this to some degree what you can do with a
+45:52
+classical machine and so maybe something similar might come later on now people say well there's a certain level a limit
+45:59
+to what you can do with your Quantum machines because it's if you have too much mass moving around then you're
+46:04
+going to run into the limit where the quantum mechanics doesn't hold and you've got to go beyond it and so there
+46:09
+will be a limit there the state reduction limit of quantum computers and
+46:15
+then maybe someone said well we've got maybe by then some great Theory which tells you which goes beyond standard
+46:21
+quantum mechanics and then maybe you can do construct a device which goes beyond
+46:26
+it by taking advantage of this thing I think I'm gonna I'm glad I won't be alive by then
+46:32
+I I think if these things do come about I'm a little bit worried about what we're going to be done with them yeah I
+46:38
+wish you a long life I wish that that that's the only thing I disagree with you I don't I don't want you to not to
+46:44
+to leave the Mortal coil too soon because I I want to see actually that segues maybe it's perhaps to my final question which
+46:51
+um has to do with all these various um novel ideas that you've had and perhaps no other certainly no other
+46:56
+modern physicist has had contributions as diverse as cosmology as Consciousness
+47:02
+as a twister Theory as uh the talking computation and artificial intelligence
+47:08
+if you could ask you know as Einstein used to call him the old one God if you could if you get the answer to one of
+47:15
+these you know many topics that you've that you've researched you know throughout your life throughout your very productive career which is the
+47:22
+thing that most fascinates you which is the thing that most captivates your your imagination question because at the
+47:29
+moment the thing which excites me most is the cosmology but there he says explains to me because you see I have a
+47:36
+certain wild idea which I think May well be true and most standard cosmologists don't believe me you see but there are
+47:43
+bits of evidence what we're beginning to see which do suggest that maybe there is
+47:49
+some truth in this model and then just thinking about that just for the listeners you're speaking about the conformal psychics which says that
+47:57
+the Big Bang was not really the beginning it was the conformal
+48:02
+continuation I talked about the conformal geometry where big and small you're not interested in you're
+48:08
+uninterested in size but what I'm trying to say is in the Big Bang because the energies are so big and the
+48:14
+particles become effectively massless they can't tell big from small so at that stage there's the kind of geometry
+48:21
+doesn't know big from small is important the other place when you can't tell big from small is an extremely a remote
+48:27
+future where the universe expands and expands exponentially and you mostly photons running around and they don't
+48:33
+know big from small and you've got the black holes and then they eventually evaporate Away by Hawking evaporation
+48:39
+and then you've got nothing left that doesn't it's not quite true you have to be careful about that but roughly
+48:45
+speaking the idea is that this very remote future it doesn't go big from small either so the crazy idea is that
+48:54
+this very remote future joins on to the Big Bang of a next Eon
+49:00
+and our big bang was the conformally squashed remote future of a previous Eon
+49:07
+now it's a completely wild idea because my intensity well why you know how does this happen no right stretched out very
+49:14
+rarified very cold infinite remote future of a neon simply become the very
+49:22
+concentrated extremely hot and dense next big bang well the thing is because
+49:29
+the geometry there is the conformal one the big and smaller equivalent okay you take people a lot of convincing to make
+49:36
+sure that they believe this but the claim is that we're making is that there are certain signals which you can which
+49:43
+do get through and the first ones we're thinking were super massive black holes
+49:49
+railing into each other and producing and huge bursts of gravitational
+49:54
+radiation which would give you signals which could get through and we claim
+50:00
+that there are such indications much stronger are the more recent observations this is different so one
+50:08
+mustn't get them confused the link between the two is supermassive black holes but now this is the black holes in
+50:14
+the very remote future the basically swallowed up in an entire cluster of galaxies
+50:20
+and the entire pretty well most of the mass in that cluster of Galaxy if we get swallowed by the black hole sits around
+50:27
+it sits around and sits around and eventually gets evaporates Away by Hawking
+50:34
+evaporation into into photons you see I used to think it's very boring phase of the universe when you've got
+50:40
+nothing but black holes left what's really boring is when they've all evaporated away and so I was worrying
+50:45
+about this in unbelievably boring universe and then I began to think well who's going to be bored by it yeah
+50:51
+exactly you're right that's the only the 30 is a pretty long time that's right it's an awful long time especially at
+50:56
+the end but uh the main point here is that
+51:01
+photons don't experience eternity because they've got the clocks yeah there's no clocks yeah they don't
+51:07
+have clocks so so the infinity is no big big deal to a photon it just Zips through into the
+51:12
+next neon and that's the view I had then tried to make it into a theory and these
+51:18
+Hawking points which are the splodges I would say it may Hawking
+51:23
+splodge but it's pretty circular it would be they would be spots in the sky
+51:29
+about 10 times sorry eight times the diameter of the full moon and you
+51:36
+wouldn't see them any bigger than that that's definitely a prediction of the theory occasionally a bit smaller but they
+51:44
+would be slightly raised temperature and I don't know this is my suggestion
+51:49
+that if you had a planetarium you know usually the UC stars and planets and things like that have the
+51:55
+microwave background on your planetarium with enough detail yes I guess the flank
+52:00
+satellite would reveal and you look at appetite and you would see them I'd like to know if that's true we have a beach
+52:07
+ball behind you which will work yeah that's right you need a bit more
+52:12
+resolution because I think there's a little spot it turns the moon damage it would look like a pin prick in that
+52:19
+model so it needs to be a bit bigger than that but the intensity
+52:24
+overall is about 15 times the average increased temperatures that you see so
+52:30
+the the new the normal variations in temperature or what 10 to the minus five and here
+52:35
+you're looking at about ten for minus four a little bit a little bit more of an intensity
+52:40
+but probably not too obvious unless I don't know I would expect you know you
+52:46
+look at that in the sky and you'd see them I'd like to know I'd like to have a good well-known Planetarium and I'd like
+52:52
+to sit in it and see yeah you can see well you and I both have the pleasure at one point or another of speaking at the
+52:57
+Hayden Planetarium and when I spoke there they were kind enough to project onto the Dome the CMB map is revealed
+53:04
+from from the Planck satellites they did do it so maybe we can arrange it for your next visit to New York City yeah if
+53:11
+it's really just a startling it's almost induced vertigo in me which was to be centered on this universe that I'd spent
+53:17
+so much time studying I would love to see it yeah it's quite beautiful and he said nowhere to look for some of them the five most prominent spots right I
+53:24
+suppose but but it's intriguing to know whether whether you would really see them naked eye with liquid yeah radiation so
+53:33
+you were asking me what yeah I mean that's what excites me most at the moment because that's ongoing and you
+53:39
+can really see does this conform to right does the theory conform to the observations are not out the next thing
+53:45
+I would say would be the state reduction experiments which are a little way off but not that long there are experiments
+53:53
+currently being done which within the next three years
+53:58
+maybe we'll get an answer there are other experiments the one I'm thinking of are the ones that by Dirk by me sir
+54:04
+and this is his estimate and he's been pretty accurate in in predicting how
+54:10
+long his things will be so I think he may have an answer because the answer May then go the wrong way as far as I'm
+54:15
+concerned but I hope he will see State reduction that's a sort of deviation
+54:20
+from standard quantum mechanics right of course since it's a dedicated deviation a lot of people will complain they'll
+54:26
+say that's a bad experiment it's due to decoherence and all that so I have to you'll have to persuade them this is a
+54:31
+good experiment but there are other experiments using boson sign condensates I think they're probably the next
+54:39
+maybe they they will see effects um right I have a colleague in Nottingham Yvette Fuentes right
+54:47
+has proposals which I hope will be performed experimental they haven't been
+54:52
+set up yet and the third thing is consciousness the head there you see I
+54:59
+think we're a lot longer I think the we may see the effect in the not
+55:05
+biological experiments but the just the the physical physics experiments are being done there whether you will see
+55:12
+the quantum effects in microtubules or what quite possibly I think some general evidence for
+55:20
+Quantum coherence in biological systems might not be too long from now but to see any direct
+55:27
+evidence of connections with Consciousness I think it's a long way off because that's really such a
+55:33
+slippery subject right to to get hold of that in an experimental way may be really tricky but that moment maybe well
+55:39
+if emperor's new mind which is still relevant now in its fifth decade after publication there's any guide uh it's
+55:46
+surely to be expected that we'll have various new insights into these fascinating subjects that you've worked
+55:52
+on and I can't tell you how much we appreciate you here your graciousness is always in visiting us and sharing your
+55:59
+ideas and opinions with us are really very much appreciated so thank you sir Roger for your visit and we look forward
+56:06
+to many years of continuing to success well thank you very much and I'm very excited to see how many now these
+56:12
+experiments in the telescope and Chile and all that will come along it really sounds like a very exciting project
+56:18
+thank you very much the only thing they can be sure of about the future is that it will be absolutely
+56:23
+fantastic
+56:29
+[Music]

@@ -1,0 +1,1182 @@
+Stuart Hameroff: Is the Brain a Quantum Computer? 🧠
+
+https://www.youtube.com/watch?v=Q6gpp70yvgo
+
+0:00
+I think music is probably a better metaphor at least for Consciousness than his computation Dr Stuart hammeroff is a
+0:06
+professor of anesthesiology and psychology at the University of Arizona he's best known for his work on Quantum
+0:12
+Consciousness a theory he's co-created with sir Roger Penrose does Neuroscience need a revolution to understand
+0:18
+Consciousness and I believe it does it's also a theory that's been highly disputed by the scientific Community
+0:24
+does our brain really operate like a supercomputer or is it actually more like a Quantum Orchestra I think you
+0:31
+need microtubules and I think you need these coherent vibrations tune in for more about the true nature of
+0:38
+Consciousness welcome everybody to what promises to be a wild tour through
+0:43
+Consciousness imagination and the human brain a sample of which I brought here
+0:49
+for today's renowned guest my friend second time appearance on the into the
+0:55
+impossible podcast it's Professor Dr Stuart hammeroff the University of
+1:00
+Arizona where he is a professor of anesthesiology and psychology and the
+1:07
+director of the center for Consciousness studies where there were plans for the last year because I get these emails
+1:14
+every year and I spoke many years ago at this conference when it was last in San Diego
+1:19
+and they just had a phenomenal Conference held up in Encinitas I guess
+1:25
+um for the center for Consciousness featuring our good old friend sir Roger Penrose who's coming up on 93 I think
+1:30
+next week I think he just no you just turned 93 yeah that's right Stuart how are you very well Brian it's good to see
+1:36
+you again yeah I'm Glad You Came uh get us get to escape the Heat and come into the kitchen here in San Diego I'm what
+1:42
+you call a Zoni in this part of the country so we do call you we see but you usually leave around Labor Day so that's
+1:49
+nice uh so we get our we get our beaches back I got the hint
+Judging the symposium by its cover
+1:54
+not you personally we love having your hair uh so you've been on before you came on last time with sir Roger uh but
+1:59
+this time I wanted to get an in-depth look into your research what drives you passions and also to answer some
+2:07
+questions that I've had about Consciousness for a very long time but I thought first we'd do something that we
+2:13
+always do on this podcast we we do a feature that we call judging books by their covers you don't have a book today
+2:20
+that we're discussing but I thought we'd look at the uh the cover of the Symposium the artwork for the Symposium
+2:27
+and the last time I was here uh I spoke at it in 2017 I can't believe it uh was
+2:33
+uh there was a brain riding a surfboard somehow in La Jolla so anyway can you
+2:38
+explain the origin story and judge the Symposium by its cover well the recent
+2:44
+Symposium uh was uh does Neuroscience need a revolution to understand Consciousness and I believe it does and
+2:51
+this particular conference which is kind of a satellite conference of our usual Consciousness conferences uh uh was a a
+2:58
+result of the last two a SSC conference conferences which ascc is kind of the other uh large uh uh conference annual
+3:07
+conference on Consciousness they tend to be more conservative they are more academic but they don't really deal with
+3:12
+Consciousness so much as cognition metacognition language what Dave Chalmers called the easy problems and uh
+3:21
+the last two ascc conferences have featured theories of Consciousness but didn't include ours even though they
+3:28
+were centered on the Templeton Foundation adversarial collaboration program which poured a lot of money into
+3:34
+Consciousness research and lasts for years and originally there were five theories uh integrated information
+3:39
+Theory Global neuronal workspace uh predictive coding and higher order
+3:44
+Theory and ours orchestrated objective reduction and the other four are really what I call kind of wiring diagrams of
+3:52
+information flow in the brain without really dealing with any biology they're kind of you know information goes this
+3:58
+way it goes that way and then it all converges and that's where Consciousness is and so their their collaborations
+4:03
+were based on where is consciousness is it in the front of the brain is in the back of the brain there was one particular one between IIT and Global
+4:10
+neuronal workspace on whether it's the front of the brain in the back of the brain and five million dollars later
+4:16
+they had a big showdown at the ASAC conference and they couldn't decide it was conflicting and uh and so it was a
+4:23
+big big tie and also uh Chalmers and Christoph coke uh settled a bet from 25
+4:29
+years ago on whether there we'd have a neural correlative Consciousness in 25 years Dave had said no because he
+4:37
+believes in the hard problem the Consciousness is essentially unsolvable and Chris said yes we'll have a neural
+4:42
+correlate in 25 well 25 years later Kristoff had admit we we don't even though he's a big advocate of uh IIT uh
+4:50
+he had to admit that that it wasn't convincing anyway they didn't consider
+4:56
+our Theory and as I told Christoph and Dave you know we've already shown that Quantum effects and microtubules are inhibited by anesthesia and therefore
+5:02
+the neural correlative Consciousness should be in microtubules at a deeper level within the brain but they only
+5:08
+consider neurons as simple on off switches they only consider the hodgkin-huxley 1950s era membrane-only
+5:16
+ion propagation signaling along the membrane you know Touring that is a
+5:22
+computable algorithmic neuron and the brain's not like that if you put electrodes inside cortical pyramidal
+5:29
+cells they're non-algorithmic they have some some other feature other than membrane adjusting the threshold from B
+5:35
+to beat a great place for Consciousness to come in and and adjust things and modify what is otherwise
+5:41
+automatic Behavior so um because we weren't part of the adversary we tried
+5:48
+to have an adversarial collaboration with IIT and we had a meeting in early 2020 just before covid in 2 some with
+5:55
+Julio tanoni and Christoph kolk and Roger and honor Bond and and other colleagues of of mine of ours on the
+6:02
+orcor on the microtubule side but we couldn't uh the idea in the adversary
+6:07
+collaboration was to have one one experiment that if it went one way would prove one theory if it went the other would prove the other it'd be a decisive
+6:14
+experiment yes and we couldn't and we couldn't uh come come up with anything
+6:19
+because number one I don't think IIT is falsifiable and number two we're at a deeper level and our Theory would be uh
+6:27
+it's talking about Quantum effects and microtubules inside neurons faster deeper Quantum and would be consistent
+6:33
+with any of the other theories which are more like wiring diagrams or even phrenology maps on the surface of the of
+6:38
+the skull so uh that kind of fell through but Templeton generously gave us
+6:43
+two hundred thousand dollars to do two experiments uh both of which turned out very favorable to us one of which is
+6:50
+published and the other one uh will be coming out soon when I had on David charm Mars he graciously came on last
+The Orch OR theory
+6:56
+year for his new book and he's from Australia and I asked him that the
+7:02
+following question which I want to ask you if I were to have on AC DC the most popular band besides maybe Olivia
+7:10
+Newton-John rest in peace from the land down under of Australia and I were not
+7:16
+to ask them to play their song You Know Back In Black I would be worth nothing
+7:22
+as a podcaster so I want to ask you uh your greatest hit I asked him for his
+7:28
+greatest hit to find the hard problem of Consciousness and and he did and that was wonderful I want you and your words
+7:34
+to describe what is orc or okay as I said most theories look at the brain as
+7:40
+a complex computer of simple neurons so if you have complex enough interactions
+7:45
+and you're they're wired up in the proper circuitry then Consciousness emerges at a critical level of complex
+7:52
+interactions but but the neurons themselves are simple on off switches no different than what you would find in a
+7:58
+computer and functionally and this has been the idea and this this grew out of
+8:04
+Hodgkin Huxley which lends itself very well to uh algorithmic neurons uh by
+8:09
+biological and then computation and you know the brain's Consciousness in the brain has always been likened to the
+8:15
+current information processing technology going back to the Greeks with a seal ring and wax for memory and then
+8:22
+Telegraph switching circuits uh uh the Hologram uh smoke signal well maybe not
+8:28
+smoke signals but uh and then uh the computer of course the last uh 50 years
+8:34
+it's been the computer and AI has come along and run with that idea and say when we get complex enough or we get
+8:40
+enough this or that we'll have Consciousness and I think that's completely wrong because I follow Roger's idea the Consciousness is
+8:46
+non-computational and there's something other than computation something other than a turing machine going on right so with the orc or component of it relates
+8:54
+to quantum mechanics and non-computability how how so if you look at one neuron like as as I said if you
+9:00
+put an electrode into a pyramidal cell which I think is the most likely place
+9:05
+on this in the cortex the layer five pyramidal cells um for reasons I could go into but uh
+9:10
+and you measure the membrane uh the the kind of the input output you find that
+9:16
+the threshold for firing it's supposed to be integration on the dendrites and Soma to a threshold reach that that
+9:22
+triggers the firing and that's a one or a zero and that lends itself to computation and so it's all depend on
+9:28
+input versus output which is algorithmic and touring however they found that there were very there's a variability in
+9:34
+the threshold firing threshold on a B2B basis on a firing to firing basis so there was something other than than the
+9:42
+membrane or even a field coming in from the outside because that would affect the membrane let me just interject just
+9:47
+for clarification for my audience you know because if I'm a little bit unclear I'm sure that they might also be So when
+9:55
+you say that the threshold changes it would be as if you have still zeros and ones but the threshold to trigger in a
+10:01
+you know transistor-based computer it'd be as if they're that threshold would not be zero on five volts it would be
+10:07
+some intermediate value that itself would change over time yes it changes on a fire to firing basis and uh that was
+10:15
+uh they kind of everybody kind of glossed over that well it's it's artifact it's noise it's this it's that but I it isn't and I mean uh and and
+10:23
+that is actually a perfect place for Consciousness to come in because if we're algorithmic if we're totally
+10:29
+computational then there's no possibility of free will there's no create uh creativity there's no
+10:35
+imagination it's all we're all basically a computer not many people believe that we have no Free Will and Sam Harris
+The problem of free will
+10:41
+Sabina hasenfelder many people believe in super determinism and so I know that's not a problem for them but I know
+10:47
+that but if you want to I actually I don't believe that we don't have free will and I've never met somebody I don't know have you you might have you ever
+10:54
+met someone who acts in accordance with a perspective that they have no free will in other words Sam Harris I don't
+10:59
+think that he goes around thinking I I have no free will so therefore I'm going to act in accordance with that fact in
+11:05
+other words he sees it as a have you ever encountered a patient perhaps that uh maybe in psychological settings
+11:11
+I believe that like you know if they did something wrong they cheated on their wife that it's because of the big bang you know is there something like that uh
+11:19
+well there could be but I think there's a there's a bigger problem with free will which is that uh if you say something
+11:26
+and I say something in it and uh if if we somebody looks at my brain at the
+11:31
+activity recording or or processing what you said I will have already responded to you yes
+11:37
+or a baseball player uh actually swings the bat uh it doesn't really have enough
+11:44
+time to know where the the ball is and uh going back to the experiments of Benjamin libbit 1979 uh where he had
+11:51
+patients awake in surgery with their brains exposed and could do physiological tests uh there's he he
+11:57
+found that the brain refers information backward in time and uh Roger wrote about this in his book The Emperor's New
+12:03
+mind and I I then looked up a little bit and studied him intensely and basically Roger uh argues that every collapse
+12:10
+sends Quantum information both forward and backward in time and Arona of says
+12:15
+the same thing and others do too so uh backward time up it is allowable in quantum physics up up to a point you do
+12:22
+have the grandfather causal Paradox problem but but if if you you can get around that or you can avoid it by just
+12:29
+not affecting anything that hasn't collapsed yet so this backward time effect actually enables you enables us
+12:37
+to act in in real time so even though the activity process and what you said hasn't happened yet it's going backward
+12:43
+in time so I can answer you consciously but but the the phase space or the parameter space isn't infinite in other
+12:49
+words if the baseball pitcher you know throwing a pitch it's not going to you know emerge from from The Dugout it's
+12:54
+going to emerge from his hand there's a parameter space so that narrows down the batter's ability to actually judge and
+12:59
+there is you know it's it's not that it's a causal it's they're basing their swing pattern uh on the actual you know
+13:06
+probability that they've witnessed over thousands of pitches in the case of a well that's that's the uh the mainstream
+13:12
+explanation and that may be true but uh a guy named Robert Adair uh wrote a book called the science of the Swing about
+13:18
+this and and it would argued against that same thing with Cricket and tennis and so forth and even rapid fire
+13:23
+conversation and there's a lot of experimental evidence for it also unfortunately if it's in the
+13:29
+parapsychology literature it gets written off as exp as parasite apology but there's a lot of precognition
+13:34
+there's some very mainstream studies showing uh uh effects from the near future right but getting back to the
+Elaborating on the Orch OR theory
+13:41
+actual orc or Theory so when we when we talk about can you sum that up in a way that you know a lay person can
+13:47
+understand it because I've had trouble I know other physicists have trouble understanding it
+13:52
+um and and I know you're not a physicist but you've been intimately involved you're the one person that Roger
+13:57
+responded to from the emperor's new mind uh back which was the first book I ever read as a science you know hungry kid
+14:03
+but but I want to ask you so the orchestrated let's break it down what is orc o r stand for and then what do each
+14:10
+one of those terms mean in Lay persons terms please okay or is Roger's uh theory for collapse of the wave function
+14:16
+to do due to general relativity or quantum gravity however you want to describe it I'll come to that in a
+14:22
+second orc is really what's happening in the microtubules so let me put this in a temperate perspective when I was in
+14:27
+medical school I was interested in the brain mind problem Consciousness but neurology a Neurosurgery Psychiatry
+14:33
+didn't really grab me as especially to spend my life doing I did a research elective in a cancer
+14:39
+lab was studying mitosis how cells divide how these structures microtubules
+14:44
+mitotic spindles would grab the chromosomes and they're all uh Tangled
+14:49
+Tangled Up and and mixed up and grabbed them in perfect Pairs and separate them
+14:54
+to form the daughter cells so they had to know where uh where to go what to do
+15:00
+there they needed to have some kind of intelligence or possibly Consciousness everybody else in the lab got fascinated
+15:06
+by the chromosomes and this was the dawn of the genetic Revolution and they probably made billions in genetic
+15:11
+engineering and so forth I got really fascinated with how these structures these microtubules knew where to go and
+15:17
+what to do I was interested in Consciousness at that same time in the early 70s it was discovered that the
+15:23
+microtubules were in all cells not just mitotic spindles including neurons they were chock full neurons were chock full
+15:28
+of them prior to that the fixative agent had for electron microscopy been dissolving them and I and the X-ray
+15:36
+diffraction crystallography of microtubule came out from Amos and klug in in the UK and it was a it was a like
+15:42
+a crystalline lattice of individual proteins in a helical geometry with Fibonacci geometry which I thought was
+15:48
+really interesting and uh and they were in neurons and uh and they looked like computers I was also learning about
+15:54
+computers for the first time about Boolean switching matrices and I looked at the structure of microtubule and a
+16:00
+Boolean switching I said you know they look like computers maybe they're processing information as little computers and that's how they know where
+16:06
+to go and what to do and and organize stuff inside the cells and so I developed some theories and models and
+16:12
+worked with physicists at Los Alamos Steen Rasmus and Jack josinski Stephen Smith and others modeling microtubo says
+16:20
+automata like cellular automata each protein subunit could be a one or a zero interacting with its neighbors and we
+16:26
+showed that we could get propagating patterns and information and they could be pretty good computers especially if
+16:32
+you hook them up side by side in opposite directions as we have inside neurons inside dendrites so uh have
+16:38
+people built on is this a sign have they built you know a squishy wet computers using microtubules and not you know
+16:44
+maybe not human subjects but have they they're smaller uh honor bond has developed uh what he
+16:50
+calls brain jelly which is an organic polymer that self-organizes in a helical fashion which is based on microtubules
+16:56
+that he says is a quantum computer it's an organic quantum computer room temperature and that's he just got big
+17:03
+fun Big Time funding in India to develop that but uh I'm getting ahead of myself so I was going around the 70s and 80s to
+17:11
+neural net and AI meetings and where you know Curtis Wells talking about the singularity we get to 10 to the 16th
+17:18
+operations per second they were looking at the brain as 10 10 to the 11th neurons uh a thousand synapses and about
+17:25
+100 Hertz gives you 10 to the 16th operations per second so kurzuel actually this came from Hans moravik in
+17:31
+the in the in the 80s I read his book uh mine children I think and then kurzwa
+17:36
+picked it up and said well when we get to that's the brain capacity 10 to the 16th operations per second when we get
+17:42
+there we'll have Consciousness in a computer because he's coming on the podcast next early next year so look
+17:47
+forward to sharing your ideas with them okay and uh and I had calculated that
+17:53
+microtubules there were about a billion tubulins switching in say 10 megahertz gave you 10 to the 16th operations per
+18:00
+neuron so I was I was going on being a real pain in the butt to them saying no there's way way more information going
+18:07
+on and if you multiply the 10 to the 16th per neuron times the 10 to the 11th neurons you get 10 to the 27th
+18:13
+operations per second so I I was moving their goal post if they wanted to believe me way way Downstream so they
+18:19
+didn't want to believe me they didn't like that it made their you know because they were saying give us a few more billion and we'll have a conscious
+18:25
+computer and I say no no it's like 30 40 50 years in the future you know so they said get out of here kid you bother me
+18:30
+you know and so uh anyway one day somebody said okay wise guy let's say
+18:36
+you're right how would that explain Consciousness and it was the hard problem thrown in my face this is five
+18:41
+years before Dave uh Chalmers discussed the hard problem other people
+18:47
+including John Searle had described it in other ways I had to realize I had to admit that this guy was right I didn't
+18:54
+have a mechanism for Consciousness you know feelings love joy the color pink the Blue Sky whatever taste smell of
+19:02
+coffee I had no idea it was these were qualia and uh fortunately that person
+19:07
+recommended I read Roger's book uh the emperor's new mind which I did and uh he
+19:13
+the first part of the book was arguing against the idea that Consciousness is a computation through girdle's theorem
+19:18
+that mathematical theorem can't prove itself you have to have somebody outside a conscious mathematician and he said
+19:26
+therefore for understanding you have to be outside the computational system the classical competition the touring
+19:31
+touring machine idea something outside that and for that you had to leave
+19:37
+classical physics you had to go to quantum physics and for that you had to arrive at the at the single most um
+19:44
+mysterious issue in Quantum physic which is the measurement problem a collapse of the wave function and as you know in
+19:51
+quantum physics at small scales and maybe large scales but at least the small scales things can be in multiple States or locations at the same time but
+19:57
+when measured or observed they seem to collapse to one or the other now some people say that doesn't happen in each
+20:03
+possibility branches off and forms its own universe or decoherence does it some
+20:08
+people say that Consciousness causes collapse none of those are really satisfactory and in this book The
+20:13
+Emperor's New mind Roger came up with his own new idea that there was a self-collapse and to explain that he
+20:20
+brought in general relativity which is a neat trick in and of itself because quantum physics in general relativity
+20:25
+generally don't Jive but he likened the position of a particle or a particle to
+20:32
+tiny curvatures in space-time now Einstein had done it for big things like the sun bending light behind the Stars
+20:37
+so that Eddington can see the stars behind the Sun and that proved the space-time curvature Roger did it for
+20:45
+tiny things so a tiny particle would have a tiny curvature in space-time and if it was in superposition of being here
+20:50
+and here it would have two curvatures it would be a separation in underlying space-time geometry and he used these
+20:56
+simple two-dimensional space-time sheets to illustrate and you can imagine that if the curvature is separated
+21:02
+indefinitely you'd have multiple worlds but he's and you can imagine if somebody looked at it and caused collapsed it
+21:08
+would go to one or the other without explaining what the Consciousness was out here but he said the separations
+21:14
+were unstable and after a Time T would collapse to one or the other and when that happened it would give a moment of
+21:20
+proto-conscious experience a qualia and this was the only mechanism ever
+21:26
+proposed that I know of and still to this day for a generation of qualia of of Consciousness the wave function of
+21:31
+what because there's there's an infinite number of uh systems in the that you
+21:37
+could describe right is it every electron collapses their wave function What wave function are we talking about
+21:42
+that yeah that's the beauty of it he used space-time curvature so it doesn't matter because any superposition of
+21:48
+anything would cut would be would be a separation in in space-time geometry so
+21:53
+it in principle would work for any superposition now to work in the brain is another question but but it would
+21:59
+mean and it still means that there are superpositions separating and collapsing in the table in the air everywhere
+22:06
+ubiquitously throughout the Universe and uh these collapses would be random uh
+22:12
+disconnected lack memory like me you know that context and would be what uh he calls uh and I call now
+22:19
+proto-conscious and this may seem bizarre that these proto-conscious events are happening everywhere but if
+22:24
+you're a pan psychist and many neuroscientists have resorted to pansychism because Neuroscience doesn't
+22:29
+work for Consciousness uh then you have the issue that everything is conscious
+22:35
+including this fake brain including the table so it's the same thing but then you have the problem how do you combine
+22:40
+them into the kind of unified Consciousness we have and you can't do that for pan psychism but for Quantum
+22:46
+you can because of entanglement so and this relies on yeah gravitational
+22:51
+effects which are far you know literally 40 orders of magnitude smaller than you
+22:56
+know special relativistic effects or electromagnetic effects how do they evade the decoherence time scales that
+23:03
+you know even in a simplistic many worlds interpretation are happening 10 to the 30th times per second and how do
+23:09
+they persist long enough for us to have that 100 Hertz which is one you know hundredth of a second perception of
+23:15
+qualia or whatever else right well everybody says the brain's too warm wet and noisy for delicate Quantum effects
+23:22
+because you want to build a quantum computer you go to the laboratory and do it absolutely right we have a dilution refrigerator so I'll take you down to
+23:27
+point zero zero one Kelvin right right yeah for that purpose but the brain is not uh and the brain is mostly water
+23:33
+however the brain is not homogeneous the brain is not just one big slab with the
+23:38
+same amount of water everywhere the brain is highly heterogeneous and anesthesiologist is an im1 and
+23:44
+pharmacologists know that if you give a molecule to a an organism if we give a
+23:50
+drug to a patient it will go in that in that patient to where it dissolves to where it's soluble and drugs have
+23:56
+different solubility so most drugs are polar they're soluble in water and blood and they go to charge receptors on
+24:02
+membrane surfaces but anesthetics which are so Collective for erasing
+24:08
+Consciousness and have very very little very little other effects on the brain and uh they they go to nonpolar areas uh
+24:16
+fat like regions lipid-like regions they're basically oil kind of like the Benzene ring and oil and water don't mix
+24:22
+so in proteins all the the aromatic rings of amino acids which is the basis
+24:28
+for organic chemistry and a key player in in Quantum biology these organic Rings uh coalesce inside proteins and so
+24:36
+we have these regions of nonpolar water free because water oil and water don't
+24:41
+mix and they exclude water that support quantum Optical effects and it's these Quantum Optical effects which then
+24:47
+coupled to the nucleus to have enough superposition movement and superposition to reach threshold uh that gives you
+24:54
+Quantum effects uh in uh at Island temperature and uh wets yes it's an
+24:59
+adiabatic system you have a Quantum system a decoherence free Subs subsystem
+25:04
+inside a polar Shield more or less so let's go back to the microtubules
+25:10
+themselves because you're an expert in this field so microtubules exist in all cells correct right but is there
+25:17
+anything different about their qualities inside of the brain yes for one thing they're more uh more variable
+25:24
+genetically there are 22 ISO isozymes isoforms of tubulin in in the brain
+25:30
+you're only 11 in most other tissues and then you can have uh post-translational modifications uh perfect for memory uh
+25:36
+memory encoding so you can have a roughly 30 different types of tubulin and there's a billion per neuron in
+25:44
+these lattices and uh in the dendrites and Soma the microtubules are they're
+25:51
+kind of permanently they're capped on both ends so they don't add at one end and lose with the other they don't have
+25:57
+what's called Dynamic instability where they shatter and re-polymerize they don't have to disassemble and get
+26:03
+involved in mitosis cell division which they do in all other cells because because neurons don't divide once they're formed
+26:09
+they don't divide which means that the neuron that the microtubules can stay in their particular lattice configuration
+26:15
+and each one of those tubulins can be in one of 30 so it's kind of a mosaic and
+26:21
+so that's a perfect mechanism for memory which is and I think microtubules store memory it can't be synapses because the
+26:28
+synaptic proteins only last hours to days in memories last lifetimes and the synapses are upregulated and done
+26:34
+regulated by microtubules and we've shown how memory can be encoded from synaptic events into the microtubules
+26:40
+and the dendritic microtubules are are capped so they're stable over the
+26:46
+lifetime presumably the lifetime of individuals and they don't have to disassemble uh for for mitosis and in
+26:54
+dendrites and Soma they're in this very strange mixed polarity Network so microtubules of a plus end and a minor
+27:00
+set in all cells they're unipolar with the uh beta Plus in my Alpha minus out
+27:07
+like spokes of a wheel and in an axon they're also in unipolar in a a parallel
+27:14
+bundle in dendrites and Soma they're broken interrupted and they're part of the cytoskeleton so
+27:20
+if they're skeletal you wouldn't want to break your femur and in half and have one go it doesn't make any sense there
+27:25
+must be something else so you have one going one way one the other and they're in these mixed polarity networks which
+27:31
+uh which uh allow for recursive processing and also interference beats
+27:36
+so if they're oscillating and say megahertz and they're slightly different energies because they're going to be in
+27:43
+the the external membrane is going to affect them slightly differently they're going to interfere and give slower beats
+27:48
+and that's how you get from say megahertz uh two kilohertz to Hertz to EEG in fact we
+27:55
+think EEG is generated by microtubule oscillation interference can you explain to me how anesthesia the conventional
+How does anesthesia actually work?
+28:03
+model for how anesthesia actually works the convention most people would say anesthesia acts on membrane proteins
+28:09
+receptors Gaba receptors acetylcholine receptors serotonin Glycine and maybe a
+28:14
+few others on the dendritic side however uh not all anesthetics there's this
+28:20
+unitary feature of anesthesia if uh if you uh if you rank them all in potency
+28:26
+that potency correlates perfectly with their solubility in olive oil of all
+28:32
+things the aromatic nonpolar region of like aromatic ranks like tryptophan phenylalanine so if that holds over many
+28:38
+many orders of magnitude and uh and so they all should act the same way but not
+28:43
+all anesthetics bind to all receptors they don't all all bind to Gaba receptors and there's never been any
+28:49
+studies showing a correlation between anesthetic action on membrane receptors
+28:54
+and and potency and in fact the leader in the the world leader in anesthetic
+29:01
+mechanism uh research a guy at UCSF who's passed away now Ted eager yeah when I was when I was uh in residency he
+29:08
+was the guy I mean and uh at UCSF and the expert in anesthetic mechanism and so forth and he and he uh he he and his
+29:16
+team worked to find which receptor or receptors media anesthetic action and
+29:22
+after 20 years he gave up in 2008 he wrote this paper and said that we need a new paradigm this is not it's not member
+29:29
+receptors for one goes up one goes down there's no unitary action and uh I told him at the time I said you should look
+29:35
+at microtubules but uh he didn't want to do that but uh since then Rod eckenhoff's group at University of
+29:41
+Pennsylvania has been doing uh systematic Research into anesthetic mechanism and found for example 70
+29:48
+different proteins in a cell and a neuron that bind anesthetics and about half of the membrane half in the
+29:54
+cytoplasm cytoplasm including tubulin so tubulin does bind uh uh anesthetics and
+30:01
+genomic and proteomic studies showed that the gene expression changed the most for tubulin suggesting that's the
+30:07
+functional effect and they also did optogenetics where they had a fluorescent anesthetic that only uh only
+30:14
+acted as an anesthetic when you hit it with UV light and they gave it to these tadpoles and uh they swam around and
+30:20
+fortunately tadpoles have transparent heads so they can then illuminate with with ultraviolet light and when they did
+30:25
+that they all went belly up the anesthetic became active and they donated their little brains to science
+30:30
+and they found that the anesthetic was bound to tubular microtubules and also people on the the drug texol which
+30:37
+stabilizes microtubules it's an anti-cancer drugs so the the they can't
+30:42
+disassemble uh for mitosis uh require more anesthesia that also came out of uh
+30:48
+eckenhoff's lab so there's circumstantial uh evidence it's not uh I
+30:53
+think there's far more for a microtubules than anything else despite that the party line is still membrane receptors and how does it relate to say
+31:01
+a drug you know a uh you know barbiturate or some sort of a depressant or something like how does anesthesia
+31:06
+which you I don't know phenobarbital what do you what's the most common one that uh so how does that relate to say you know
+31:14
+a classic you know schedule one narcotic are they related at all well narcotics
+31:20
+act that opiate receptors primarily however if you give enough fentanyl for example uh you get a
+31:27
+general anesthetic but they're really uh they're really supposedly specific for
+31:33
+opiate receptors propofol and the anesthetics follow the Meyer Overton correlation and therefore they should
+31:42
+have a common uh a common mode of Action Now propofol does bind to Gaba receptors and everybody as well they act on gab
+31:48
+receptors but they also get inside the cell in fact it was recently shown that that psychedelics also act inside the
+31:55
+cell that there are five ht2a receptors inside the neuron in the microtubule
+32:00
+Associated protein so it it's it's likely that psychedelics act inside neurons directly on more directly on
+32:07
+microtubules as do anesthetics interesting and there's some quantum physics or say related to things like
+Stuart’s interest in quantum physics
+32:14
+spintronics or the ising model things like that what's sort of the work in the physical quote-unquote hard Sciences
+32:20
+that's been most you know provocative to you in an interesting way I actually worked with Isaac models and
+32:27
+and uh microtubules as icing models are cellular automata molecular automata where each tubulin was a uh could be a
+32:34
+single single state but I think that's that's too simplistic and I think probably the most significant work has
+32:39
+been done by my friend honor Bond banyapad who works at the National Institute of materials Sciences In Scuba
+32:46
+Japan who started working on microtubules in around 2009 after reading uh uh some of our papers and uh
+32:54
+he he started out studying he's a nanotechnologist to begin with and he started out studying individual
+33:00
+microtubules with four electrodes two to record and two to stimulate and if you
+33:05
+stimulate a microtubule um let's say with a DC Uh current a DC voltage or a voltage it's a good
+33:12
+insulator however if you uh put a current on an ultra alternating at
+33:18
+different frequencies AC curve and sweep the sweep the frequencies you'll find certain frequency bands where the
+33:24
+microtubule becomes highly conductive almost uh almost superconductive he
+33:30
+calls it ballistic conducted and this happens every three orders of magnitude in uh in in hertz kilohertz megahertz
+33:38
+gigahertz and terahertz and and each in each level the the conductance band is a
+33:45
+it's what he calls A Triplet of triplets there's three Peaks and each Peak has three Peaks and this triplet of triplet
+33:50
+repeats and kilohertz megahertz gigahertz and terahertz and so it's kind
+33:56
+of like a resonant Orchestra or something in one you know microtubes themselves are these uh uh incredible
+34:03
+Quantum vibrational devices basically based on KT you don't have to pump them you don't have to give them energy it's
+34:09
+just they take Ambient Energy and vibrate in these frequencies so he discovered that and I'm really itching
+34:15
+to see anesthetical facts and we're discussing doing uh building a a gas a
+34:21
+chamber where we can have airtight control and and study quantum effects microtubules with effects of anesthesia
+34:27
+so uh he did that and then in a couple years ago he studied a neural network
+34:34
+and and with these uh dielectric resonance probes inside the neurons in
+34:39
+the network and found uh gigahertz he can measure gigahertz and megahertz oscillations in the dendrites and Soma
+34:45
+that controlled the firing more so than the membrane potential so here was a
+34:50
+perfect example of uh the microtubules overriding membrane effects which is
+34:57
+exactly what you want for Consciousness to overcome automatic Behavior so you're driving down the road and you're
+35:03
+daydreaming or mind wandering and then somebody stores in front of you your Consciousness takes over and uh it's not
+35:10
+coming from outside because you wouldn't you would see it in the membrane potential so it must be coming from inside or it's likely to be coming from
+35:16
+inside and this would explain exactly in fact he's demonstrated that and then more recently he's been able to detect
+35:23
+megahertz and gigahertz from the scalp with a single electrode and now an array and he calls this the ddg the dodecagram
+35:30
+uh which is essentially ultra high frequency EEG where you can measure at
+35:36
+least megahertz and gigahertz from the scale and we did some some fooling
+35:41
+around with that uh while he was here he brought a device and showed uh uh triplet of triplets from my head and
+35:48
+others and uh and we tried it on a dog and we got it we got a megahertz Peak we
+35:54
+tried it on a on an apple and did not see anything and we tried it on a plant and actually at right where the stem and
+36:01
+the root combined we saw some megahertz activity so Mike uh plants have have
+36:06
+microtubules I think you know uh plants are are could be conscious at a very low
+36:11
+frequency so you know I think we have for example 10 million orcowar moments
+36:17
+per second and uh that interferes down to give EEG and cognition so forth whereas a a plant
+36:24
+might have a couple per minute so it could be at the base level you know people argue as much about you know what
+Artificial intelligence and brain organoids
+36:29
+is consciousness as they do about what is life right so it could be that you know only living things are conscious if
+36:35
+uh you know no I I don't mean currently alive but those that have capability to be alive you have a an apple maybe it's
+36:41
+cut off from you know actual you know cellular mitosis and so forth but um but
+36:46
+you know the pan psychic notion should have a restriction on it in my opinion I I don't support pan psychism myself but
+36:54
+uh but but as as intriguing possibility allows people to kind of get around some various conundrum I want to ask you um
+37:01
+about two two relevant things that have been really popular topics for me and very interesting for me to study lately
+37:07
+uh one has to do with artificial intelligence and natural stupidity uh but the other
+37:13
+one has to do with brain organoids so we had our good friend uh Professor Allison motrion early this year actually he was
+37:20
+our first in studio guest we'll put a link to that up somewhere over here uh in the new studio here at UC San Diego
+37:26
+and uh and he devised you know the detailed many great developments that
+37:31
+are going on brain organized and so forth like what are the kind of base level Primitives that you could distill
+37:37
+you know a brain to Consciousness to is it like an organoid I mean what would be the ideal you know control and variable
+37:45
+kind of setup for a classic decisive experiment in this field well I've been discussing this actually and Allison and
+37:52
+I wrote a paper on on uh trying to detect look for Consciousness in brain
+37:57
+organoids and I thought it was pretty good paper actually and the the main feature was that he's he sees uh
+38:05
+rhythmic uh rhythmic Dynamics at different frequencies and they're face coupled kind of like uh kind of like the
+38:12
+megahertz gigahertz activity the different scales but it wasn't that much of a difference in in frequency and uh
+38:19
+so uh one idea was whether they were coupled or not and I I would think that if they
+38:25
+were if the organ I was conscious there would be uncoupling of the phase because if if you're just everything's in phase
+38:32
+and you're on automatic pilot and you're you're unconscious whereas uh I think you want to uh you want to decouple and
+38:39
+and that's where Consciousness could come in so that's one of the things we put in that paper and uh my friend uh
+38:46
+Hartman Nevin at Google and his uh friends at uh UC Santa Barbara are trying to uh entangle an organoid with
+38:54
+the quantum system and uh so that'll be interesting I personally think that uh it's the organizer is already too
+39:01
+complicated they should try to entangle microtubules and in fact honor bond has shown entanglement between two microtubules interesting so that is the
+39:08
+Primitive base level that could be the most useful sort of uh building block Lego for studying Consciousness in some
+39:14
+sense I think uh for the I think you need microtubules and uh I think you need these coherent vibrations megahertz
+39:22
+gigahertz and uh you know with this uh device we're measuring megahertz and I think at this point in time that
+39:29
+megahertz uh uh from the brain is probably as good a candidate for a neural correlative
+39:35
+Consciousness as there is because we can measure it you know from our little studies it was it was reproducible uh
+39:42
+animals have it plants seem to have it uh inanimate objects do not have it and uh and we also tried stimulating with uh
+39:50
+transcranial ultrasound and uh we found uh on one side and measured from the other and we found after a slight delay
+39:57
+an increase in activity so uh and transcran ultrasizes mechanical vibrations in megahertz uh which does
+40:05
+cause mental effects after a slight delay you get a a kind of a euphoric mood enhancement and a number of people
+40:12
+have been studying that what about the electromagnetic phenomena The Havana syndrome things like that are there
+40:18
+pertinent aspects that we could learn about Consciousness either from the claimed or real uh evidence that's been
+40:24
+presented for electromagnetic stimulation I would bet that Havana syndrome is some kind of effect on
+40:30
+microtubules it could be microwave gigahertz we know microtypo's resonated gigahertz it might be radio waves
+40:36
+megahertz but if you if you over resonate
+40:42
+something like the bridge you know that over over it's gonna it's gonna shatter and I think that's exactly what happened
+40:48
+and in fact concussion uh concussion is in concussion your microtubules get get fractured and broken and that's been
+40:54
+well proven and uh so it's it's a lot like a post-concussion syndrome interesting uh last thing before we take
+AI, Neuralink, and other brain-computer interfaces
+41:01
+uh audience questions um has to do with these you know human brain computational augmentation systems
+41:09
+things like neuralink and so forth I'd like to get your uh impression of those what what are the prospects we've we've
+41:15
+had uh Noam Chomsky on a long time ago talked about his pessimism that this is
+41:20
+uh not really pertinent to how Consciousness is really organized or presented uh what are your thoughts as a
+41:27
+as a someone who's deeper in this field than gnome certainly is if you're talking about uh bring
+41:33
+computer interface interface with uh EEG forget it uh the EEG is way too crude
+41:39
+it's way uh you know uh anything's going to be washed out uh you might have a
+41:45
+better better chance with this megahertz and uh you know which I think is going to convey a lot more uh information and
+41:52
+also has the advantage of uh uh uh this guy at the conference Patrick palucky pointed out that uh that the a big
+42:00
+problem with uh brand computer interface with EEG is that blink artifact or facial movement it screws it all up and
+42:07
+we showed in with our megahertz device that you can blink all you want and you can make faces and it doesn't change one
+42:12
+bit so it would be better for that uh aspect and also you get way more information absolutely so we have a
+42:21
+large number of questions from Twitter and from I didn't get to answer about AI oh yeah you say one thing yeah I was
+42:27
+gonna yeah let's go uh there's a guy Brian romelly uh you know I've seen him
+42:32
+on Twitter and he's been on James also so he asked chat GPT how what's the most
+42:37
+likely way for you to become conscious and chat GPT said the best way no I
+42:42
+won't I won't use your Hal voice he's your Hal voices
+42:50
+said the the best way is through Penrose hamroth Orco Arthur and went on with a
+42:55
+pretty nice exposition of the of the theory really uh but let's let's talk about AI generally uh not just uh you
+43:02
+know the the chat chat Bots and stuff we have a bribot by the way she can find my website you can interact with me and ask
+43:07
+me your questions uh as Brian the other Brian did but um tell me Stuart what do you think is uh sort of the the promise
+43:15
+the pitfalls The Perils of this kind of Singularity of AI that seems to be upon
+43:20
+us or will be imminently so I don't think AI is going to become conscious they may try to convince us it's
+43:26
+conscious but uh if it's just computation I don't think so you know maybe if somebody
+43:32
+builds a quantum computer with objective reduction possible but just more complexity more this more than it's no
+43:39
+it's not going to be it may you know it may fool some people but I don't think it's be conscious it could still be
+43:45
+dangerous but um not not because of its conscious I still think it's uh interesting to get
+43:52
+your impression about this what you know Consciousness if we were to understand it it would it would certainly involve
+43:59
+things we can't really anticipate right now in terms of understanding who we are what we are but it's kind of like
+44:04
+cosmology another cos thing uh which is uh which is that it's incredibly
+44:10
+significant but it may not be important in other words like it won't affect our daily lives and Technology maybe
+44:16
+Consciousness would I want to get your impression about that but on the other hand it's clearer anesthesiology I mean
+44:22
+anesthesiology might be one of the most important inventions of all time right and so along with you know I I wrote a
+44:29
+chapter in 2000 uh this guy wrote a book The Greatest inventions of the past 2000
+44:35
+years and I wrote The Judge around anesthesia so we always have these you know revisionist histories where people
+44:40
+say you know if only our live and you know in the 1640s and and I would have just cleaned up I would have had all the
+44:46
+treasure and women but if you broke your leg you know we live better now than not
+44:52
+even just like 400 years ago we live better than like the Queen of England lived in the 1950s or 40s uh it's just
+44:57
+it's just uh unbelievable so in terms of benefit to humanity as Alfred Nobel you
+45:03
+know clearly wanted and what would what would create sort of a a bigger impact understanding Consciousness the base
+45:10
+layer of reality as we perceive it and there are as many different interpretations of quantum chaotics as
+45:16
+there are interpretations of Consciousness Donald Hoffman you know we've had them all on
+45:21
+um and no one can tell me what it's like to be a bat uh yet but I want to ask you which would have a bigger breakthrough
+45:26
+the advances in anesthesiology and brain computer interfaces and being able to control the brain versus understanding
+45:33
+what Consciousness is I think under well it depends what it turns out to be if we're right and
+45:39
+Consciousness is an intrinsic feature of the universe uh connecting us through multiple layers down to the fundamental
+45:46
+space-time geometry that would kind of Define our place in the universe and I think that would be important for uh not
+45:53
+just practical reasons medical reasons but also spiritual reasons philosophical reasons we would be connected uh it
+46:01
+would kind of change our outlook on the other hand if it turns out if it goes the other way and it's a emergent epiphenomenal process then who cares so
+Audience questions
+46:08
+we've now reached the point in the conversation where I'd like to ask some questions from the audience so my friend
+46:14
+Dr Leonard Mo many uh who's a great scholar and friend of the show he asks
+46:21
+you the following question he asks what are your thoughts on Compton making connections between Heisenberg's
+46:26
+uncertainty principle and Free Will the uncertainty principle is the basis for
+46:33
+the orcor collapse so Rogers oh are collapsed it's t equals H bar over e sub
+46:39
+G so the larger the superposition the faster it will collapse and it's it's an
+46:45
+average so there's still some uncertainty it's got like a radioactive decay and that's what give gives you uh
+46:51
+Consciousness uh and and Action for free will but as I mentioned before uh
+46:57
+generally the brain activity is is too late so without uh backward time referral you don't have the even the
+47:04
+possibility for real-time conscious action and Consciousness would therefore be epi phenomenal and we have a false
+47:10
+illusion which most people think are the the the party line in neuroscience and philosophy starting from Dan Dennett and
+47:18
+uh uh Dan Wagner's book uh the illusion of free will is that uh free wills is an
+47:24
+illusion because the activity happens too late and our non-conscious autopilot
+47:30
+acts first although they never explain where the brain activity is for the non-conscious autopilot because that
+47:35
+should have some activity too and uh and then we have this false illusion after the fact that we were in control
+47:41
+Consciousness and illusion and uh the backward time effect rescues the possibility rescues conscious Free Will
+47:47
+Brad Caldwell on Twitter and reminder you can always ask questions of all my guests on Twitter at Dr Brian Katie and
+47:53
+YouTube Dr Brian Katie Instagram Dr Mary uh Brad Caldwell asked the following about the Triple Peak significance are
+48:00
+there any noticeable changes in such patterns during different conscious phases like sleep versus anesthetics
+48:06
+versus yeah we don't know yet uh the first thing I want to do is anesthesia I
+48:12
+I suspect that the the megahertz uh triplets I hope will be more sensitive
+48:19
+to Anesthesia than EEG if you if you look at EG gamma tends to go away and everything kind of slows down so it will
+48:26
+be interesting to see what happens to the megahertz and gigahertz with anesthesia and also perhaps with with
+48:32
+psychedelics I bet they go up I've got a lot of very brilliant people in my audience the next one is s case villain
+48:39
+K who asks or aside which what theory would you put your money on as a second
+48:45
+best guess I like recurrent processing uh predictive coding because it's uh it's
+48:52
+not uh it's more than just a wiring diagram it's a process that can happen at multiple levels in fact uh recurrent
+48:59
+processing happens as I said you have microtubules in opposite directions so information can go here and then here so
+49:06
+we did a paper 1990 with with two microtubules in opposite direction showing uh learning between these two
+49:12
+microtubules so I think recurrent processing and predictive coding is a fundamental process not just at the
+49:19
+neural level but all the way down including microtubules so that's my second favorite great John Hussein Kennedy asks are there any aromatic ring
+49:27
+structures that are non-carbon that could share the quantum properties of
+49:32
+benzene such as six silicon ring hexa Benzene it would have to have Pi
+49:38
+resonance and the the indole ring in tryptophan and a lot of the Psychedelic and serotonin a lot of the psychedelics
+49:44
+has a nitrogen in the in the five ring and so it doesn't have to be all carbon
+49:50
+but it has to allow a pie resonance uh orbital Robbie is asking specifically
+49:56
+I'm very interested in researching the properties of microtubules especially as wave guides ordered water very
+50:02
+interesting question the the water inside so water on any ordered surface
+50:08
+is is going to be ordered in other words it's not going to be just random water it's going to align with the charges and
+50:15
+the microtubules have a lot of charges and on the outside and also inside and
+50:20
+on the inside the water channel uh actually honor but I was talking about this yesterday the the water channel is
+50:26
+uh is in was he saying terahertz it's oscillating coherently in terahertz and in fact uh before I started working with
+50:34
+Roger in the 90s I wrote a paper with Quantum physicists from Japan uh Amari
+50:40
+jibu and kunio yasui and Carl Friedman was on that and Scott Hagan about uh
+50:45
+super Radiance in the water Channel inside microtubules and uh uh I I
+50:52
+thought originally the microt juice might be a wave guys for electromagnetics but it's kind of high energy because the wavelength would be
+50:58
+small however the centrioles are cilia which are not which are uh nine triplets
+51:03
+uh of of microtubules it's about 150 nanometers in diameter and that's a
+51:10
+perfect Optical wave guide and in fact uh Albrecht Bueller has shown that uh centrioles which are essentially cilia
+51:16
+to cilia detect photons and uh and and capture them and there's the silly in
+51:23
+every one of our rod and Cone cells and photons pass through them to get the rhodopsin in the back and I was talking
+51:30
+to somebody at the conference who agreed with me that it's likely that the silly it might be extracting Quantum and
+51:35
+information and sending them through the mouth and there's Mueller cells into the
+51:41
+brain other than the optic nerve so we may be detecting more than quite literally meets the eye Quantum
+51:47
+optically very good okay so next question uh comes from atai bark hey who
+51:56
+asks your thoughts on Matthew Fisher Posner molecule proposal where quantum
+52:01
+entanglement occurs in the brain but not via microtubules well first of all uh there's no Posner
+52:08
+cluster clusters in the brain uh as far as I can tell poster clusters are calcium phosphate crystals that might
+52:15
+happen in bone formation but not anything cognitive not anything information so they're not I don't see
+52:22
+how they'd be very useful to store information if you want a lattice the microtubos are perfect the other thing
+52:28
+the other problem with that is that lithium the Isotopes of lithium differ in their Mass significantly and so
+52:35
+you're not sure if the difference in isotope is due to the the spin or the or
+52:40
+the mass now there is a very interesting isotope effect in Consciousness which is
+52:45
+Xenon Xenon is an anesthetic it's a single atom inert uh atom and it's and
+52:52
+uh complete outer shells so it's nonpolar and it's a perfectly good anesthetic and follows Meyer Overton
+52:58
+anyway it can have different isozymes and a a group in China Study the potency
+53:05
+of the different isozymes and they found the one uh the one isozyme that had a
+53:11
+spin one half was significantly less potent than the other and they pass
+53:17
+postulated that the spin one half actually promoted Consciousness that
+53:22
+actually accelerated Consciousness and therefore the Xenon was antagonizing its
+53:28
+own anesthetic effect and I reviewed that paper for anesthesiology and they asked me to write a uh an editorial
+53:34
+which I did and so I elucidated exactly how the spin one-half might might
+53:40
+interact with the other Quantum stuff going on in the brain wow okay Tom Anderson Is frequent uh fan of the uh
+53:46
+podcast uh asked the following questions or evidence for Consciousness extending outside of the brain say in the entirety
+53:53
+of the nervous system well as I said there's proto-consciousness everywhere but I
+53:58
+think he might be referring to auto body experiences or near-death experiences or
+54:04
+even afterlife and uh I'm asked that question quite often and uh in my you know if
+54:09
+Consciousness is happening in space-time geometry it's conceivable that it could
+54:15
+when the blood stops flowing in the and the oxygen stuff's been delivered that the quantum information might dissipate
+54:21
+to the universe at large but remain entangled as something like a Quantum Soul now I don't suggest any evidence
+54:27
+for that I don't I I won't disbelieve it I I think it may be true but I'm not
+54:33
+claiming that I'm just claiming that it's not impossible and that anybody who says that it's absolutely impossible
+54:38
+it's unscientific until they show exactly what Consciousness is that's they can't they
+54:44
+can't make that claim if Consciousness is non-local and a Quantum effect uh connects to the fundamental space-time
+54:49
+geometry then things like auto body near death and uh afterlife are not
+54:54
+impossible no very good and I mean there's so much you know just wide open
+55:00
+you know Blue Sky stuff that we could talk about I mean I'm thinking as you're talking uh you know there's a whole
+55:05
+subset there's a gentleman named mogadot who I'd like to get on the podcast he worked at Google X and tragically lost
+55:11
+his son very early and his uh son's life and he dedicated his life to making the world happier place and he's got this
+55:18
+mission called one billion happy so you know mo if you're out there I'd love to have you on um but one of the things he talks about is you know the improbability of things
+55:25
+that we take is mundane even Consciousness and I was thinking you know what if uh if if any of these
+55:31
+models are true it could be the Consciousness lasts I mean certainly microtubules are dividing a second after
+55:37
+a person dies right or whatever that means brain Dead versus heart dead we could discuss that there's still
+55:42
+processes happening if it's happening in a plant that's attached to the ground you know by the time causality takes it
+55:48
+takes quite a bit of time for the message to get to the toenail that you've stopped being alive right so
+55:54
+could you extend this and give hope to people of Wall Street that's where some of the danger lies though right because
+55:59
+people project anything they want onto these I mean some of the questions I didn't ask are really out there
+56:04
+um you know and it's uh Curious to me how you navigate this realm you know of scientific scientific approach and using
+56:11
+it as a discipline that's falsifiable potentially in the paparian sense uh that's you know uh the bio
+56:17
+neurobiological obviously but then you mentioned parapsychology and a spoon bending and stuff no you didn't mention
+56:24
+it no you would never do it but but you did you did mention parapsychology so the question is you know how do you how
+56:29
+does a serious scientist you know kind of navigate these very fraught Shoals of you know kind of non-seudoscientists
+56:36
+where you know Quantum healing can cure cancer or whatever versus doing a rigorous hardcore science that you're
+56:42
+known for how do you well you're putting a few words in my mouth but but I did I I do believe that it's possible after
+56:47
+life is possible I don't Advocate that it's true I don't know um but until we know what Consciousness
+56:54
+is we can't say that it doesn't exist and uh if it's a non-local Quantum effect then then it's possible but the
+57:00
+reason I can even talk about that is that I don't I don't depend on grants you know pleasing anybody who has their
+57:07
+own preconceived notions uh I I know I've run a foul of AI people I've run a foul of a lot of uh funding uh agencies
+57:15
+who I think have ulterior motives and eight and their own agendas whether they admit it or not but I you know I've
+57:21
+always made my living as an anesthesiologist and uh and I this has been my I won't say my hobby but my
+57:28
+passion and my research and uh figure out anesthesia figuring out Consciousness and so I've been able to
+57:34
+follow my nose and say what I I think whether it's whether it's going to cut off funding or not that because I don't
+57:40
+really depend on funding yeah so and then and Roger is the same way I mean he just says what he you know logically
+57:46
+thinks yeah no I know you guys are courageous and last time I asked you when you're on the podcast I asked you
+57:52
+uh for the advice to your former self which is my way of of bringing back to the podcast the name originally given to
+58:00
+us by uh Sir Arthur C Clarke who said the following he said that uh the only way to know the limits of the possible
+58:05
+is to go beyond them into the impossible so ITI and I asked you that in the form
+58:10
+of advice to your former self what would you give your advice to your former self as 20 year old man to give yourself the
+58:17
+courage to do what you've done have this courageous career so you answer that question now I'm going to ask you another question uh that's another quip
+58:24
+of the great Sir Arthur C Clarke and he said that um when an elderly not calling
+58:29
+you elderly you're older than me you're gonna retire you're Emeritus but um when an elderly but distinguished you
+58:35
+aren't distinguished scientists says something is possible he or she is very likely to be right but when he or she
+58:43
+says something is impossible they are very likely to be wrong I want to ask you uh Stewart Professor hammeroff what
+58:51
+have you changed your mind about what have you been wrong about say in the modern you know incarnation of your
+58:56
+career not before you met sir Roger and in this field of Consciousness research studies what have you been wrong about
+59:03
+if anything I don't know can I get back to you I don't want to sound arrogant but I but you know the major things like
+59:09
+microtubules and Quantum and people you know particularly lately of trying to
+59:14
+say well you know you get a great model of quantum coherence and microtubes you don't need objective reduction you know
+59:20
+quantum gravity even you kind of sneered at it and the energy is so low Roger had a good explanation for that and uh I
+59:27
+just think that it's it's it's logical it makes sense to me the numbers seem to work and uh it's the only uh proposal
+59:34
+for for Claudia for Consciousness ever ever put forth so I think I was right
+59:39
+latching onto microtubules as the key to Consciousness and I think I was right in agreeing with Roger and I think he was
+59:45
+right in agreeing with me very nice well Stewart hammeroff Professor hammeroff University of Arizona azoney
+Outro
+59:52
+self-declared Sony uh Zoni zombie no no you're not a zombie uh thank you so much
+59:57
+for coming back on the into the impossible podcast for your second appearance I hope that you'll come back again for a third fourth fifth in the
+1:00:03
+future whenever you come to uh Southern California you're always welcome and we always uh learn so much from you and
+1:00:09
+broaden our Horizons uh and uh and take us on a tour of the inner Cosmos the
+1:00:15
+cosmos between our ears as we study I like this yeah the inner Cosmic feel
+1:00:21
+free to use it you use the Astro Consciousness right so yes very good well thank you so much thank
+1:00:27
+you Brian

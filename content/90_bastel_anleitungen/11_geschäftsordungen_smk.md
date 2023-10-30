@@ -1,9 +1,8 @@
 \pagebreak
 
-GESCHÄFTSORDNUNG DER SMK
-------------------------
+## GESCHÄFTSORDNUNG DER SMK
 
-### 1. Akkreditierung und Deakkreditierung
+#### 1. Akkreditierung und Deakkreditierung
 
 (1) Leitung der Akkreditierungsveranstaltung - Eine Veranstaltung im
 Sinne von § 7b, Abs. 2 der Satzung wird durch die Versammlungsleitung
@@ -40,7 +39,7 @@ Tage wird eine Veranstaltung zur Akkreditierung durchgeführt.
 (7) Aufbewahrung der Akkreditierungsunterlagen - Das Protokoll der
 Akkreditierungsveranstaltung wird mindestens acht Jahre aufbewahrt.
 
-### 2. Überprüfung der Identitäten der SMK-Mitglieder
+#### 2. Überprüfung der Identitäten der SMK-Mitglieder
 
 (1) Überprüfung der Identitäten der akkreditierten Mitglieder durch
 SMK-Mitglieder - Alle für die SMK akkreditierten Mitglieder haben die
@@ -77,7 +76,7 @@ geregelt und beträgt maximal 36 Monate. (6) Nach Ablauf der
 Nachvollziehbarkeitsfrist wird die Verbindung zwischen
 Abstimmungsergebnissen und Teilnehmern gelöscht.
 
-### 3. Eröffnung und Beschlussfähigkeit
+#### 3. Eröffnung und Beschlussfähigkeit
 
 (1) Eröffnung - Der Vorstand gibt die Eröffnung der Ständigen
 Mitgliederversammlung Berlin zu einem bestimmten Zeitpunkt bekannt. Zum
@@ -105,7 +104,7 @@ der zeitlich und räumlich zusammentretenden Landesmitgliederversammlung
 enden, werden so verlängert, dass die Abstimmung erst am Ende des ersten
 Tages danach beendet wird.
 
-### 4. Versammlung
+#### 4. Versammlung
 
 (1) Die SMK stimmt ausschliesslich offen und elektronisch ab. Geheime
 Abstimmungen sind ausgeschlossen.
@@ -129,7 +128,7 @@ dokumentiert. Alle Änderungen dieser Geschäftsordnung werden fortlaufend
 dokumentiert, über beschlossene Änderungen werden alle SMK-Mitglieder in
 geeigneter Weise direkt informiert.
 
-### 5. Systeme der Ständigen Mitgliederversammlung
+#### 5. Systeme der Ständigen Mitgliederversammlung
 
 (1) Zur Durchführung der ständig tagenden Mitgliederversammlung wird
 LiquidFeedback mindestens in der Version, Core v3.0.4XXX, Frontend
@@ -231,7 +230,7 @@ i) Vertagung - Zur Vertagung eines anderen Antrags - Abstimmung mit
 Diese Regelwerke können ebenfalls von den Versammlungsmitgliedern
 verändert werden.
 
-### 6. Delegationsverfall
+#### 6. Delegationsverfall
 
 (1) Die automatisierte Kopplung des eigenen Abstimm- und
 Unterstützungsverhaltens an ein anderes SMK-Mitglied ("Delegation")
@@ -243,7 +242,7 @@ Delegationsgeber bestätigt oder zurückgezogen werden. Bei Überschreiten
 dieses Zeitraumes wird der Anmeldung zur SMK ein Bestätigungsdialog
 vorgeschaltet.
 
-### 7. Antrag auf Vertagung
+#### 7. Antrag auf Vertagung
 
 (1) Jeder Teilnehmer hat das Recht, einen Antrag auf Vertagung eines
 Themas zu stellen.
@@ -267,7 +266,7 @@ Abs. 1 der Satzung ist aber weiterhin möglich.
 keine Abstimmungsergebnisse ermittelt. Von der Software eventuell
 bekanntgegebene Ergebnisse sind nichtig.
 
-### 8. Betrieb des Systems der SMK
+#### 8. Betrieb des Systems der SMK
 
 (1) Zuständigkeit - Für den Systembetrieb ist die Versammlungsleitung
 zuständig. Störungen im Systembetrieb sind dem Landesvorstand

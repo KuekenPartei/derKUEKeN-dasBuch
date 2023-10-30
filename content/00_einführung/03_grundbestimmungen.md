@@ -1,7 +1,9 @@
 \pagebreak
-## ableiten der Prinzipien einer an Kindern ausgererichteten Politik
+## ableiten der Prinzipien einer an Kindern ausgerichteten Politik
 
-Oder die Grundbestimmungen als der Feste Anker in der realen Politik.
+Oder die Grundbestimmungen als der Feste Anker in der realen Politik.  
+
+Das Bestimmen des Grundes ist die die Basis der Erklärung und damit die Basis der kritischen Auseinandersetzung. Erst ein bestimmter Grund liefert die Basis auf der sich eine Argumentation und zwangsläufiges Handeln aufspannen lassen.  
 
 Um eine Unterwanderung und Umdeutung vorzubeugen werden die Zentralen Kerne als Prinzipien abgeleitet die sich in der Satzung als Grundbestimmungen wiederfinden bzw. aufgenommen werden, diese können nach Satzung nur schwerlich geändert werden, wie das  Grundgesetzt für alle Parteien nur deutlich spezifischer. Das Ziel ist es das Grundgesetzt diesen Grundbestimmungen anzunähern. Siehe _die Partei ist ein Labor_.  
 Diese Grundbestimmungen sind die Maßlatte an denen sich die Politik zu Orientieren hat sie sind der Wertekanon der Partei, sie sind im Schiedsgericht einklagbar.  

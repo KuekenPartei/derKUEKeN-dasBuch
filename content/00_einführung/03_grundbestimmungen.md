@@ -8,7 +8,7 @@ Das Bestimmen des Grundes ist die die Basis der Erklärung und damit die Basis d
 Um eine Unterwanderung und Umdeutung vorzubeugen werden die Zentralen Kerne als Prinzipien abgeleitet die sich in der Satzung als Grundbestimmungen wiederfinden bzw. aufgenommen werden, diese können nach Satzung nur schwerlich geändert werden, wie das  Grundgesetzt für alle Parteien nur deutlich spezifischer. Das Ziel ist es das Grundgesetzt diesen Grundbestimmungen anzunähern. Siehe _die Partei ist ein Labor_.  
 Diese Grundbestimmungen sind die Maßlatte an denen sich die Politik zu Orientieren hat sie sind der Wertekanon der Partei, sie sind im Schiedsgericht einklagbar.  
 Kein Vorsitzender kann mit einer kleinen Mehrheit einen Parteikurs gestalten der den Grundbestimmungen zuwider läuft. -Nicht ohne aus dem Amt geklagt zu werden.  Es wird nicht die Ankündigung geben, Kinderrechte in das Grundgesetzt zu schreiben ^[Koalitionsvertrag cdu spd 2017 2021] um dann- eine Legislatur Periode später , 100 Milliarden für den Krieg bereit zu stellen ^[GG änderung Grüne/spd 2021], Grundgesetztlich verankert, anstelle der Kinderrechte. Hier sehen wir wie wichtig diese Formalitätet sind. Wie genau es gilt eine Satzung zu konstruieren das sie nicht hackbar ist, ist nur ganz bedingt Gegenstand unserer Überlegungen. Ein Beispiel ist im Bastelabschnitt niedergelegt. ^[Abschnitt 2 Basterl...]  
-Bei den Grundbedingungen dürfen wir nicht sparen, sie müssen **radikal trivial**, also eingängig, herausfordernd und umfassend sein, sie bilden den Kern des _abwegigen Sektierertum_ dem wir uns verschrieben haben.  
+Bei den Grundbestimmungen dürfen wir nicht sparen, sie müssen **radikal trivial**, also eingängig, herausfordernd und umfassend sein, sie bilden den Kern des _abwegigen Sektierertum_ dem wir uns verschrieben haben.  
 Der Zentrale Kern der alle Grundbestimmungen ausmacht ist die **Sorge für unsere Kinder**, es ist die Frage aus dem Prolog: **Wie kann unsere Gesellschaft aufgebaut und strukturiert sein, sodass sie unseren Kindern eine gute Gesellschaft und Gemeinschaft bietet?**  
 Es ist eine universelle Frage, sie ist uns Menschen gegeben, unabhängig von Kultur und Glaube, unabhängig vom Ort ja sogar der Zeit, denn wir haben gesehen wie sehr **wir alle** also **jeder von uns** Abhängig von der Zukunft ist. Aber nicht nur diese Zukunftsabhänigkeit ist eine universelle, wichtiger ist diese einfache Wahrheit: Das **jeder von uns** ein Kind war. Wir Erwachsene waren Kinder die in dieser Gesellschaft und Gemeinschaft aufgewachsen sind. Universell ist der Erfahrungszugang eines jeden von uns. Nicht _was_ aber _das_ wir eine Erfahrung vom Kindsein haben ist uns allen gemeinsam. Diese Individuelle Erfahrung ist zugleich eine kollektive und universelle. Wir Menschen werden geboren und besorgt, unserer Hilflosigkeit wird entsprochen. Wir alle tragen das Mal an dem wir uns erkennen können. ^[vgl. das Kartesische Subjekt und sein Bauchnabel] Dieses Mal markiert die von Camus gesuchte Natur des Menschen. Es ist die Hilflosigkeit, das angewiesen sein um Leben zu können. 
 
@@ -137,10 +137,8 @@ Die Zeit unseres Lebens ist unwiederbringlich und vergeht, darum ist sie ein Sch
 
 ### Kooperation statt Wettbewerb
 
-Der Wettbewerb ist ein Feind der Gemeinschaft. Er fördert die
-Vereinzelung des Menschen und stört die natürliche Offenheit und die
-kooperativen Fähigkeiten der Menschen. Damit macht er alle Menschen
-unglücklich, denn Menschen sind Wesen der Gemeinschaft.
+Der Wettbewerb ist ein Feind der Gemeinschaft. Er fördert die Vereinzelung des Menschen und stört die natürliche Offenheit und die kooperativen Fähigkeiten der Menschen. Damit macht er alle Menschen unglücklich, denn Menschen sind Wesen der Gemeinschaft.  
+Der Wettbewerb den der Pastor Gauck so lobpreist^[https://www.bundespraesident.de/SharedDocs/Reden/DE/Joachim-Gauck/Reden/2014/01/140116-Walter-Eucken_Institut.html] ist der kleine Bruder des Neides und Neid ist keine schönes gefühl, keine produktive Kraft, er ist zersetzend für gemeinschaften, schon der Gott der Christen wussten das und hat ihn verboten.  
 
 ### Bekenntnis zu den universellen Menschenrechten
 

@@ -16,3 +16,15 @@ Konkret kann das bedeuten das die Bestimmten Menschen in kurzen Zeiträumen best
 Wir übernehmen sie Idee einer elektronischen 'ständigen Mitglieder Konferenz' von den Piraten, denn der Kern der Partei kann nur basis Demokatisch sein^[vgl. faq/Wieso ist "ohne Ausnahme" so zentral?].  
 Um auf die Gegenwart bezogen zu sein, muß die Partei mit den örtlichen Bürgerinitativen in Kommunikation sein. Mit einen "Koordinationsrat" auf der entsprechenden Ebene, "Bund,Land,Kreis" werden die Vorschläge der Bürgerinitativen in den Partei internen politischen Prozess eingearbeitet. Die Partei kann auch direkt organisatorisch unterstützend wirken.
 
+## Wer wird wie und warum Politiker in Deutschland
+
+> When it rain's 
+the dirt don't away ^[Chris Korda, When it rains]
+
+Wir frage hier nach dem Selektionsprozess mit dem wir die Menschen bestimmen die Politik betreiben. Diese Frage ist in so fern eine wichtige, da hier der erste echte Filter ist: Nur die die zur Auswahl stehen können überhaupt gewählt werden.  
+Wenn wir dem Deutschen Politkpersonal keine gute Note ausstellen, dann liegt aber nicht am Personal, es liegt an den Verfahren die wir einsetzen um dieses Personal zu bestimmen.  
+In der Deutschen Standard Partei ist es in etwa wie folgt, die untersten Ebenen, meist die Kreis Gruppen, bestimmten die nächste Ebene in dem sie aus ihrer Mitte Delegierte auswählen die dann als neues Gremium den selben Mechanismus anwenden um ihrerseits die nächste Ebene zu bestimmen.  
+In Jeder dieser Ebene wird der selbe Filter angewendet, wie in der Homeopatie, durch die expotentielle Verdünnung, ist am Ende nichts mehr da, kein Einziger Fähiger, kein Molekül. Ob sich der Geist, die Schwingung, bzw. die Wirkung des nicht vorhandenen in dem Trägermaterial noch zeitigt muss an dieser stelle offen bleiben.  
+Wir haben es mit einem Klassischen Rahmenfehler ^[ Personen haben per se keine Möglichkeit in Stichprobe zu gelangen, https://www.studydrive.net/de/flashcards/population-stichprobe-selektionsfehler-stichprobenauswahl-deduktion-induktion-studiendesigns/47855] zu tun. Jede Ebene der Delegation ist ein Rahmenfehler der als Filter wirkt, er selektiert genau jene nicht die am geeigneten wären, eine Verantwortungsvolle Position an zu nehmen und um zu setzten. Delegierte werden aus anderen Motiven heraus bestimmt.  Scheinbar ist diese Auswahl sehr einfach, so scheinen kleine Kinder, aufgefordert den Kaptain zu bestimmen, ein gutes Händchen zu haben den Kandidaten zu bestimmen der am Ende auch das Rennen gemacht hat. ^[ TODO: quelle suchen]
+
+

@@ -41,10 +41,14 @@ Das Bewustsein ist es was uns miteinander interagieren läßt, so Roy Baumeister
 
 Für uns Menschen ist unser Bewustsein nicht von der Gemeinschaft trennbar, die Gemeinschaft Formt das Bewustsein, das Bewustsein stiftet die Gemeinschaft.
 
-Und so Antworten wir der Neoliberalen Marget Thatcher auf ihre Aussage, "there is no such thing as society" ^[Thatcher, Margaret. 1987. ‘Interview for “Woman’s Own” (“No Such Thing as Society”). https://newlearningonline.com/new-learning/chapter-4/neoliberalism-more-recent-times/margaret-thatcher-theres-no-such-thing-as-society] "there is no such thing as a single person, this person could not even them self a person"
+Und so Antworten wir der Neoliberalen Marget Thatcher auf ihre Aussage, "there is no such thing as society" ^[Thatcher, Margaret. 1987. ‘Interview for “Woman’s Own” (“No Such Thing as Society”). https://newlearningonline.com/new-learning/chapter-4/neoliberalism-more-recent-times/margaret-thatcher-theres-no-such-thing-as-society] "there is no such thing as a single person, this person could not even them self a person"  
+Das Bewustsein läßt sich, für uns, nicht von der Gemeinschaft trennen.
 
+Nachdem wir uns mit der Natur des Bewusstseins auseinandergesetzt haben und die Bedeutung des Lebens sowie der verantwortungsvollen Verbindung zwischen den Generationen betrachtet haben, kehren wir zurück zu den Grundbestimmungen. Das Bewusstsein, als treibende Kraft für Interaktion und Gemeinschaft, wirft Licht auf die fundamentalen Werte, die den Kern unserer politischen Ausrichtung bilden.
 
-Das Bewustsein läßt sich für uns nicht von der Gemeinschaft trennen.
+Unsere Grundbestimmungen sind nicht nur ein Kompass, sondern auch eine Reflexion darüber, wie wir unser Bewusstsein in konkrete Handlungen umsetzen können. In einer Welt, die oft von Unsicherheit und Wettbewerb geprägt ist, dienen diese Bestimmungen als Leuchtturm für Solidarität, Gerechtigkeit und den Schutz unserer natürlichen Lebensgrundlagen.
+
+Der Übergang vom individuellen Bewusstsein zu kollektiven Werten verdeutlicht, dass unsere Verantwortung nicht nur auf persönlicher Ebene liegt, sondern sich auch in der Gestaltung unserer Gesellschaft und der Sicherung einer nachhaltigen Zukunft für kommende Generationen manifestiert. 
 
 
 * Paziﬁsmus
@@ -88,6 +92,7 @@ Auch der [Säkularismus](https://de.wikipedia.org/wiki/S%C3%A4kularismus) ist ei
 Durch die Verortung des Bewustseins in dieser Welt, sind wir nicht angewiesen auf metaphysishe Stiftung.  
 Wir heißen keinen Pabst eine Stellvertreter Gottes.  
 Der Liberalismus hat den Glauben in die Privatsphäre verlegt, aber wenn wir sagen das Private ist Politisch, dann ist auch die Religion Politisch. Deswegen ist der Glaube durchaus eine Politische Sache, die es zu diskutieren gilt.  
+Es gibt hier auch einen Bezug zu der ersten Grundbestimmung, dem Frieden, es scheint eingänig das die Vorstellung eines Jenseits und damit eine abkehr vom Wirklichen Leben den Jungen Männern erst den Krieg schackhaft machen kann, wenn der Tot nicht als eine absoluter Verlust erlebt wird, wenn er ein Tor zu eine anderen viel besseren Welt ist, dann erscheint er nicht als schrecklich, als vermeidenswert. So ist die Bereitschaft aller Glaubensrichtungen ihrer Krieger zu Segnen, die jungen Männer in den Krieg und ihrem Tod zu schicken, verbrieft und darf getrost als offenes Bekennis verstanden werden. 
 
 
 
@@ -99,7 +104,10 @@ Das ist die Aufforderung des Zahratusras, uns unsere Sterblichkeit zu klar zu ma
 > _„Ich beschwöre euch, meine Brüder, bleibt der Erde treu und glaubt Denen nicht, welche euch von überirdischen Hoffnungen reden! Giftmischer sind es, ob sie es wissen oder nicht.“_ [@nietzsche_1883 Seite 15]  
 
 Das ist ein Zentraler Kern, das wir Kinder haben führt uns auch unsere Sterblichkeit vor Augen. Sie zeigen auf den Übergang den wir darstellen, der über uns hinaus- und hinweg führt und gleichzeitig ein sprudelnden Quell der Erneuerung darstellt.  
-Wir werden sterben, auch unsere Kinder werden Sterben, aber auch sie werden Kinder haben, das ist der Strudel, der schaudernde Abgrund in den wir schauen können, aber in der vertikalen da entfaltet er sich als Spirale. Der Wasser durchflossene Strudel ist eine einfaches Bild für das Dasein als offenes System die Materie die er ist, verschwindet, sie ist nur im Moment ein Teil, im nächsten verschwindet sie im Abfluss, sie wird ersetzt durch nachströmende Materie, die Struktur des Strudel selbst ist nie die Materie selbst diese ist nur tempörärer Gast. 
+Wir werden sterben, auch unsere Kinder werden Sterben, aber auch sie werden Kinder haben, das ist der Strudel, der schaudernde Abgrund in den wir schauen können, aber in der vertikalen da entfaltet er sich als Spirale. Der Wasser durchflossene Strudel ist eine einfaches Bild für das Dasein als offenes System die Materie die er ist, verschwindet, sie ist nur im Moment ein Teil, im nächsten verschwindet sie im Abfluss, sie wird ersetzt durch nachströmende Materie, die Struktur des Strudel selbst ist nie die Materie selbst diese ist nur tempörärer Gast.  
+Eine Abker vom Jenseitigem ist ebnfalls eine abker vom Krieg und der Relligion, die Vorstellung des Jenseits, eines anderen Lebens, nach dem Leben, läßt den jungen Mann sorglos sein Leben wegwerfen, für eine höheres Ziel, bzw. einer Belohnung im Jenseits.  
+Wir wissen um unsere Sterblichkeit und um den Schatz den unser Lebenzeit darstellt. Denn dieser kann erst im richtigen Licht und im richtigen Blickwinkel funkeln und scheinen, und das Herz mit Glück erfüllen. Erst mit der einmaligkeit des Momentes, mit seiner Unwiederbringlichkeit, wird er schön und bedeutsam. Die Ewigkeit ist schaal dagegen, sie ist Alles und das immer wieder. Die Fülle wird so zur Leere.
+
 
 ### Strukturelle Unabgeschlossenheit
 
@@ -112,6 +120,7 @@ Wir sind bescheidene kritsche Rationalisten die wissen das sie wenig von der Wel
 Ein konservierender Umgang mit - bzw. die Wiederherstellung - einer gesunden und reichhaltigen Umwelt leitet sich zwangsläufig aus der Verantwortung für unsere Kinder und alle künftigen Generationen ab und hängt eng mit dem Begriff der [Nachhaltigkeit](/wiki/Nachhaltigkeit.md) zusammen.  
 Die natürlichen Lebensgrundlagen sind unsere Ressource, die das menschliche Leben auf dem Planeten Erde erst ermöglicht. Hieran, aus kurzfristigem Profitstreben heraus, Raubbau zu betreiben, ist Raub an den nachkommenden Generationen, erschwert diesen sogar das Überleben und muss daher als verantwortungsloses Handeln gegen unsere Kinder und Kindeskinder gewertet werden.  
 Wir bekennen uns zum Antropozän und der daraus resultierenden Verantwortung. Die Wirkung von uns Menschen auf die Erde ist inzwischen so groß, dass wir Hans Jonas Erweiterung des Kategorischen Imperativs berücksichtigen müssen, "Handle so, daß die Wirkungen deiner Handlungen verträglich sind mit der Permanenz echten menschlichen Lebens auf Erden."^[@DPV_2003 Seite 85]
+Es geht nicht um eine romantsiche Vorstellung der Natur, es geht um unsere Lebensgrundlage, nur diese können wir zerstören, nur die _Permanenz echten menschlichen Lebens auf Erden_ können wir gefährden. Die Welt und die Natur können wir nicht gefährden ^[vorausgesetzt wir können keine sog. runnaway Greenhouse effect erzeugen], sie würde über uns hinweggehen wie über die Dinosaurier oder die Trilobiten.
 
 
 
@@ -134,7 +143,7 @@ Die Gerechtigkeit ist die Basis des Leistungsprinzips und damit auch die Basis j
 ### Lebenszeit als Schatz
 
 Dass die Lebenszeit ein entscheidender Wert ist, folgt aus der Feststellung Hans Jonas, wonach das Leben einen Zweck für das Leben darstellt ^[@DPV_2003 Seite 142].  
-Die Zeit unseres Lebens ist unwiederbringlich und vergeht, darum ist sie ein Schatz. Ein Schatz den es zu teilen gilt, mit den Kindern, mit den Menschen, den Lieben. Als Primaten sind wir Wesen der Gemeinschaft und Lebenszeit, verbracht mit anderen Menschen, ist ein Geschenk. Wir müssen weniger Geld ausgeben, weniger Produkte verbrauchen - nicht nur aus Nachhaltigkeitsgründen. Wenn wir weniger Geld ausgeben, müssen wir weniger Geld verdienen und haben mehr freie Zeit.
+Die Zeit unseres Lebens ist unwiederbringlich und vergeht, darum ist sie ein Schatz. Ein Schatz den es zu teilen gilt, mit den Kindern, mit den Menschen, den Lieben. Als Primaten ^[vgl. Kaderschule/der Mensch als Primat] sind wir Wesen der Gemeinschaft und Lebenszeit, verbracht mit anderen Menschen, ist ein Geschenk. Wir müssen weniger Geld ausgeben, weniger Produkte verbrauchen - nicht nur aus Nachhaltigkeitsgründen. Wenn wir weniger Geld ausgeben, müssen wir weniger Geld verdienen und haben mehr freie Zeit.
 
 ### Kooperation statt Wettbewerb
 

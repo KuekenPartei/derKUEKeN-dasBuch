@@ -4,7 +4,7 @@ Die Frage des Politischen im Wirtschaften ist eine einfache, und sie wird immer 
 Diese einfache Tendenz ist durch Vilfredo Pareto ^[Pareto, Vilfredo, Cours d'Économie Politique: Nouvelle édition par G.-H. Bousquet et G. Busino, Librairie Droz, Geneva, 1964, S. 313–315. archiviertes Originalwerk in Französisch] das erste mal empirisch untersucht und beschrieben worden, eine Soziale Pyramide in der 80% des Grund und Bodens von 20% der Bevölkerung in Italien besessen wird. Für Pareto war die Zeitliche Entwicklung nicht ersichtlich. 
 Übersichtlicher wird die Darstellung durch die Lorenz-Kurve ^[ https://de.wikipedia.org/wiki/Lorenz-Kurve ] diese Darstellung der Vermögensverteilung pro Menschen ist normiert auf **alles** von **allen**. Diese Kurve passt also wunderbar in das Einheitsquadrat, ist handlich und wohlproportioniert.  
 
-Eine vollständige Gleichverteilung von Gütern und Dienstleistungen würde bedeuten, 1% der Menschen besäßen 1% dieser Güter und Dienstleistiungen, 20% besäßen 20%, 90% besäßen 90% usw. bis 100%. Diese Lorenzfunktion wäre eine Gerade Linie durch die Punkte (0,0) und (1,1).  
+Eine vollständige Gleichverteilung von Gütern und Dienstleistungen würde bedeuten, 1% der Menschen besäßen 1% dieser Güter und Dienstleistungen, 20% besäßen 20%, 90% besäßen 90% usw. bis 100%. Diese Lorenzfunktion wäre eine Gerade Linie durch die Punkte (0,0) und (1,1).  
 Mehr Gleichheit geht nicht. Der absolute elgatismus, in Wirtschaftlicher Hinsicht.  
 
 ![Gini Koeffizent 0](resources/gini-0.png){ width=50% }  
